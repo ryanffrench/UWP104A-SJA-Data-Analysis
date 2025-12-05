@@ -28,3 +28,5 @@ Average post-2020 referals per quarter: 362.5
 **All 141 Y grades were assigned in Winter 2017 in ECS30 - Programming & Problem Solving (Robert Gysel): 141 Y grades
 
 TODO: get the rest of the data from the registrar.
+
+Additional Note: I cannot ensure the accuracy of the Fall 2022 - Spring 2025 converted to JSON. Other than that the "Y" category is properly carried over. Converting to JSON was a hacky way to get all the data in the same format.
