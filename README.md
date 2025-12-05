@@ -9,8 +9,8 @@ Fall 2022 - Spring 2025 data is directly from the registrar made avalible to me 
 
 Results:
 
-Average pre-2020 referals per quarter: 166
-Average post-2020 referals per quarter: 362.5
+Average pre-2020 SJA referals per quarter: 166
+Average post-2022 (post-gen AI) SJA referals per quarter: 331.43
 
 5. Instructors who assigned the most Y grades:
 ========================================================
