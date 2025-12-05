@@ -25,7 +25,7 @@ Average post-2020 referals per quarter: 362.5
  9. Korana Burke: 73 Y grades
 10. Bevan Baas: 66 Y grades
 
-**All 141 Y grades were assigned in Winter 2017 in ECS30 - Programming & Problem Solving (Robert Gysel): 141 Y grades
+**All 141 Y grades were assigned in Winter 2017 in ECS30 - Programming & Problem Solving
 
 TODO: get the rest of the data from the registrar.
 
