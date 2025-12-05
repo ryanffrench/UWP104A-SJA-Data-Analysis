@@ -1,0 +1,243 @@
+================================
+Y GRADE ANALYSIS REPORT
+================================
+
+1. TOTAL Y GRADES PER QUARTER
+==============================
+FQ2016: 141 Y grades across 3244 courses
+FQ2017: 190 Y grades across 2891 courses
+FQ2018: 145 Y grades across 3038 courses
+FQ2019: 195 Y grades across 2533 courses
+FQ2020: 683 Y grades across 5035 courses
+FQ2021: 0 Y grades
+FQ2022: 0 Y grades
+SQ2017: 175 Y grades across 2455 courses
+SQ2018: 141 Y grades across 2607 courses
+SQ2019: 154 Y grades across 2092 courses
+SQ2020: 372 Y grades across 2732 courses
+SQ2022: 0 Y grades
+WQ2017: 278 Y grades across 2728 courses
+WQ2018: 173 Y grades across 2446 courses
+WQ2019: 211 Y grades across 3306 courses
+WQ2020: 250 Y grades across 2145 courses
+WQ2022: 0 Y grades
+2. TOP 10 CLASSES WITH MOST Y GRADES (PER QUARTER)
+===================================================
+Quarter: FQ2016
+-----------------
+     1	ECS154A - Computer Architecture (Sean Davis): 12 Y grades
+     2	ARE115A - Economic Development (Stephen Boucher): 7 Y grades
+     3	ANS1 - Domestic Anim & People (Russell Hovey): 6 Y grades
+     4	MAT022A - Linear Algebra (Tudor Dimofte): 5 Y grades
+     5	ECS30 - Programming&Prob Solving (Matthew Butner): 5 Y grades
+     6	ECN115A - Economic Development (Stephen Boucher): 5 Y grades
+     7	ETX101 - Principles Environ Tox (Michael Denison): 4 Y grades
+     8	ECS60 - Data Structures and Prog (Sean Davis): 4 Y grades
+     9	ECN132 - Health Economics (A Cameron): 4 Y grades
+    10	BIS002A - Introduction to Biology (Michele Igo): 4 Y grades
+Quarter: FQ2017
+-----------------
+     1	ECS10 - Intro to Programming (Matthew Butner): 31 Y grades
+     2	ECS154A - Computer Architecture (Sean Davis): 19 Y grades
+     3	MAT021C - Calculus (Gregory Kuperberg): 15 Y grades
+     4	MAT021B - Calculus (Benjamin Morris): 6 Y grades
+     5	ECS60 - Data Structures and Prog (Sean Davis): 6 Y grades
+     6	NPB101L - Systemic Physiology Lab (Erwin Bautista): 5 Y grades
+     7	ECS140A - Programming Languages (Zhendong Su): 5 Y grades
+     8	ARE106 - Econometrics (Aaron Smith): 5 Y grades
+     9	MAT021A - Calculus (Andre Kornell): 4 Y grades
+    10	MAT017A - Calculus for BioSci (Robert Guy): 4 Y grades
+Quarter: FQ2018
+-----------------
+     1	ECS150 - Operating Systems (Christopher Nitta): 11 Y grades
+     2	ECN132 - Health Economics (A Cameron): 10 Y grades
+     3	ECS036C - Data Structures (Joel Porquet): 7 Y grades
+     4	ECS032B - Intro to Data Structures (Kurt Eiselt): 7 Y grades
+     5	ECN190 - Topics In Economics (Santiago Perez): 7 Y grades
+     6	ECH1 - Design of Coffee (Tonya Kuhl): 6 Y grades
+     7	STA130A - Brief Math Stat (Can Le): 5 Y grades
+     8	MUS10 - Intro Music Lit (Rebecca Plack): 4 Y grades
+     9	MAT021D - Vector Analysis (Shiqian Ma): 4 Y grades
+    10	PHI15 - Intro to Bioethics (Christina Rulli): 3 Y grades
+Quarter: FQ2019
+-----------------
+     1	ECS032A - Intro to Programming (Aaron Kaloti): 25 Y grades
+     2	ECS154A - Computer Architecture (Matthew Butner): 21 Y grades
+     3	ECS34 - Dev in UNIX & C++ (Christopher Nitta): 20 Y grades
+     4	PHY001A - Principles Physics (Vsevolod Ivanov): 12 Y grades
+     5	ARE100B - Intermed Microeconomics (Rachael Goodhue): 12 Y grades
+     6	STA108 - Regression Analysis (Joanna Whitener): 9 Y grades
+     7	MAT016A - Short Calculus (Duane Kouba): 7 Y grades
+     8	UWP101 - Advanced Composition (Rachel Simon): 6 Y grades
+     9	PHY102 - Computationl Lab Phyiscs (Manuel Calderon De La Barca Sanchez): 4 Y grades
+    10	HDE12 - Human Sexuality (Lisa Rapalyea): 4 Y grades
+Quarter: FQ2020
+-----------------
+     1	CLA10 - Gk, Rom & Near East Myth (Melissa Stem): 83 Y grades
+     2	NPB110A - Molecules to Individuals (Aldrin Gomes): 54 Y grades
+     3	NPB101L - Systemic Physiology Lab (Erwin Bautista): 41 Y grades
+     4	NPB101 - Systemic Physiology (Natalia Caporale): 38 Y grades
+     5	PHY009A - Classical Physics (Samuel Blitz): 35 Y grades
+     6	ECS036A - Programming (Aaron Kaloti): 35 Y grades
+     7	ECN101 - Intermed Macro Theory (Derek Stimel): 26 Y grades
+     8	CHE118A - Organic Chem Health Sci (Sarah Lievens): 24 Y grades
+     9	ABI102 - Animal Biochem & Metabol (Michael Mienaltowski): 23 Y grades
+    10	ARE172 - Financial Mgmt of Firm (Ryan Goodrich): 19 Y grades
+Quarter: SQ2017
+-----------------
+     1	EEC180B - Digital Systems II (Bevan Baas): 32 Y grades
+     2	ECS140A - Programming Languages (Christopher Nitta): 20 Y grades
+     3	ECS10 - Intro to Programming (Nelson Max): 20 Y grades
+     4	UWP23 - Advancd Multiling Wrtng (Cynthia Davis): 10 Y grades
+     5	MAT016B - Short Calculus (Duane Kouba): 9 Y grades
+     6	BIS002A - Introduction to Biology (Anne Britt): 5 Y grades
+     7	MAT017B - Calculus for BioSci (Duane Kouba): 4 Y grades
+     8	ECH145B - Chem Eng Transport Lab (William Ristenpart): 4 Y grades
+     9	BIS002C - Introduction to Biology (Joel Ledford): 4 Y grades
+    10	STA104 - Nonparametric Statistics (Erin Melcon): 3 Y grades
+Quarter: SQ2018
+-----------------
+     1	ECS30 - Programming&Prob Solving (Joel Porquet): 11 Y grades
+     2	ARE100B - Intermed Microeconomics (Douglas Larson): 11 Y grades
+     3	EEC180B - Digital Systems II (Bevan Baas): 10 Y grades
+     4	ECS150 - Operating Systems (Joel Porquet): 8 Y grades
+     5	ECS15 - Intro to Computers (Jeremy Mason): 7 Y grades
+     6	ENG45 - Properties of Materials (James Shackelford): 6 Y grades
+     7	ECS165A - Database Systems (Christopher Nitta): 5 Y grades
+     8	PHI013G - Minds Brains Comp w/Disc (Jonathan Dorsey): 4 Y grades
+     9	BIS002C - Introduction to Biology (Brian Moore): 4 Y grades
+    10	PHY007B - General Physics (Cameron Langer): 3 Y grades
+Quarter: SQ2019
+-----------------
+     1	MAT022A - Linear Algebra (Elbridge Puckett): 29 Y grades
+     2	ECS036C - Data Structures (Joel Porquet): 21 Y grades
+     3	ARE100B - Intermed Microeconomics (Douglas Larson): 14 Y grades
+     4	MAT016C - Short Calculus (Duane Kouba): 7 Y grades
+     5	EEC180 - Digital Systems II (Bevan Baas): 5 Y grades
+     6	LIN177 - Computational Linguistic (Glen Heinrich-Wallace): 4 Y grades
+     7	LIN1 - Intro Linguistics (Kristen Greer): 4 Y grades
+     8	ECS150 - Operating Systems (Joel Porquet): 4 Y grades
+     9	ECS032A - Intro to Programming (Nathan Hanford): 4 Y grades
+    10	CMN102 - Empirical Methods Commun (Robert Bell): 4 Y grades
+Quarter: SQ2020
+-----------------
+     1	ECS150 - Operating Systems (Christopher Nitta): 49 Y grades
+     2	MAT017B - Calculus for BioSci (Korana Burke): 48 Y grades
+     3	BIS104 - Cell Biology (Silvia Carrasco Garcia): 41 Y grades
+     4	ECS089L - Computer Science (Christopher Nitta): 23 Y grades
+     5	EEC180 - Digital Systems II (Bevan Baas): 14 Y grades
+     6	ECS032B - Intro to Data Structures (Matthew Butner): 14 Y grades
+     7	ECN102 - Analysis of Econ Data (A Cameron): 14 Y grades
+     8	NPB110A - Molecules to Individuals (Talitha Van Der Meulen): 13 Y grades
+     9	MAT021B - Calculus (Thomas Strohmer): 10 Y grades
+    10	ECS036A - Programming (Aaron Kaloti): 10 Y grades
+Quarter: WQ2017
+-----------------
+     1	ECS30 - Programming&Prob Solving (Robert Gysel): 141 Y grades
+     2	ECN001B - Princ Of Macroecon (Katheryn Russ): 9 Y grades
+     3	BIS002C - Introduction to Biology (Neelima Sinha): 9 Y grades
+     4	CMN122 - Nonverbal Communication (Steven Brunner): 8 Y grades
+     5	MAT021B - Calculus (Duane Kouba): 6 Y grades
+     6	ECS140A - Programming Languages (Zhendong Su): 6 Y grades
+     7	STA135 - Multivar Data Analysis (Balakanapathy Rajaratnam): 5 Y grades
+     8	ECH145A - Chem Eng Thermo Lab (Gregory Miller): 5 Y grades
+     9	GEL17 - Earthquakes & Hazards (Alexander Morelan): 4 Y grades
+    10	PSC1 - General Psychology (Adam Blalock): 3 Y grades
+Quarter: WQ2018
+-----------------
+     1	ECS10 - Intro to Programming (Nelson Max): 22 Y grades
+     2	ECN132 - Health Economics (A Cameron): 19 Y grades
+     3	ECS150 - Operating Systems (Joel Porquet): 12 Y grades
+     4	MAT016A - Short Calculus (Duane Kouba): 11 Y grades
+     5	BIS002C - Introduction to Biology (Neelima Sinha): 8 Y grades
+     6	CMN003Y - Interpersonal Comm Comp (Jeanette Ruiz): 6 Y grades
+     7	MAT021B - Calculus (Dan Romik): 5 Y grades
+     8	DES127A - Sustainable Design (Beth Ferguson): 5 Y grades
+     9	MAT017B - Calculus for BioSci (Andre Kornell): 4 Y grades
+    10	ECS132 - Prob & Sta Model for CS (Norman Matloff): 4 Y grades
+Quarter: WQ2019
+-----------------
+     1	ECS154A - Computer Architecture (Matthew Butner): 19 Y grades
+     2	ECS032A - Intro to Programming (Nelson Max): 15 Y grades
+     3	ECS032A - Intro to Programming (Nathan Hanford): 15 Y grades
+     4	MAT150A - Modern Algebra (Monica Vazirani): 14 Y grades
+     5	ARE100B - Intermed Microeconomics (Douglas Larson): 11 Y grades
+     6	AST010G - Stars Galaxies Universe (Andrew Wetzel): 7 Y grades
+     7	ARE136 - Managerial Marketing (Kristin Kiesel): 7 Y grades
+     8	MAT021B - Calculus (Brian Osserman): 6 Y grades
+     9	SOC1 - Intro Sociology (David Orzechowicz): 5 Y grades
+    10	PHY009C - Classical Physics (Joseph Mitchell): 5 Y grades
+Quarter: WQ2020
+-----------------
+     1	PHI007Y - Phil Persp on Sexuality (Adam Sennet): 30 Y grades
+     2	ECS032A - Intro to Programming (Nelson Max): 30 Y grades
+     3	NPB110A - Molecules to Individuals (Erwin Bautista): 28 Y grades
+     4	MAT135A - Probability (Benjamin Morris): 26 Y grades
+     5	ECS122A - Algorithm Design & Anyls (Aaron Kaloti): 26 Y grades
+     6	CLA10 - Gk, Rom & Near East Myth (Melissa Stem): 14 Y grades
+     7	ANT1 - Human Evolutionary Bio (Stephanie Etting): 8 Y grades
+     8	ECS150 - Operating Systems (Joel Porquet): 7 Y grades
+     9	CMN010V - Intro to Communication (John Theobald): 7 Y grades
+    10	MAT017A - Calculus for BioSci (Korana Burke): 5 Y grades
+3. COURSES WITH Y GRADES vs TOTAL COURSES PER QUARTER
+======================================================
+FQ2016: 74 courses with Y grades / 1560 total courses (4.7%)
+FQ2017: 62 courses with Y grades / 1581 total courses (3.9%)
+FQ2018: 70 courses with Y grades / 1598 total courses (4.4%)
+FQ2019: 58 courses with Y grades / 1569 total courses (3.7%)
+FQ2020: 114 courses with Y grades / 1475 total courses (7.7%)
+SQ2017: 56 courses with Y grades / 1552 total courses (3.6%)
+SQ2018: 59 courses with Y grades / 1596 total courses (3.7%)
+SQ2019: 48 courses with Y grades / 1548 total courses (3.1%)
+SQ2020: 65 courses with Y grades / 1449 total courses (4.5%)
+WQ2017: 62 courses with Y grades / 1517 total courses (4.1%)
+WQ2018: 56 courses with Y grades / 1554 total courses (3.6%)
+WQ2019: 76 courses with Y grades / 1578 total courses (4.8%)
+WQ2020: 49 courses with Y grades / 1522 total courses (3.2%)
+4. TOTAL Y GRADES PER YEAR
+==========================
+2016: 141 Y grades across 3244 courses (of 63350 total)
+2017: 643 Y grades across 8074 courses (of 188999 total)
+2018: 459 Y grades across 8091 courses (of 192999 total)
+2019: 560 Y grades across 7931 courses (of 190910 total)
+2020: 1305 Y grades across 9912 courses (of 181502 total)
+2021: 0 Y grades across 0 courses (of 70302 total)
+2022: 0 Y grades across 0 courses (of 350921 total)
+5. TOP 10 INSTRUCTORS WITH MOST Y GRADES (ALL QUARTERS)
+========================================================
+ 1. Robert Gysel: 141 Y grades
+ 2. Christopher Nitta: 138 Y grades
+ 3. Matthew Butner: 101 Y grades
+ 4. Aaron Kaloti: 99 Y grades
+ 5. Melissa Stem: 97 Y grades
+ 6. Erwin Bautista: 90 Y grades
+ 7. Nelson Max: 87 Y grades
+ 8. Joel Porquet: 80 Y grades
+ 9. Korana Burke: 68 Y grades
+10. Bevan Baas: 65 Y grades
+6. SUMMARY STATISTICS
+=====================
+Total Y grades across all quarters: 3108
+Total courses with Y grades: 849
+Total courses (all): 30782
+Percentage of courses with Y grades: 2.00%
+Average Y grades per course (with Y>0): 3.66
+7. QUARTERS ANALYZED
+====================
+FQ2016
+FQ2017
+FQ2018
+FQ2019
+FQ2020
+FQ2021
+FQ2022
+SQ2017
+SQ2018
+SQ2019
+SQ2020
+SQ2022
+WQ2017
+WQ2018
+WQ2019
+WQ2020
+WQ2022
