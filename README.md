@@ -13,7 +13,7 @@ Average pre-2020 SJA referals per quarter: 166
 
 Average post-2022 (post-gen AI) SJA referals per quarter: 331.43
 
-5. Instructors who assigned the most Y grades:
+Instructors who assigned the most Y grades:
 ========================================================
  1. Christopher Nitta: 153 Y grades
  2. Robert Gysel: 141 Y grades**
