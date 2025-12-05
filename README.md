@@ -5,7 +5,7 @@ Spring Quarter 2024 and Fall Quarter 2024 are ommited due to technical reasons.
 
 2016 - 2020 data is scraped from https://www.aggieexplorer.com/
 
-Fall 2022 - Spring 2025 data is directly from the registrar.
+Fall 2022 - Spring 2025 data is directly from the registrar made avalible to me by [Davis AggieWorks](https://aggieworks.org/)
 
 Results:
 
