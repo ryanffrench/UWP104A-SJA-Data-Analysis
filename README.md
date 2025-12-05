@@ -29,4 +29,4 @@ Average post-2020 referals per quarter: 362.5
 
 TODO: get the rest of the data from the registrar.
 
-Additional Note: I cannot ensure the accuracy of the Fall 2022 - Spring 2025 converted to JSON. Other than that the "Y" category is properly carried over. Converting to JSON was a hacky way to get all the data in the same format.
+Additional Note: I cannot ensure the accuracy of the Fall 2022 - Spring 2025 data converted to JSON. Other than that the "Y" category is properly carried over. Converting to JSON was a hacky way to get all the data in the same format.
