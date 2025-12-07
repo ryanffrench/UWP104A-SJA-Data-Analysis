@@ -1,7 +1,7 @@
 This is an analysis of grade distribution data with the goal of aggregating OSSJA related data.
 
 Grade distribution data is from Fall Quarter 2016 - Fall Quarter 2020 & Fall 2022 - Spring 2025. 
-Spring Quarter 2024 and Fall Quarter 2024 are ommited due to technical reasons.
+Spring Quarter 2024 and Fall Quarter 2024 are ommited due to technical reasons (the data I recieved for these quarters does not include Y grades).
 
 2016 - 2020 data is scraped from https://www.aggieexplorer.com/
 
@@ -28,6 +28,6 @@ Instructors who assigned the most Y grades:
 
 **All 141 Y grades were assigned in Winter 2017 in ECS30 - Programming & Problem Solving
 
-TODO: get the rest of the data from the registrar.
+TODO: get the rest of the data from the registrar + SQ24 and FQ24
 
 Additional Note: I cannot ensure the accuracy of the Fall 2022 - Spring 2025 data converted to JSON. Other than that the "Y" category is properly carried over. Converting to JSON was a hacky way to get all the data in the same format.
