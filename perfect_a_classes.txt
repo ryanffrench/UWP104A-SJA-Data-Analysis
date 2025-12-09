@@ -1,0 +1,2355 @@
+================================
+PERFECT A CLASSES ANALYSIS
+Classes with ONLY A+, A-, or A grades
+================================
+
+1. PERFECT A CLASSES PER QUARTER
+=================================
+FQ2016: 2081 classes
+FQ2017: 2200 classes
+FQ2018: 2505 classes
+FQ2019: 2462 classes
+FQ2020: 2156 classes
+FQ2022: 8050 classes
+FQ2023: 6335 classes
+FQ2024: 7000 classes
+SQ2017: 2152 classes
+SQ2018: 1774 classes
+SQ2019: 2226 classes
+SQ2020: 4130 classes
+SQ2023: 6965 classes
+SQ2025: 6580 classes
+WQ2017: 1944 classes
+WQ2018: 1935 classes
+WQ2019: 2266 classes
+WQ2020: 3330 classes
+WQ2024: 7700 classes
+WQ2025: 7735 classes
+2. ALL PERFECT A CLASSES (BY QUARTER)
+======================================
+Quarter: FQ2016
+-----------------
+     1	AED160 - Vocational Education (Lloyd Mccabe): A+=0, A=12, A-=5
+     2	CHI021S - Health Issues (Yvette Flores): A+=10, A=10, A-=3
+     3	CHI145S - Bi-National Health (Yvette Flores): A+=10, A=10, A-=4
+     4	CHI147S - Hemispheric Health (Yvette Flores): A+=15, A=7, A-=2
+     5	CHI155 - Chicano Theater (A. Chabram-Dernersesian): A+=38, A=5, A-=0
+     6	CHI171 - Mex/Chi Mural Wkshp (Maceo Montoya): A+=1, A=10, A-=1
+     7	DES117 - Interactive Media I (David Hurwich): A+=0, A=30, A-=0
+     8	DES37 - Coding for Designers (Spencer Mathews): A+=1, A=12, A-=0
+     9	DRA10 - Intro To Acting (Alvaro Ivan Hernandez Rodriguez): A+=0, A=21, A-=2
+    10	DRA180A - Theatre Lab: Performance (Peter Lichtenfels): A+=0, A=20, A-=0
+    11	DRA180D - Theatre Lab Crew (Robin Gray): A+=2, A=9, A-=0
+    12	DRA180F - Costume Lab (Maggie Morgan): A+=0, A=10, A-=0
+    13	ECI140L - Env Analysis Aqu Sys Lab (Jeannie Darby): A+=0, A=11, A-=0
+    14	ENH101 - Trees of Urban Forest (James Harding): A+=0, A=12, A-=0
+    15	ENL005F - Writing: Fiction (Arthur Middleton): A+=4, A=8, A-=9
+    16	EVE120 - Global Change Ecology (Donald Strong): A+=14, A=0, A-=0
+    17	FRS1 - First-Year Seminar (Cristiana Giordano): A+=3, A=9, A-=1
+    18	FRS1 - First-Year Seminar (Cristina Gonzalez): A+=0, A=12, A-=0
+    19	FRS1 - First-Year Seminar (John Bolander): A+=0, A=11, A-=1
+    20	FRS1 - First-Year Seminar (Mika Pelo): A+=0, A=16, A-=0
+    21	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    22	FRS2 - First-Year Seminar (Alberto Odor): A+=0, A=38, A-=0
+    23	FRS2 - First-Year Seminar (Carolyn Thomas): A+=16, A=2, A-=0
+    24	FRS2 - First-Year Seminar (David Follette): A+=2, A=17, A-=0
+    25	FRS2 - First-Year Seminar (Gerhard Bauer): A+=10, A=7, A-=0
+    26	FRS2 - First-Year Seminar (Ian Korf): A+=2, A=13, A-=0
+    27	FRS2 - First-Year Seminar (Jeffrey Weiner): A+=8, A=1, A-=2
+    28	FRS2 - First-Year Seminar (John Richards): A+=0, A=19, A-=0
+    29	FRS2 - First-Year Seminar (Joseph Dumit): A+=0, A=15, A-=0
+    30	FRS2 - First-Year Seminar (Konstantinos Zarbalis): A+=4, A=8, A-=3
+    31	FRS2 - First-Year Seminar (Mohamed Hafez): A+=0, A=18, A-=0
+    32	FRS2 - First-Year Seminar (Nicholas Palomares): A+=0, A=14, A-=0
+    33	FSM120L - Production Lab (Francene Steinberg): A+=0, A=24, A-=3
+    34	HIS104A - Intro To Research (Edward Dickinson): A+=0, A=12, A-=0
+    35	HNR090X - Honors Discussion Sec (Thomas Gordon): A+=8, A=30, A-=0
+    36	IAD160 - Agroforestry (Thomas Gradziel): A+=5, A=11, A-=0
+    37	IST008A - Natural Sci & Math (Denneal Jamison-McClung): A+=5, A=10, A-=0
+    38	MSC022A - Team Leadership (Michael Mcgowan): A+=0, A=13, A-=0
+    39	MSC143 - Army Mngmt Systems (Brian Knieriem): A+=0, A=12, A-=3
+    40	MUS103 - Wrkshp in Composition (Laurie San Martin): A+=0, A=3, A-=7
+    41	MUS122 - Topics Anlys & Theory (Kurt Rohde): A+=0, A=7, A-=4
+    42	MUS131A - Voice (Jonathan Nadel): A+=4, A=5, A-=2
+    43	NAS12 - NA Film (Hulleah Tsinhnahjinnie): A+=11, A=7, A-=0
+    44	NUT190 - Proseminar in Nutrition (Fawaz Haj): A+=40, A=14, A-=2
+    45	PER1 - Elementary Persian (Samir Noory): A+=1, A=23, A-=1
+    46	PLB148 - Introductory Mycology (David Rizzo): A+=1, A=17, A-=2
+    47	PLS110C - Crop Mgmt Vegetables (Jeffrey Mitchell): A+=0, A=30, A-=1
+    48	PLS160 - Agroforestry (Thomas Gradziel): A+=7, A=18, A-=0
+    49	PLS172 - Postharvest Physiology (Carlos Crisosto): A+=10, A=2, A-=1
+    50	POL190 - Intl Relations (Zeev Maoz): A+=0, A=2, A-=21
+    51	POR31 - Port for Span Speakers (Eugenia Magnoli Da Silva Fernandes): A+=6, A=2, A-=4
+    52	PSC180C - Res In Social-Pers (Alison Ledgerwood): A+=1, A=11, A-=0
+    53	PSC180C - Res In Social-Pers (Simine Vazire): A+=1, A=8, A-=1
+    54	UWP1 - Academic Literacies (Rebecca Hogue): A+=7, A=13, A-=3
+Quarter: FQ2017
+-----------------
+     1	AHI190H - Seminar Mod-Contemp Art (James Housefield): A+=19, A=0, A-=1
+     2	ANT137 - Meditation & Culture (Alan Klima): A+=0, A=15, A-=0
+     3	BIM189C - Biomedical Engineering (Jennifer Choi): A+=4, A=5, A-=1
+     4	CHI021S - Health Issues (Yvette Flores): A+=14, A=2, A-=0
+     5	CHI122 - Psy Pers Chi Family (Monica Torreiro-Casal): A+=2, A=90, A-=5
+     6	CHI145S - Bi-National Health (Yvette Flores): A+=6, A=10, A-=0
+     7	CHI147S - Hemispheric Health (Yvette Flores): A+=8, A=5, A-=3
+     8	CHN10 - Mod Lit In Transl (Xiaomei Chen): A+=0, A=21, A-=0
+     9	DRA042B - Intermediate Ballet (Stuart Carroll): A+=0, A=16, A-=2
+    10	DRA10 - Intro To Acting (Joseph Schupbach): A+=25, A=0, A-=0
+    11	DRA10 - Intro To Acting (Thomas Burmester): A+=0, A=23, A-=0
+    12	DRA180A - Theatre Lab: Performance (Mindy Cooper): A+=8, A=4, A-=3
+    13	DRA180F - Costume Lab (Maggie Morgan): A+=0, A=19, A-=0
+    14	DRA198 - Directed Gp Study (Ante Ursic): A+=5, A=7, A-=1
+    15	FRS1 - First-Year Seminar (Bassam Younis): A+=1, A=12, A-=1
+    16	FRS1 - First-Year Seminar (Cristiana Giordano): A+=0, A=13, A-=0
+    17	FRS1 - First-Year Seminar (Emma Grigg): A+=13, A=4, A-=2
+    18	FRS1 - First-Year Seminar (John Bolander): A+=0, A=12, A-=1
+    19	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    20	FRS1 - First-Year Seminar (Rajiv Singh): A+=2, A=16, A-=0
+    21	FRS2 - First-Year Seminar (Alberto Odor): A+=2, A=29, A-=0
+    22	FRS2 - First-Year Seminar (Alessa Johns): A+=0, A=13, A-=0
+    23	FRS2 - First-Year Seminar (Carlos Puente): A+=6, A=5, A-=2
+    24	FRS2 - First-Year Seminar (Carolyn Thomas): A+=16, A=14, A-=0
+    25	FRS2 - First-Year Seminar (Gerhard Bauer): A+=3, A=12, A-=0
+    26	FRS2 - First-Year Seminar (Ines Hernandez-Avila): A+=0, A=10, A-=0
+    27	FRS2 - First-Year Seminar (James Carey): A+=0, A=10, A-=0
+    28	FRS2 - First-Year Seminar (Josephine Andrews): A+=14, A=0, A-=1
+    29	FRS2 - First-Year Seminar (Mairaj Syed): A+=0, A=14, A-=0
+    30	FRS2 - First-Year Seminar (Marina Ellefson Crowder): A+=0, A=15, A-=0
+    31	FRS2 - First-Year Seminar (Melissa Bauman): A+=14, A=3, A-=0
+    32	FRS2 - First-Year Seminar (Rebecca Ambrose): A+=3, A=17, A-=0
+    33	FRS2 - First-Year Seminar (Richard Scalettar): A+=1, A=9, A-=0
+    34	FRS2 - First-Year Seminar (Robert Newcomb): A+=0, A=13, A-=2
+    35	FRS2 - First-Year Seminar (Sarah Faye): A+=12, A=3, A-=0
+    36	FRS2 - First-Year Seminar (Shirley Chiang): A+=3, A=6, A-=4
+    37	FRS2 - First-Year Seminar (Tessa Hill): A+=15, A=1, A-=0
+    38	FSM120L - Production Lab (Francene Steinberg): A+=5, A=18, A-=3
+    39	GER143 - Language Through Media (Carlson Arnett): A+=0, A=11, A-=2
+    40	HNR090X - Honors Discussion Sec (Alessa Johns): A+=8, A=5, A-=0
+    41	IST008A - Natural Sci & Math (Mohamed Hafez): A+=0, A=15, A-=0
+    42	ITA121S - New Italian Cinema (Margherita Heyer): A+=1, A=10, A-=1
+    43	LDA160 - Design & Build Studio (Anna Kiers): A+=9, A=19, A-=7
+    44	MSC022A - Team Leadership (Michael Mcgowan): A+=31, A=0, A-=0
+    45	MSC11 - Intro to Army Leadership (Michael Mcgowan): A+=30, A=6, A-=0
+    46	MUS10 - Intro Music Lit (Anna Busse Berger): A+=16, A=5, A-=1
+    47	MUS122 - Topics Anlys & Theory (Kurt Rohde): A+=11, A=1, A-=0
+    48	MUS131A - Voice (Zoila Munoz-Diaz): A+=5, A=5, A-=0
+    49	PLS172 - Postharvest Physiology (Barbara Blanco-Ulate): A+=7, A=6, A-=0
+    50	POL190 - Intl Relations (John Scott): A+=0, A=29, A-=0
+    51	POR31 - Port for Span Speakers (Eugenia Magnoli Da Silva Fernandes): A+=5, A=2, A-=3
+    52	PSC180C - Res In Social-Pers (Alison Ledgerwood): A+=0, A=11, A-=0
+    53	RUS101A - Advanced Russian (Liliana Avramenko): A+=1, A=8, A-=2
+    54	SPA148S - Spanish Language Cinema (Maria Colombi): A+=7, A=10, A-=1
+    55	SPA159S - Topics in Lat Am Lit Cul (Maria Colombi): A+=4, A=7, A-=1
+    56	SPA170S - Intro Latin Amer Culture (Maria Colombi): A+=4, A=5, A-=3
+    57	UWP104T - Technical Writing (Katherine Gossett): A+=1, A=37, A-=13
+Quarter: FQ2018
+-----------------
+     1	AHI190H - Seminar Mod-Contemp Art (James Housefield): A+=2, A=11, A-=0
+     2	ANS136 - Tech of Fish Culture (Michael Miller): A+=0, A=22, A-=1
+     3	ART9 - Beginning Photography (Matthew Baum): A+=0, A=11, A-=10
+     4	BIM189C - Biomedical Engineering (Jennifer Choi): A+=4, A=16, A-=0
+     5	BIS023A - Genome Hunters (Marc Facciotti): A+=0, A=8, A-=2
+     6	COM166B - The Novel (Timothy Parrish): A+=0, A=8, A-=3
+     7	DRA040A - Beginning Modern Dance (Lena Rose Webb-Magee): A+=0, A=29, A-=6
+     8	DRA10 - Intro To Acting (Anuj Vaidya): A+=0, A=24, A-=1
+     9	DRA10 - Intro To Acting (Slater Penney): A+=21, A=1, A-=5
+    10	DRA127B - Prin of Directing (Peter Lichtenfels): A+=0, A=5, A-=5
+    11	DRA180C - Theatre Lab: Prod Team (Mindy Cooper): A+=5, A=6, A-=0
+    12	EDU110 - Ed Psych: Gen (Peter Mundy): A+=10, A=14, A-=0
+    13	EDU153 - Diversity in K-12 (Orlando Carreon): A+=6, A=71, A-=0
+    14	ENL100P - Creat Writ: Poetry (Greg Glazner): A+=0, A=15, A-=2
+    15	ENL3 - Intro To Literature (Lee Emrich): A+=4, A=18, A-=3
+    16	FRS1 - First-Year Seminar (Bassam Younis): A+=0, A=16, A-=0
+    17	FRS1 - First-Year Seminar (Carolyn Wheeler): A+=0, A=15, A-=0
+    18	FRS1 - First-Year Seminar (Charles Hunt): A+=0, A=13, A-=0
+    19	FRS1 - First-Year Seminar (David Goodin): A+=5, A=8, A-=3
+    20	FRS1 - First-Year Seminar (Mika Pelo): A+=0, A=19, A-=0
+    21	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    22	FRS2 - First-Year Seminar (Aijun Wang): A+=2, A=12, A-=0
+    23	FRS2 - First-Year Seminar (Carlos Puente): A+=7, A=5, A-=1
+    24	FRS2 - First-Year Seminar (Carolyn Thomas): A+=11, A=15, A-=1
+    25	FRS2 - First-Year Seminar (Ian Korf): A+=0, A=17, A-=0
+    26	FRS2 - First-Year Seminar (Joan Frank): A+=6, A=5, A-=3
+    27	FRS2 - First-Year Seminar (Joseph Dumit): A+=0, A=12, A-=0
+    28	FRS2 - First-Year Seminar (Katherine Arosteguy): A+=0, A=13, A-=1
+    29	FRS2 - First-Year Seminar (Kevin Nosek): A+=7, A=10, A-=0
+    30	FRS2 - First-Year Seminar (Masoud Kayhanian): A+=0, A=23, A-=2
+    31	FRS2 - First-Year Seminar (Melissa Bauman): A+=10, A=7, A-=1
+    32	FRS2 - First-Year Seminar (Natalia Caporale): A+=0, A=18, A-=0
+    33	FRS2 - First-Year Seminar (Nathaniel Williams): A+=3, A=7, A-=0
+    34	FRS2 - First-Year Seminar (Nesrin Sarigul-Klijn): A+=0, A=16, A-=0
+    35	FRS2 - First-Year Seminar (Peter Hernes): A+=8, A=5, A-=0
+    36	FRS2 - First-Year Seminar (Peter Lichtenfels): A+=0, A=18, A-=0
+    37	FRS2 - First-Year Seminar (Robert Newcomb): A+=0, A=10, A-=4
+    38	FRS2 - First-Year Seminar (Sarah Faye): A+=15, A=0, A-=0
+    39	FRS2 - First-Year Seminar (Vajra Watson): A+=2, A=32, A-=0
+    40	HIN1 - Elementary Hindi/Urdu I (Pawandeep Gill): A+=27, A=8, A-=0
+    41	HIS102L - US 1787-1896 (Justin Leroy): A+=14, A=5, A-=1
+    42	HIS104A - Intro To Research (Edward Dickinson): A+=0, A=15, A-=0
+    43	IAD160 - Agroforestry (Thomas Gradziel): A+=1, A=13, A-=1
+    44	IST008C - Social Sciences (Jeanette Ruiz): A+=10, A=11, A-=3
+    45	ITA002S - Elementary Italian (Margherita Heyer): A+=0, A=13, A-=3
+    46	LDA160 - Design & Build Studio (Anna Kiers): A+=7, A=11, A-=1
+    47	LDA160 - Design & Build Studio (Gabino Marquez): A+=4, A=11, A-=3
+    48	MAT180 - Special Topics (Andrew Waldron): A+=4, A=32, A-=3
+    49	MSC022A - Team Leadership (Andrew Feske): A+=0, A=14, A-=0
+    50	MSC11 - Intro to Army Leadership (Aiana Garin): A+=0, A=11, A-=0
+    51	MSC11 - Intro to Army Leadership (Alexander Smith): A+=0, A=14, A-=0
+    52	MSC132A - Advanced Operations (Andrew Feske): A+=0, A=11, A-=0
+    53	MUS110D - Mozart (Anna Busse Berger): A+=14, A=7, A-=0
+    54	MUS131A - Voice (Jonathan Nadel): A+=7, A=4, A-=2
+    55	MUS131E - Violin (Jolan Friedhoff): A+=3, A=7, A-=0
+    56	MUS131I - Flute (Stacey Pelinka): A+=0, A=10, A-=0
+    57	MUS131R - Classical Guitar (Michael Goldberg): A+=3, A=3, A-=4
+    58	NAS34 - NA Art Studio (Hulleah Tsinhnahjinnie): A+=15, A=0, A-=0
+    59	NAS5 - Intro to NA Lit (Daniel Cornejo-Warner): A+=0, A=9, A-=11
+    60	POL190 - Intl Relations (Rodger Huckfeldt): A+=0, A=29, A-=0
+    61	POL193 - Res In Practical Pol (Jordan Kujala): A+=0, A=35, A-=10
+    62	POR1 - Elementary Portuguese (Eugenia Magnoli Da Silva Fernandes): A+=11, A=9, A-=4
+    63	PSC180A - Res Cognition & Percept (George Mangun): A+=0, A=11, A-=0
+    64	RST110 - Meaning & Identity (Naomi Janowitz): A+=0, A=22, A-=3
+    65	SPH104 - Globalization & Health (Patrick Koga): A+=12, A=44, A-=0
+Quarter: FQ2019
+-----------------
+     1	AED160 - Vocational Education (Lloyd Mccabe): A+=0, A=14, A-=3
+     2	ANS136 - Tech of Fish Culture (Michael Miller): A+=0, A=21, A-=0
+     3	ANT100 - Soc-Cultural Theory (Victoria Brykalski): A+=27, A=9, A-=0
+     4	ANT134 - Buddhism Global Culture (Alan Klima): A+=14, A=4, A-=1
+     5	ANT139BN - Gender & Sexuality (Timothy Choy): A+=0, A=10, A-=0
+     6	ARB021L - Colloquial Levantine Arb (Manar Al-Shatarat): A+=0, A=12, A-=1
+     7	ART111A - AdvPhoto: Special Topics (Youngsuk Suh): A+=3, A=11, A-=1
+     8	BIM174 - Microcontroller Lab (Jennifer Choi): A+=11, A=10, A-=0
+     9	CRD153A - Int'l Community Dev Asia (Jonathan London): A+=5, A=12, A-=1
+    10	DRA021A - Fundamentals of Act (Mary Cavanaugh): A+=10, A=9, A-=0
+    11	DRA040B - Intermed Modern Dance (Diego Martinez-Campos): A+=15, A=0, A-=0
+    12	DRA042B - Intermediate Ballet (Stuart Carroll): A+=0, A=20, A-=1
+    13	DRA180A - Theatre Lab: Performance (Mindy Cooper): A+=2, A=7, A-=4
+    14	DRA180A - Theatre Lab: Performance (Peter Lichtenfels): A+=8, A=4, A-=0
+    15	DRA180C - Theatre Lab: Prod Team (Mindy Cooper): A+=5, A=2, A-=5
+    16	DRA180D - Theatre Lab Crew (Mindy Cooper): A+=3, A=3, A-=5
+    17	EDU151T - Lang Dev Chicano Child (Orlando Carreon): A+=0, A=66, A-=0
+    18	ENL177 - Study Indiv Author (Alessa Johns): A+=1, A=8, A-=1
+    19	FRS1 - First-Year Seminar (Bassam Younis): A+=0, A=14, A-=0
+    20	FRS1 - First-Year Seminar (Bo Liu): A+=0, A=10, A-=0
+    21	FRS1 - First-Year Seminar (Christiana Drake): A+=0, A=14, A-=0
+    22	FRS1 - First-Year Seminar (David Goodin): A+=4, A=10, A-=1
+    23	FRS1 - First-Year Seminar (James Carey): A+=0, A=13, A-=0
+    24	FRS1 - First-Year Seminar (John Bolander): A+=0, A=12, A-=0
+    25	FRS1 - First-Year Seminar (John Goldberg): A+=8, A=6, A-=1
+    26	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=13, A-=0
+    27	FRS1 - First-Year Seminar (Nael El Farra): A+=0, A=15, A-=0
+    28	FRS1 - First-Year Seminar (Sarah Faye): A+=14, A=0, A-=0
+    29	FRS1 - First-Year Seminar (Yi-Je Chen): A+=4, A=15, A-=0
+    30	FRS2 - First-Year Seminar (Andrea Ross): A+=1, A=9, A-=0
+    31	FRS2 - First-Year Seminar (Brian Soucek): A+=0, A=10, A-=6
+    32	FRS2 - First-Year Seminar (Colleen Bronner): A+=0, A=10, A-=0
+    33	FRS2 - First-Year Seminar (Gerhard Bauer): A+=5, A=13, A-=0
+    34	FRS2 - First-Year Seminar (Irina Delusina): A+=15, A=1, A-=0
+    35	FRS2 - First-Year Seminar (Maryclaire Robinson): A+=1, A=13, A-=1
+    36	FRS2 - First-Year Seminar (Melissa Bauman): A+=10, A=4, A-=0
+    37	FRS2 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    38	FRS2 - First-Year Seminar (Nesrin Sarigul-Klijn): A+=2, A=13, A-=2
+    39	FRS2 - First-Year Seminar (William Sewell): A+=1, A=17, A-=1
+    40	FSM120L - Production Lab (Joan Frank): A+=9, A=3, A-=0
+    41	HIS104A - Intro To Research (Edward Dickinson): A+=0, A=11, A-=0
+    42	MSC022A - Team Leadership (Sesar Gonzalez): A+=14, A=0, A-=0
+    43	MSC11 - Intro to Army Leadership (Valos Owen): A+=22, A=14, A-=2
+    44	MSC143 - Army Mngmt Systems (Ryan Burkert): A+=12, A=0, A-=0
+    45	MUS131A - Voice (Jonathan Nadel): A+=3, A=10, A-=0
+    46	MUS131G - Cello (Susan Lamb): A+=0, A=11, A-=0
+    47	MUS131I - Flute (Stacey Pelinka): A+=1, A=9, A-=0
+    48	NAS130A - NAS Ethno History (Stefano Varese): A+=0, A=25, A-=0
+    49	NUT130 - Expt in Nutrition (Bo Lonnerdal): A+=6, A=7, A-=0
+    50	NUT130 - Expt in Nutrition (Rachel Scherr): A+=7, A=3, A-=0
+    51	POL137 - Int Rel Western Europe (Daniel Kono): A+=0, A=24, A-=2
+    52	POL190 - Intl Relations (Daniel Kono): A+=0, A=23, A-=3
+    53	POL193 - Res In Practical Pol (Jordan Kujala): A+=0, A=36, A-=4
+    54	POR1 - Elementary Portuguese (Eugenia Magnoli Da Silva Fernandes): A+=15, A=9, A-=0
+    55	PSC182 - Laboratory Research (Eliza Bliss-Moreau): A+=6, A=11, A-=1
+    56	PSC190 - Seminar (Richard Robins): A+=1, A=7, A-=2
+    57	RST110 - Meaning & Identity (Naomi Janowitz): A+=0, A=24, A-=1
+    58	SOC195 - Seminar (Drew Halfmann): A+=0, A=14, A-=1
+    59	SPA118 - Topic Span Linguistics (Agustina Carando): A+=11, A=2, A-=0
+    60	SPA148S - Spanish Language Cinema (Maria Colombi): A+=7, A=9, A-=0
+    61	SPA159S - Topics in Lat Am Lit Cul (Maria Colombi): A+=3, A=7, A-=2
+    62	SPA33 - Span-Native Speakers III (Agustina Carando): A+=22, A=4, A-=0
+    63	UWP102G - Environmental Writing (Katharine Rodger): A+=1, A=21, A-=2
+    64	UWP7 - Reading & Writing (Julian Elias): A+=7, A=10, A-=1
+Quarter: FQ2020
+-----------------
+     1	AAS101 - Intro Res-Blk Commun (Milmon Harrison): A+=8, A=7, A-=0
+     2	ARB021L - Colloquial Levantine Arb (Manar Al-Shatarat): A+=9, A=1, A-=0
+     3	ARB121 - Adv Arabic (Shayma Hassouna): A+=10, A=2, A-=1
+     4	ARB21 - Intermediate Arabic 21 (Shayma Hassouna): A+=11, A=4, A-=3
+     5	ART111B - AdvPhoto: Digital (Matthew Baum): A+=0, A=19, A-=0
+     6	ART12 - Beginning Video (Azin Seraj): A+=10, A=7, A-=4
+     7	CHI100 - Chicano Studies Theory (Martha Gonzales): A+=10, A=0, A-=0
+     8	CHI154 - Chicano Novel (Maceo Montoya): A+=6, A=23, A-=0
+     9	CHI73 - Chicano Art Expres (Gilda Posada): A+=15, A=0, A-=0
+    10	COM4 - Mjr Wrks Contemp World (Xuesong Shao): A+=3, A=19, A-=2
+    11	DRA040A - Beginning Modern Dance (Nicole Katrine Peisl): A+=2, A=18, A-=4
+    12	DRA042B - Intermediate Ballet (Stuart Carroll): A+=0, A=11, A-=0
+    13	DRA135 - Voice in Performance (Margaret Kemp): A+=13, A=0, A-=0
+    14	DRA141 - Fundamentals of Movement (Mary Cavanaugh): A+=5, A=6, A-=1
+    15	EDU114 - Quan Meth In Ed Res (Lee Martin): A+=2, A=20, A-=0
+    16	EDU115 - Edu Disabled Child (Peter Mundy): A+=0, A=100, A-=0
+    17	EDU151T - Lang Dev Chicano Child (Orlando Carreon): A+=0, A=68, A-=0
+    18	ENL005F - Writing: Fiction (Elise Winn): A+=14, A=5, A-=2
+    19	ENL100F - Creat Writ: Fiction (Lucy Corin): A+=0, A=12, A-=4
+    20	ENL100P - Creat Writ: Poetry (Greg Glazner): A+=3, A=11, A-=2
+    21	ENL40 - Intro Topics in Lit (Parama Roy): A+=0, A=7, A-=3
+    22	FRS1 - First-Year Seminar (Bassam Younis): A+=9, A=6, A-=0
+    23	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=16, A-=0
+    24	FRS2 - First-Year Seminar (David Follette): A+=2, A=11, A-=0
+    25	FRS2 - First-Year Seminar (Joseph Dumit): A+=0, A=16, A-=0
+    26	FRS2 - First-Year Seminar (Kevin Roddy): A+=0, A=11, A-=2
+    27	FRS2 - First-Year Seminar (Konstantinos Zarbalis): A+=2, A=11, A-=1
+    28	FRS2 - First-Year Seminar (Laurie San Martin): A+=8, A=11, A-=1
+    29	FRS2 - First-Year Seminar (Marcela Cuellar): A+=9, A=3, A-=3
+    30	FRS2 - First-Year Seminar (Robert Hackman): A+=2, A=15, A-=1
+    31	FRS2 - First-Year Seminar (Sarah Faye): A+=38, A=0, A-=0
+    32	FRS2 - First-Year Seminar (Sudipta Sen): A+=6, A=13, A-=0
+    33	FRS2 - First-Year Seminar (William Sewell): A+=4, A=11, A-=0
+    34	FRS4 - First-Year Seminar (Carlos Jackson): A+=14, A=0, A-=0
+    35	FSM120L - Production Lab (Francene Steinberg): A+=1, A=18, A-=7
+    36	GER143 - Language Through Media (Carlson Arnett): A+=4, A=6, A-=0
+    37	HIN1 - Elementary Hindi/Urdu I (Poonam Chauhan): A+=18, A=7, A-=0
+    38	HIS104A - Intro To Research (Rachel St John): A+=0, A=17, A-=0
+    39	HIS110 - Themes in World History (Sudipta Sen): A+=0, A=15, A-=5
+    40	IST008B - Humanities (Margaret Kemp): A+=0, A=10, A-=0
+    41	JPN136 - Readings in Newspapers (David Gundry): A+=22, A=2, A-=0
+    42	MSC132A - Advanced Operations (Stephen Yashinski): A+=11, A=6, A-=3
+    43	MUS129C - Musics of Asia (Henry Spiller): A+=10, A=8, A-=1
+    44	MUS131A - Voice (Zoila Munoz-Diaz): A+=7, A=3, A-=0
+    45	NAS5 - Intro to NA Lit (Jason Tena-Encarnacion): A+=14, A=9, A-=2
+    46	NPB139 - Frontiers in Physiology (Aldrin Gomes): A+=6, A=7, A-=0
+    47	PSC182 - Laboratory Research (Alison Ledgerwood): A+=0, A=12, A-=0
+    48	PSC182 - Laboratory Research (Jeffrey Sherman): A+=0, A=10, A-=0
+    49	RST180 - India Pop Religious Art (Layne Little): A+=5, A=7, A-=7
+    50	STS32 - Drugs, Science & Culture (Joseph Dumit): A+=0, A=10, A-=0
+    51	UWP1 - Academic Literacies (Dalia Barghouty): A+=0, A=25, A-=0
+    52	UWP1 - Academic Literacies (Samuel Pizelo): A+=25, A=0, A-=0
+    53	UWP104F - Writing in Health Prof (Emily Foss): A+=0, A=44, A-=6
+    54	UWP104F - Writing in Health Prof (William Sewell): A+=1, A=48, A-=1
+    55	VEN118 - Vine Pests/Diseases (Dario Cantu): A+=7, A=23, A-=2
+Quarter: FQ2022
+-----------------
+     1	AAS012 - Intro African Studies (Shingirai Taodzera): A+=11, A=11, A-=1
+     2	ABG200A - Integrated Animal Bio I (Yanhong Liu): A+=8, A=4, A-=2
+     3	ABG202 - Grant Writing (Fabio Soares de Lima): A+=3, A=17, A-=0
+     4	ABG298 - Group Study (Russell Hovey): A+=0, A=13, A-=2
+     5	ACC231 - Accounting Analysis (Paul Griffin): A+=11, A=16, A-=7
+     6	AHI190A - Seminar Med Antiquity (Alexandra Sofroniew): A+=1, A=8, A-=1
+     7	AHI290 - Special Topics Art Hist (Alexandra Sofroniew): A+=5, A=4, A-=1
+     8	AMS001E - Nature & Culture in Amer (Javier Arbona-Homar): A+=0, A=16, A-=8
+     9	AMS101B - Queer & Trans Studies (Ryan Cartwright): A+=1, A=10, A-=0
+    10	AMS139 - Feminist Cultural Study (Ryan Cartwright): A+=0, A=23, A-=0
+    11	ANS115 - Horse Production (Amy Mclean): A+=3, A=7, A-=2
+    12	ANT002 - Cultural Anthropology (Justin Malachowski): A+=5, A=10, A-=2
+    13	ANT002 - Cultural Anthropology (Justin Malachowski): A+=6, A=8, A-=3
+    14	ANT201 - Reading Ethnography (Tarik Elhaik): A+=0, A=10, A-=0
+    15	ARB021 - Intermediate Arabic 21 (Shayma Hassouna): A+=6, A=4, A-=0
+    16	ARE231 - Ag Prod Supply & Demand (Timothy Beatty): A+=0, A=9, A-=1
+    17	ARE276A - Externalities (Katrina Jessoe): A+=2, A=4, A-=8
+    18	ART008 - Beg Ceramic Sculpture (Elisabeth Higgins O'Connor): A+=6, A=8, A-=0
+    19	ART011 - Beginning Printmaking (Emily Gui): A+=0, A=25, A-=0
+    20	ASA002 - Contemp Iss Asian Amer (Kieu Linh Valverde): A+=20, A=3, A-=2
+    21	BCB220L - Adv Biochem Lab Rotation (Celina Juliano): A+=8, A=7, A-=6
+    22	BIM189C - Biomedical Engineering (Aijun Wang): A+=5, A=5, A-=1
+    23	BIS298 - Group Study (Aldrin Gomes): A+=0, A=10, A-=0
+    24	BST222 - Survival Analysis (David Rocke): A+=9, A=2, A-=0
+    25	CDM189 - Special Topics in CDM (Andrew Smith): A+=6, A=5, A-=0
+    26	CHE104 - Forensic Analytical Chem (Donald Land): A+=1, A=11, A-=0
+    27	CHE104 - Forensic Analytical Chem (Donald Land): A+=4, A=6, A-=0
+    28	CHE129A - Organic Chem Lab (Daniel Parker): A+=7, A=13, A-=0
+    29	CHE261 - Current Topics (Annaliese Franz): A+=0, A=10, A-=1
+    30	CHE261 - Current Topics (Carlito Lebrilla): A+=0, A=11, A-=0
+    31	CHE261 - Current Topics (David Olson): A+=0, A=10, A-=0
+    32	CHE261 - Current Topics (Jared Shaw): A+=0, A=10, A-=0
+    33	CHE261 - Current Topics (Peter Beal): A+=0, A=11, A-=0
+    34	CHE298 - Group Study (Susan Kauzlarich): A+=30, A=0, A-=0
+    35	CHI010 - Intro Chicana/o Studies (Michael Singh): A+=0, A=24, A-=0
+    36	CHI010 - Intro Chicana/o Studies (Michael Singh): A+=9, A=15, A-=1
+    37	CHI154 - Chicano Novel (Maceo Montoya): A+=5, A=14, A-=10
+    38	CHI241 - Community Based Research (Yvette Flores): A+=16, A=3, A-=2
+    39	CHN004 - Intermediate Chinese (Chuchu Wang): A+=5, A=3, A-=3
+    40	CLA190 - Senior Seminar (Ralph Hexter): A+=2, A=6, A-=2
+    41	COM002 - Mjr Wrks Medi Early Mod (Manasvin Rajagopalan): A+=9, A=11, A-=5
+    42	COM004 - Mjr Wrks Contemp World (Ross Hernandez): A+=0, A=26, A-=0
+    43	COM007 - Lit of Fantsy & Supernat (Timothy Parrish): A+=7, A=16, A-=0
+    44	CRD240 - Community Develop Theory (Marjorie Visser): A+=11, A=3, A-=0
+    45	CST206 - Studies in Race Theory (Rana Jaleel): A+=0, A=10, A-=0
+    46	DES001 - Introduction to Design (James Housefield): A+=12, A=14, A-=1
+    47	DES001 - Introduction to Design (James Housefield): A+=9, A=15, A-=1
+    48	DES040C - Design Aesthetics/Exper (James Housefield): A+=11, A=11, A-=1
+    49	DES040C - Design Aesthetics/Exper (James Housefield): A+=5, A=19, A-=2
+    50	DRA010 - Intro to Performance (Regina Maria Gutierrez Bermudez): A+=5, A=13, A-=5
+    51	DRA111 - Presentation Com Collab (Michele Leavy): A+=0, A=26, A-=1
+    52	DRA180A - Theatre Lab: Performance (Erika Shuch): A+=1, A=9, A-=0
+    53	DRA180A - Theatre Lab: Performance (Margaret Kemp): A+=0, A=12, A-=0
+    54	EBS200 - Rsch Meth in Bio Sys Eng (Isaya Kisekka): A+=6, A=7, A-=0
+    55	ECH001 - Design of Coffee (Tonya Kuhl): A+=5, A=17, A-=0
+    56	ECH168 - Whisky Science (Michael Toney): A+=7, A=9, A-=0
+    57	ECI141L - Hydraulics Lab (Alexander Forrest): A+=5, A=5, A-=3
+    58	ECI141L - Hydraulics Lab (Alexander Forrest): A+=5, A=6, A-=3
+    59	ECI141L - Hydraulics Lab (Alexander Forrest): A+=9, A=7, A-=4
+    60	ECI189C - Engr Planning (Colleen Bronner): A+=0, A=13, A-=0
+    61	ECI244B - Advn Methd Industrl Ecol (Alissa Kendall): A+=1, A=12, A-=1
+    62	ECI288 - Earth & Rockfill Dams (Ross Boulanger): A+=2, A=9, A-=5
+    63	ECL200AN - Principles of Ecology (Fernanda Valdovinos): A+=7, A=3, A-=0
+    64	ECS235A - Computer & Info Security (Matthew Bishop): A+=0, A=53, A-=18
+    65	ECS251 - Operating Systems (Christopher Nitta): A+=1, A=29, A-=1
+    66	EDU120 - Philos & Social Found (Carolynne Beno): A+=32, A=7, A-=2
+    67	EDU200 - Educational Research (Yianella Blanco): A+=6, A=6, A-=1
+    68	EDU206C - Inq Class Prac: Design (Chantal Lacrampe-Mace): A+=0, A=11, A-=0
+    69	EDU206C - Inq Class Prac: Design (Laurel Towers): A+=0, A=12, A-=0
+    70	EDU206C - Inq Class Prac: Design (Lisa Sullivan): A+=0, A=11, A-=0
+    71	EDU280C - Research Design (Kevin Gee): A+=0, A=10, A-=2
+    72	EDU281A - Problem-Based Pt 1 (Michal Kurlaender): A+=1, A=15, A-=1
+    73	EDU282A - Educational Leadership (Gloria Rodriguez): A+=0, A=12, A-=0
+    74	EDU284B - Influencing Policy (Francisco Martorell): A+=0, A=12, A-=0
+    75	EDU285A - Educational Finance (Patti Fejarang-Herrera): A+=17, A=0, A-=0
+    76	EDU292 - Special Topics in Educ (Jacob Jackson): A+=10, A=7, A-=0
+    77	EDU292 - Special Topics in Educ (Megan Bettis): A+=0, A=8, A-=7
+    78	EDU292 - Special Topics in Educ (Pauline Holmes): A+=13, A=2, A-=0
+    79	EDU300B - Elem School Reading, B (Chantal Lacrampe-Mace): A+=14, A=3, A-=2
+    80	EDU300B - Elem School Reading, B (Chantal Lacrampe-Mace): A+=15, A=4, A-=0
+    81	EDU304A - Teaching in Elem School (Chantal Lacrampe-Mace): A+=0, A=9, A-=1
+    82	EDU304A - Teaching in Elem School (Nancy Tseng): A+=0, A=12, A-=0
+    83	EDU304A - Teaching in Elem School (Susana Mayorga): A+=13, A=2, A-=1
+    84	EDU306A - Teach Secondary Sch (Pauline Holmes): A+=0, A=13, A-=2
+    85	EDU310 - Teaching as Practice (Chantal Lacrampe-Mace): A+=0, A=10, A-=0
+    86	EDU310 - Teaching as Practice (Megan Bettis): A+=0, A=7, A-=8
+    87	EDU310 - Teaching as Practice (Nancy Tseng): A+=0, A=12, A-=0
+    88	EDU310 - Teaching as Practice (Pauline Holmes): A+=0, A=15, A-=0
+    89	EEC193A - Senior Design Project (Avesta Sasan): A+=9, A=3, A-=6
+    90	EME108 - Measurement Systems (Valeria La Saponara): A+=6, A=5, A-=2
+    91	ENL003 - Intro To Literature (Alexandra Burgess): A+=3, A=17, A-=5
+    92	ENL003 - Intro To Literature (Alison Maas): A+=3, A=22, A-=0
+    93	ENL003 - Intro To Literature (Dalia Barghouty): A+=1, A=24, A-=0
+    94	ENL003 - Intro To Literature (Kristin Kawecki): A+=5, A=8, A-=2
+    95	ENL003 - Intro To Literature (Natalie Robertson): A+=14, A=10, A-=0
+    96	ENL003A - Writers' Workshop (Alexandra Burgess): A+=11, A=0, A-=4
+    97	ENL003A - Writers' Workshop (Kristin Kawecki): A+=14, A=0, A-=0
+    98	ENL005P - Writing: Poetry (Kathleen Peterson): A+=21, A=2, A-=0
+    99	ENL005P - Writing: Poetry (Kathleen Peterson): A+=22, A=0, A-=0
+   100	ENL100F - Creat Writ: Fiction (Iris Dunkle): A+=11, A=0, A-=0
+   101	ENL237 - Seminar for Writers (Kathleen Peterson): A+=12, A=0, A-=0
+   102	ENL290P - CW: Poetry (Margaret Ronda): A+=0, A=11, A-=0
+   103	ENV200A - Env Management & Policy (Eric Post): A+=34, A=0, A-=0
+   104	ESP001 - Environmental Analysis (Xiaoli Dong): A+=0, A=20, A-=0
+   105	ESP001 - Environmental Analysis (Xiaoli Dong): A+=0, A=20, A-=3
+   106	ETX220L - Toxicant Analys Lab (Qi Zhang): A+=0, A=10, A-=0
+   107	ETX260 - Immunotoxicology (Allison Ehrlich): A+=5, A=5, A-=0
+   108	EVH200 - Environmental Humanities (Tobias Menely): A+=0, A=12, A-=0
+   109	FOR207 - Forensic Spectroscopy (Barry Miller): A+=5, A=6, A-=2
+   110	FOR221L - Forensic Instrument Lab (Craig Triebold): A+=11, A=0, A-=0
+   111	FRS001 - First-Year Seminar (Ian Korf): A+=5, A=13, A-=1
+   112	FRS001 - First-Year Seminar (Priscilla San Souci): A+=14, A=0, A-=0
+   113	FRS002 - First-Year Seminar (Ian Korf): A+=3, A=15, A-=1
+   114	FRS002 - First-Year Seminar (Joseph Dumit): A+=0, A=13, A-=0
+   115	FRS002 - First-Year Seminar (Katherine Gossett): A+=0, A=15, A-=0
+   116	FRS002 - First-Year Seminar (Konstantinos Zarbalis): A+=0, A=14, A-=0
+   117	FRS002 - First-Year Seminar (Korana Burke): A+=0, A=19, A-=0
+   118	FRS002 - First-Year Seminar (Peter Hernes): A+=5, A=10, A-=0
+   119	FRS002 - First-Year Seminar (Robert Hackman): A+=3, A=8, A-=0
+   120	FRS002 - First-Year Seminar (Shirley Chiang): A+=0, A=15, A-=0
+   121	FRS002 - First-Year Seminar (Xiaosong Jiang): A+=1, A=11, A-=3
+   122	FSE310 - Teaching Science (Mona Monfared): A+=0, A=10, A-=0
+   123	FSM120L - Production Lab (Joan Frank): A+=5, A=6, A-=1
+   124	GGG291 - Sem Hist Gen (Thomas Glaser): A+=3, A=8, A-=4
+   125	GSW050 - Intro to Gender Studies (Christoph Hanssmann): A+=15, A=7, A-=1
+   126	HDE140L - Lab: Early Childhood (Yvette Mere-Cook): A+=3, A=12, A-=3
+   127	HDE298 - Group Study (Kali Trzesniewski): A+=0, A=17, A-=0
+   128	HIS203A - Second Year Research Sem (Kathryn Olmsted): A+=0, A=10, A-=0
+   129	HMR140A - Human Rights & Pop Imag (Jessica Perea): A+=23, A=3, A-=0
+   130	IST008B - Humanities (Shagufta Fatema): A+=5, A=20, A-=0
+   131	ITA002S - Elementary Italian (Margherita Heyer-Caput): A+=0, A=8, A-=3
+   132	JPN121 - Advanced Japanese 1 (Nobuko Koyama): A+=3, A=14, A-=2
+   133	LDA160 - Design & Build Studio (Cory Parker): A+=3, A=9, A-=4
+   134	LDA160 - Design & Build Studio (Gabino Marquez): A+=4, A=8, A-=6
+   135	MAE228 - Intro to BioMEMS (Cristina Davis): A+=0, A=13, A-=0
+   136	MAE254 - Eng Software Design (Harry Cheng): A+=0, A=7, A-=4
+   137	MCN260 - Nutrition in Pregnancy (Christine Stewart): A+=6, A=6, A-=3
+   138	MCN262 - Child & Adolescent Nutri (Lauren Au): A+=5, A=5, A-=0
+   139	MCP298 - Group Study (Jon Sack): A+=2, A=8, A-=0
+   140	MCP298 - Group Study (Madeline Nieves-Cintron): A+=0, A=17, A-=0
+   141	MGB261 - Investment Analysis (Sorin Maruster): A+=7, A=14, A-=0
+   142	MGB432V - Pro Mgt w Aps in Hlthcre (Amber Beckler): A+=1, A=11, A-=0
+   143	MGB436 - Intro to Derv Sec (Sorin Maruster): A+=2, A=20, A-=0
+   144	MGB448V - Marketing Strategies (Jesse Catlin): A+=8, A=9, A-=0
+   145	MGT419V - Bus Strat Consulting (Kelly Wilson): A+=0, A=14, A-=0
+   146	MGT440 - Intgd Management Project (Kelly Wilson): A+=13, A=0, A-=1
+   147	MGT490 - Topics in Business (Hanumantha Unnava): A+=7, A=5, A-=1
+   148	MGV239V - Digital Marketing (Kay Peters): A+=0, A=13, A-=5
+   149	MGV246V - Negotiations in Orgs (Gareth Keeves): A+=0, A=24, A-=0
+   150	MGV440V - Intgd Management Project (William Cron): A+=0, A=14, A-=4
+   151	MGV440V - Intgd Management Project (William Cron): A+=0, A=15, A-=5
+   152	MGV445V - Product Management (Justin Virrey): A+=4, A=4, A-=9
+   153	MHI289H - VR-Sim-Rob (Prabhu Shankar): A+=2, A=7, A-=3
+   154	MIB200A - Microbial Biology (Bart Weimer): A+=11, A=2, A-=0
+   155	MIC104L - General Microbiology Lab (Miriam Markum): A+=7, A=5, A-=5
+   156	MIC215 - Recombinant DNA (Joshua Wood): A+=7, A=8, A-=0
+   157	MPM208 - Planning & Reporting I (Janet Foley): A+=1, A=13, A-=0
+   158	MPM210 - Advncd Health Leadership (Simon Anthony): A+=14, A=0, A-=0
+   159	MSC011 - Intro to Army Leadership (Walter Wade): A+=10, A=0, A-=0
+   160	MSC011 - Intro to Army Leadership (Walter Wade): A+=17, A=0, A-=0
+   161	MSC022A - Team Leadership (Nathan Rolls): A+=4, A=6, A-=1
+   162	MUS131A - Voice (Jonathan Nadel): A+=1, A=11, A-=1
+   163	MUS203 - Music Composition (Kurt Rohde): A+=1, A=13, A-=0
+   164	MUS207 - Adv Elec Comp Music (Samuel Nichols): A+=0, A=12, A-=0
+   165	NAS200 - Basic Concepts/NAS (Beth Rose Middleton Manning): A+=3, A=6, A-=5
+   166	NRS243B - Leadership (Charleen Singh): A+=17, A=0, A-=0
+   167	NRS243C - Leadership (Charleen Singh): A+=17, A=0, A-=0
+   168	NRS298 - Special Topics (Shana Ruggenberg): A+=41, A=3, A-=0
+   169	NRS301 - Learner Centered Teachng (Elizabeth Rice): A+=0, A=17, A-=1
+   170	NRS306 - Nature of Caregiving (Heather Young): A+=0, A=16, A-=0
+   171	NRS356V - Clinical Ethics (Mark Fedyk): A+=8, A=19, A-=1
+   172	NRS429F - Collaborative Practice F (Shana Ruggenberg): A+=0, A=44, A-=0
+   173	NUB210A - Advanced Nutrition I (Patricia Oteiza De Fraga): A+=4, A=10, A-=0
+   174	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): A+=15, A=1, A-=0
+   175	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): A+=16, A=8, A-=0
+   176	NUT290 - Beginning Nutrition Sem (Fawaz Haj): A+=12, A=0, A-=0
+   177	PAS410A - Advanced Clinical Skills (Felix Emond): A+=0, A=50, A-=11
+   178	PBG200A - Principles Pop Bio (Graham Coop): A+=0, A=10, A-=0
+   179	PHY265 - HE Astrophys & Rad Procs (Andrew Wetzel): A+=3, A=3, A-=5
+   180	PLB148 - Introductory Mycology (David Rizzo): A+=8, A=8, A-=1
+   181	PLS160 - Agroforestry (Thomas Gradziel): A+=2, A=33, A-=4
+   182	PMI203 - Exp Des & Data Anlys (Christopher Barker): A+=0, A=21, A-=0
+   183	POL190 - Intl Relations (Jeannette Money): A+=0, A=25, A-=0
+   184	PSC182 - Laboratory Research (Alison Ledgerwood): A+=1, A=10, A-=0
+   185	PSC210 - Fund Cog Neuroimaging (Charan Ranganath): A+=0, A=12, A-=0
+   186	PSC290 - Seminar (Emorie Beck): A+=0, A=19, A-=1
+   187	SOC001 - Intro Sociology (Terri Se Sullivan): A+=15, A=11, A-=1
+   188	SOC001 - Intro Sociology (Terri Se Sullivan): A+=18, A=11, A-=0
+   189	SOC001 - Intro Sociology (Terri Se Sullivan): A+=19, A=6, A-=1
+   190	SOC001 - Intro Sociology (Terri Se Sullivan): A+=19, A=8, A-=0
+   191	SOC001 - Intro Sociology (Terri Se Sullivan): A+=26, A=2, A-=2
+   192	SOC046 - Intro Social Resrch Meth (Elizabeth Witcher): A+=19, A=6, A-=1
+   193	SOC046 - Intro Social Resrch Meth (Elizabeth Witcher): A+=20, A=5, A-=0
+   194	SPA002V - Elementary Spanish (Travis Bradley): A+=9, A=7, A-=3
+   195	SPA003 - Elementary Spanish (Claudia Sanchez-Gutierrez): A+=2, A=6, A-=2
+   196	SPA021 - Intermediate Spanish (Travis Bradley): A+=13, A=6, A-=2
+   197	SPA022 - Intermediate Spanish (Travis Bradley): A+=7, A=9, A-=1
+   198	SPA023 - Spanish Composition I (Travis Bradley): A+=16, A=2, A-=3
+   199	SPA031 - Heritage Spanish I (Agustina Carando): A+=10, A=3, A-=0
+   200	SPA260 - Modern Spanish Lit (Cristina Martinez-Carazo): A+=1, A=9, A-=1
+   201	SPA390 - Spanish in College (Claudia Sanchez-Gutierrez): A+=9, A=3, A-=0
+   202	SPH120 - Intro Health Informatics (Mark Carroll): A+=33, A=1, A-=0
+   203	SPH204 - Globalization & Health (Hadeer Al-Ani): A+=2, A=8, A-=0
+   204	SSC107 - Soil Physics (Majdi Abou Najm): A+=3, A=10, A-=0
+   205	STA222 - Survival Analysis (David Rocke): A+=11, A=5, A-=1
+   206	STA251 - Stat Methods & Models (Debashis Paul): A+=0, A=7, A-=4
+   207	STS250 - His/Phil of Science (Finn Brunton): A+=0, A=16, A-=0
+   208	UWP001 - Academic Literacies (Augusta Funk): A+=0, A=25, A-=0
+   209	UWP001 - Academic Literacies (Daniel Melzer): A+=19, A=5, A-=1
+   210	UWP001 - Academic Literacies (Evan Manzanetti): A+=25, A=0, A-=0
+   211	UWP001 - Academic Literacies (Grace Hayes): A+=0, A=25, A-=0
+   212	UWP001 - Academic Literacies (Jeremy Freeman): A+=25, A=0, A-=0
+   213	UWP001 - Academic Literacies (Leslie Dumont): A+=20, A=2, A-=0
+   214	UWP001 - Academic Literacies (Rosette Simityan): A+=22, A=3, A-=0
+   215	UWP001 - Academic Literacies (Stacey Baran): A+=18, A=7, A-=0
+   216	UWP001A - Writers' Workshop (Jeremy Freeman): A+=14, A=0, A-=0
+   217	UWP001Y - Academic Literacies (Daniel Melzer): A+=0, A=25, A-=0
+   218	UWP007 - Reading & Writing (Katie Evans): A+=5, A=13, A-=0
+   219	UWP007M - Multilingual Writing (Sabina Simon): A+=4, A=12, A-=2
+   220	UWP048 - Style in the Essay (Gregory Miller): A+=0, A=18, A-=0
+   221	UWP104A - Business Writing (Angela Morris): A+=3, A=18, A-=4
+   222	UWP104B - Legal Writing (Katherine Arosteguy): A+=12, A=10, A-=3
+   223	UWP104F - Writing in Health Prof (Brendan Johnston): A+=13, A=10, A-=0
+   224	UWP104F - Writing in Health Prof (Brendan Johnston): A+=15, A=8, A-=2
+   225	UWP104F - Writing in Health Prof (Kendon Kurzer): A+=0, A=18, A-=4
+   226	UWP104FY - Writing in Health Prof (Theresa Walsh): A+=0, A=26, A-=0
+   227	UWP104I - Writing in Internships (Karma Waltonen): A+=3, A=3, A-=5
+   228	UWP104T - Technical Writing (Carolyn Gubala): A+=7, A=18, A-=0
+   229	VEN124L - Wine Production Lab (Hildegarde Heymann): A+=2, A=9, A-=2
+   230	WFC120L - Lab Biol Cons Fishes (Andrew Rypel): A+=16, A=6, A-=2
+Quarter: FQ2023
+-----------------
+     1	ABG200A - Integrated Animal Bio I (Yanhong Liu): A+=4, A=7, A-=0
+     2	ABG401 - Ethics Animal Biology (Kristina Horback): A+=17, A=4, A-=1
+     3	AHI123 - Museum: Age of Spectacle (Talinn Grigor): A+=0, A=9, A-=3
+     4	AMS030 - Amr Images in Pop Cltr (Eleftheria Arapoglou): A+=3, A=18, A-=5
+     5	ANS115 - Horse Production (Amy Mclean): A+=9, A=0, A-=2
+     6	ARE202A - Applied Research Methods (Timothy Beatty): A+=2, A=10, A-=2
+     7	ARE231 - Ag Prod Supply & Demand (Timothy Beatty): A+=3, A=9, A-=2
+     8	ARE277 - Natural Resource Econ (James Sanchirico): A+=0, A=9, A-=3
+     9	ART110B - IntmedPhoto:Digital (Christopher Woodcock): A+=12, A=7, A-=2
+    10	ATM245 - Climate Change & Impacts (Erwan Monier): A+=3, A=10, A-=4
+    11	BAX431 - Data Visualization (Mak Ahmad): A+=35, A=11, A-=2
+    12	BAX431 - Data Visualization (Mak Ahmad): A+=39, A=5, A-=3
+    13	BCB210 - Mol Genetics & Genomics (Daniel Starr): A+=0, A=11, A-=0
+    14	BIM001 - Intro to Biomedical Eng (Angelique Louie): A+=0, A=17, A-=4
+    15	BIM001 - Intro to Biomedical Eng (Angelique Louie): A+=2, A=16, A-=4
+    16	BIM170 - Med Device Design & Mfg (Donald Chigazola): A+=2, A=6, A-=4
+    17	BIM180 - Clinical Needs Finding (Aijun Wang): A+=6, A=3, A-=3
+    18	BIM189C - Biomedical Engineering (Wenting Gao): A+=4, A=8, A-=0
+    19	BIS298 - Group Study (Aldrin Gomes): A+=0, A=12, A-=0
+    20	CHE228C - Solid State Chem (Susan Kauzlarich): A+=4, A=5, A-=1
+    21	CHE261 - Current Topics (Annaliese Franz): A+=0, A=7, A-=4
+    22	CHE261 - Current Topics (Carlito Lebrilla): A+=0, A=10, A-=0
+    23	CHE298 - Group Study (Susan Kauzlarich): A+=27, A=0, A-=0
+    24	CHI010 - Intro Chicana/o Studies (Lorena Marquez): A+=25, A=0, A-=0
+    25	CHI145S - Bi-National Health (Yvette Flores): A+=13, A=2, A-=1
+    26	CHI147S - Hemispheric Health (Yvette Flores): A+=12, A=4, A-=0
+    27	COM210 - Topics/Themes Comp Lit (Sheldon Lu): A+=5, A=7, A-=0
+    28	DES001 - Introduction to Design (Katia Vega): A+=5, A=18, A-=3
+    29	DES001 - Introduction to Design (Katia Vega): A+=5, A=18, A-=3
+    30	DES040C - Design Aesthetics/Exper (James Housefield): A+=13, A=13, A-=0
+    31	DES040C - Design Aesthetics/Exper (James Housefield): A+=13, A=13, A-=0
+    32	DES040C - Design Aesthetics/Exper (James Housefield): A+=8, A=22, A-=0
+    33	DRA010 - Intro to Performance (Diego Martinez-Campos): A+=23, A=0, A-=0
+    34	DRA010 - Intro to Performance (Erika Tsimbrovsky): A+=26, A=0, A-=1
+    35	DRA021A - Fundamentals of Act (Michele Leavy): A+=0, A=23, A-=0
+    36	DRA028 - Stagecraft & Management (Steven Schmidt): A+=0, A=22, A-=2
+    37	DRA042B - Intermediate Ballet (Stuart Carroll): A+=1, A=22, A-=0
+    38	DRA111 - Presentation Com Collab (Michele Leavy): A+=0, A=24, A-=0
+    39	DRA124A - Thea Desgn Scenery (Ian Wallace): A+=14, A=4, A-=1
+    40	DRA180A - Theatre Lab: Performance (Margaret Kemp): A+=11, A=0, A-=0
+    41	DRA180E - Scenic Lab (Steven Schmidt): A+=0, A=10, A-=0
+    42	DRA180F - Costume Lab (Joanne Martin): A+=12, A=0, A-=0
+    43	ECH001 - Design of Coffee (Tonya Kuhl): A+=0, A=35, A-=0
+    44	ECH001 - Design of Coffee (Tonya Kuhl): A+=7, A=17, A-=0
+    45	ECH001Y - Design of Coffee (Tonya Kuhl): A+=6, A=30, A-=0
+    46	ECH001Y - Design of Coffee (Tonya Kuhl): A+=7, A=26, A-=3
+    47	ECI101 - CEE Transfer Transition (Colleen Bronner): A+=0, A=22, A-=3
+    48	ECI141L - Hydraulics Lab (Alexander Forrest): A+=3, A=12, A-=6
+    49	ECI141L - Hydraulics Lab (Alexander Forrest): A+=6, A=10, A-=2
+    50	ECI189C - Engr Planning (Sabbie Miller): A+=0, A=10, A-=0
+    51	ECI211A - Adv Matrix Stru Alys (Yuk Chai): A+=0, A=9, A-=2
+    52	ECL224 - Data & Viz in R (Tyler Scott): A+=0, A=22, A-=0
+    53	ECS251 - Operating Systems (Christopher Nitta): A+=4, A=31, A-=6
+    54	ECS265 - Distributed Database Sys (Mohammad Sadoghi Hamedani): A+=1, A=45, A-=10
+    55	ECS272 - Info Visualization (Kwan-Liu Ma): A+=1, A=16, A-=7
+    56	EDU151 - Multilingualism in K-12 (Claudia Rodriguez-Mojica): A+=21, A=4, A-=1
+    57	EDU206A - Inq Class Prac: Trad (Lisa Sullivan): A+=0, A=23, A-=0
+    58	EDU206C - Inq Class Prac: Design (Chantal Lacrampe-Mace): A+=0, A=14, A-=0
+    59	EDU280C - Research Design (Lee Martin): A+=0, A=14, A-=0
+    60	EDU281A - Problem-Based Pt 1 (Michal Kurlaender): A+=0, A=11, A-=0
+    61	EDU282A - Educational Leadership (Gloria Rodriguez): A+=0, A=14, A-=0
+    62	EDU285A - Educational Finance (Patti Fejarang-Herrera): A+=10, A=1, A-=0
+    63	EDU292 - Special Topics in Educ (Marcela Cuellar): A+=0, A=14, A-=0
+    64	EDU300B - Elem School Reading, B (Chantal Lacrampe-Mace): A+=0, A=23, A-=0
+    65	EDU304A - Teaching in Elem School (Claudia Rodriguez-Mojica): A+=0, A=10, A-=0
+    66	EDU304A - Teaching in Elem School (Nancy Tseng): A+=0, A=13, A-=0
+    67	EDU310 - Teaching as Practice (Claudia Rodriguez-Mojica): A+=7, A=3, A-=1
+    68	EDU310 - Teaching as Practice (Nancy Tseng): A+=0, A=12, A-=0
+    69	EEC136A - Electronic Design Proj (Rajeevan Amirtharajah): A+=1, A=15, A-=3
+    70	EEC289Q - Computer Engineering (Avesta Sasan): A+=4, A=10, A-=2
+    71	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=2, A=18, A-=4
+    72	ENL003A - Writers' Workshop (Kristin Hogue): A+=0, A=10, A-=0
+    73	ENL005F - Writing: Fiction (): A+=1, A=21, A-=0
+    74	ENL005P - Writing: Poetry (Sydney Lane): A+=22, A=0, A-=0
+    75	ENL106 - English Grammar (): A+=4, A=8, A-=1
+    76	ENL185B - Lit by Women 1800-1900 (Elizabeth Giardina): A+=1, A=8, A-=4
+    77	ENL237 - Seminar for Writers (Margaret Ronda): A+=0, A=15, A-=0
+    78	ENL290F - CW: Fiction (Pamela Houston): A+=2, A=10, A-=0
+    79	ENL290P - CW: Poetry (Kathleen Peterson): A+=10, A=0, A-=0
+    80	ENV200A - Env Management & Policy (Eric Post): A+=35, A=1, A-=0
+    81	ENV224 - Data & Viz in R (Tyler Scott): A+=0, A=29, A-=0
+    82	ESP298 - Directed Group Study (James Sanchirico): A+=0, A=11, A-=1
+    83	FOR201A - Forensic Science-A (Ashley Hall): A+=18, A=5, A-=0
+    84	FOR207 - Forensic Spectroscopy (Barry Miller): A+=6, A=10, A-=3
+    85	FOR221L - Forensic Instrument Lab (Craig Triebold): A+=11, A=0, A-=0
+    86	FRS001 - First-Year Seminar (Ian Korf): A+=4, A=10, A-=1
+    87	FRS002 - First-Year Seminar (Konstantinos Zarbalis): A+=3, A=13, A-=0
+    88	FRS002 - First-Year Seminar (Peter Hernes): A+=8, A=4, A-=0
+    89	FRS002 - First-Year Seminar (Subhash Risbud): A+=3, A=17, A-=0
+    90	FSM120L - Production Lab (Joan Frank): A+=5, A=3, A-=2
+    91	GEL050L - Physical Geology Lab (Eric Cowgill): A+=0, A=8, A-=7
+    92	GEL186 - Facilitating Learning (Mary Stevenson): A+=0, A=24, A-=1
+    93	GEL186 - Facilitating Learning (Mary Stevenson): A+=0, A=28, A-=0
+    94	GEL227 - Isotope Biogeochemistry (Eliot Atekwana): A+=4, A=6, A-=0
+    95	GEO200AN - Geographical Concepts (Diana Davis): A+=7, A=2, A-=1
+    96	HDE141 - Fld Std Chd/Adolescents (Lisa Rapalyea): A+=42, A=8, A-=1
+    97	HIN021 - Intermed Hindi/Urdu (Poonam Chauhan): A+=11, A=0, A-=0
+    98	HIS002Y - Intro History of Science (Daniel Stolzenberg): A+=0, A=6, A-=5
+    99	HIS017B - History Of The U S (Karen Gettelman): A+=2, A=13, A-=0
+   100	HIS104A - Intro To Research (Baki Tezcan): A+=5, A=3, A-=3
+   101	IST008B - Humanities (Shagufta Fatema): A+=13, A=10, A-=0
+   102	JPN121 - Advanced Japanese 1 (Nobuko Koyama): A+=10, A=3, A-=3
+   103	LDA140 - Green Bldg Des Matrls (Jessica Colvin): A+=10, A=8, A-=0
+   104	LDA160 - Design & Build Studio (Gabino Marquez): A+=2, A=13, A-=2
+   105	LIN205C - Topics Linguistic Theory (David Corina): A+=9, A=0, A-=1
+   106	MAE228 - Intro to BioMEMS (Cristina Davis): A+=0, A=13, A-=0
+   107	MAE252 - Autonomous Robotics (Sanjay Joshi): A+=0, A=6, A-=8
+   108	MAT280 - Topics In Math (Daping Weng): A+=14, A=0, A-=0
+   109	MCN262 - Child & Adolescent Nutri (Jane Heinig): A+=8, A=5, A-=1
+   110	MGB401BY - Org Strategy & Structure (Naga Lakshmi Damaraju): A+=17, A=6, A-=0
+   111	MGP223 - Power & Influence (Donald Palmer): A+=6, A=3, A-=2
+   112	MGP437 - Healthcare Analytics (Sharad Gupta): A+=0, A=17, A-=0
+   113	MGP490V - Topics in Gen Mgmt (Mark Smith): A+=0, A=13, A-=0
+   114	MGT416 - Private Equity (Sorin Maruster): A+=1, A=15, A-=0
+   115	MGT440 - Intgd Management Project (Keith Weissglass): A+=2, A=7, A-=1
+   116	MGT490 - Topics in Business (Hemant Vaidya): A+=9, A=9, A-=3
+   117	MGT490 - Topics in Business (Marc Lowe): A+=0, A=11, A-=5
+   118	MGV438V - Quant Tool for Bus (Cyrus Aram): A+=0, A=5, A-=5
+   119	MGV440V - Intgd Management Project (William Cron): A+=0, A=12, A-=4
+   120	MGV440V - Intgd Management Project (William Cron): A+=5, A=10, A-=5
+   121	MIB200A - Microbial Biology (Bart Weimer): A+=2, A=8, A-=3
+   122	MIC215 - Recombinant DNA (Renee Tsolis): A+=0, A=14, A-=0
+   123	MPM208 - Planning & Reporting I (Janet Foley): A+=3, A=17, A-=0
+   124	MPM210 - Advncd Health Leadership (Simon Anthony): A+=2, A=5, A-=14
+   125	MSC022A - Team Leadership (Eric Park): A+=13, A=0, A-=0
+   126	MUS003A - Intro Music Theory Pt 1 (Christopher Froh): A+=7, A=11, A-=4
+   127	MUS131A - Voice (Jonathan Nadel): A+=3, A=11, A-=0
+   128	MUS131A - Voice (Zoila Munoz-Diaz): A+=1, A=9, A-=1
+   129	MUS131G - Cello (Susan Lamb): A+=0, A=10, A-=1
+   130	NAS005 - Intro to NA Lit (Jason Tena-Encarnacion): A+=23, A=2, A-=0
+   131	NAS110A - Quechua Beginning 1 (Zoila Mendoza): A+=0, A=13, A-=0
+   132	NAS200 - Basic Concepts/NAS (Beth Rose Middleton Manning): A+=0, A=13, A-=0
+   133	NRS225 - Professional Nurse Role (Shana Ruggenberg): A+=37, A=4, A-=0
+   134	NRS298 - Special Topics (philippe goldin): A+=0, A=14, A-=0
+   135	NRS423 - Psychosocial Wellness (Lynda Creighton-Wong): A+=0, A=38, A-=9
+   136	NRS428 - Capstone Nurse Practicum (Jennifer Edwards): A+=0, A=39, A-=2
+   137	NRS429A - Collaborative Practice A (Shana Ruggenberg): A+=43, A=2, A-=2
+   138	NRS429F - Collaborative Practice F (Shana Ruggenberg): A+=34, A=7, A-=0
+   139	NUB210A - Advanced Nutrition I (Patricia Oteiza De Fraga): A+=3, A=10, A-=2
+   140	NUT290 - Beginning Nutrition Sem (Fawaz Haj): A+=15, A=0, A-=0
+   141	PAS260 - Behavioral Health (Ashley King): A+=49, A=14, A-=0
+   142	PHA205 - Problems in Pharmacology (Johannes Hell): A+=1, A=10, A-=2
+   143	PHI005 - Critical Reasoning (Thorian Harris): A+=15, A=10, A-=5
+   144	PHY243B - Surface Physics (Shirley Chiang): A+=2, A=7, A-=1
+   145	PLP201A - Plant Disease (Tiffany Lowe-Power): A+=5, A=5, A-=0
+   146	PLS124 - Intro Digital Agric (Troy Magney): A+=16, A=5, A-=1
+   147	PMI203 - Exp Des & Data Anlys (Christopher Barker): A+=0, A=23, A-=1
+   148	POL140E - Policy-Making Processes (Ryan Hubert): A+=0, A=20, A-=1
+   149	POL190 - Intl Relations (Ryan Hubert): A+=0, A=20, A-=1
+   150	POL285 - Causal Inference in Pol (Lauren Peritz): A+=5, A=6, A-=1
+   151	PSC182 - Laboratory Research (Jeffrey Sherman): A+=0, A=11, A-=0
+   152	PSC217 - Behavioral Genetics (Brian Trainor): A+=6, A=4, A-=0
+   153	PSC272 - Topics in Developmental (Lindsay Bowman): A+=0, A=8, A-=3
+   154	PSC289A - Current Resrch in Psych (Lisa Oakes): A+=0, A=9, A-=0
+   155	PSC290 - Seminar (Emorie Beck): A+=0, A=21, A-=3
+   156	PSC290 - Seminar (Katharine Graf Estes): A+=0, A=11, A-=0
+   157	RST040 - New Testament (Wendy Terry): A+=13, A=10, A-=1
+   158	RST130 - Topics Rel Studies (Mairaj Syed): A+=15, A=5, A-=0
+   159	SOC194HA - Honors (Erin Hamilton): A+=0, A=10, A-=0
+   160	SPA022 - Intermediate Spanish (Travis Bradley): A+=6, A=3, A-=2
+   161	SPA215 - Special Topics (Agustina Carando): A+=10, A=6, A-=0
+   162	SPH204 - Globalization & Health (Hadeer Al-Ani): A+=6, A=18, A-=0
+   163	SPH209 - Epi Hist in Publc Health (Irva Hertz-Picciotto): A+=1, A=10, A-=0
+   164	STA221 - Adv Stat Computing (Ricardo Masini): A+=4, A=30, A-=4
+   165	STA231A - Math Stats I (Ethan Anderes): A+=0, A=13, A-=1
+   166	STA237A - Time Series Analysis (Alexander Aue): A+=0, A=13, A-=4
+   167	STS121 - Medical Anthropology (Rebecca Jones): A+=1, A=9, A-=0
+   168	UWP001 - Academic Literacies (Alison Oses): A+=0, A=25, A-=0
+   169	UWP001 - Academic Literacies (Briel Brown): A+=20, A=6, A-=0
+   170	UWP001 - Academic Literacies (Evan Manzanetti): A+=23, A=1, A-=1
+   171	UWP001 - Academic Literacies (Melina Rodriguez): A+=0, A=25, A-=0
+   172	UWP001A - Writers' Workshop (Jeremy Freeman): A+=11, A=1, A-=0
+   173	UWP001V - Academic Literacies (Taylor Holden): A+=21, A=3, A-=1
+   174	UWP007M - Multilingual Writing (Sophia Minnillo): A+=9, A=7, A-=2
+   175	UWP048 - Style in the Essay (Gregory Miller): A+=0, A=22, A-=0
+   176	UWP101 - Advanced Composition (Joseph Horton): A+=1, A=19, A-=1
+   177	UWP104A - Business Writing (Carolyn Gubala): A+=7, A=15, A-=3
+   178	UWP104AY - Business Writing Hybrid (Theodore Geier): A+=0, A=25, A-=0
+   179	UWP104AY - Business Writing Hybrid (Theodore Geier): A+=0, A=25, A-=0
+   180	UWP104E - Writing in Science (Katharine Rodger): A+=0, A=24, A-=1
+   181	UWP104FY - Writing in Health Prof (Theresa Walsh): A+=0, A=24, A-=1
+Quarter: FQ2024
+-----------------
+     1	ABG202 - Grant Writing (Fabio Soares de Lima): A+=2, A=8, A-=2
+     2	ABG298 - Group Study (Russell Hovey): A+=0, A=10, A-=0
+     3	ANS115 - Horse Production (Amy Mclean): A+=5, A=8, A-=0
+     4	ANT002 - Cultural Anthropology (Li Zhang): A+=12, A=6, A-=1
+     5	ANT210 - Aspect/Cult Struct (Joseph Dumit): A+=0, A=18, A-=0
+     6	ARE194HA - Senior Research Thesis (Kristin Kiesel): A+=0, A=15, A-=0
+     7	ART110DA - Photobook (Christopher Woodcock): A+=11, A=9, A-=4
+     8	ART125B - IntermedPrntmkg:Intaglio (Emily Gui): A+=3, A=16, A-=1
+     9	BCB210 - Mol Genetics & Genomics (Li-En Jao): A+=0, A=13, A-=0
+    10	BCB220L - Adv Biochem Lab Rotation (Celina Juliano): A+=3, A=10, A-=0
+    11	BIM174 - Microcontroller Lab (Jennifer Choi): A+=4, A=12, A-=8
+    12	BIM180 - Clinical Needs Finding (Jinhwan Kim): A+=2, A=4, A-=6
+    13	BIM189C - Biomedical Engineering (Wenting Gao): A+=4, A=8, A-=0
+    14	BIS298 - Group Study (Aldrin Gomes): A+=0, A=12, A-=0
+    15	CDM198 - Directed Group Study (Stephanie Boluk): A+=0, A=11, A-=0
+    16	CHE240 - Adv Analytical Chem (Kristie Koski): A+=0, A=18, A-=0
+    17	CHE261 - Current Topics (Annaliese Franz): A+=0, A=8, A-=2
+    18	CHE261 - Current Topics (Jared Shaw): A+=0, A=11, A-=0
+    19	CHE298 - Group Study (Susan Kauzlarich): A+=16, A=0, A-=0
+    20	CHI010 - Intro Chicana/o Studies (Lorena Marquez): A+=10, A=13, A-=2
+    21	CHI010 - Intro Chicana/o Studies (Lorena Marquez): A+=15, A=9, A-=0
+    22	CHI010 - Intro Chicana/o Studies (Lorena Marquez): A+=22, A=1, A-=2
+    23	CHI010 - Intro Chicana/o Studies (Lorena Marquez): A+=6, A=17, A-=2
+    24	COM007 - Lit of Fantsy & Supernat (Timothy Parrish): A+=4, A=18, A-=2
+    25	DES015 - Form & Color (Melissa Chandon): A+=21, A=2, A-=0
+    26	DES051 - CAD for Designers (Joseph Pierre): A+=0, A=24, A-=0
+    27	DES145 - History Visual Comm (Glenda Drew): A+=12, A=11, A-=5
+    28	DRA002 - Acting: The Basics (Michele Leavy): A+=0, A=24, A-=1
+    29	DRA002 - Acting: The Basics (Michele Leavy): A+=0, A=25, A-=0
+    30	DRA010 - Intro to Performance (Diego Martinez-Campos): A+=26, A=0, A-=0
+    31	DRA010 - Intro to Performance (Mary Beth Cavanaugh): A+=14, A=9, A-=3
+    32	DRA042B - Intermediate Ballet (Stuart Carroll): A+=0, A=19, A-=0
+    33	EBS200 - Rsch Meth in Bio Sys Eng (Isaya Kisekka): A+=8, A=5, A-=0
+    34	ECH001 - Design of Coffee (Tonya Kuhl): A+=3, A=33, A-=0
+    35	ECH001 - Design of Coffee (Tonya Kuhl): A+=8, A=27, A-=0
+    36	ECH001 - Design of Coffee (Tonya Kuhl): A+=9, A=27, A-=0
+    37	ECH001Y - Design of Coffee (Tonya Kuhl): A+=9, A=27, A-=0
+    38	ECI141L - Hydraulics Lab (Fabian Bombardelli): A+=9, A=0, A-=3
+    39	ECI189C - Engr Planning (Colleen Bronner): A+=0, A=16, A-=0
+    40	ECI244A - Life Cycle Assessment (Alissa Kendall): A+=2, A=17, A-=6
+    41	ECI256 - Urban Traf Mgt & Cntrl (Michael Zhang): A+=1, A=9, A-=0
+    42	ECI267 - Water Res Mgt (Jay Lund): A+=0, A=10, A-=8
+    43	ECL234 - Bayesian Models (Xiaoli Dong): A+=1, A=20, A-=6
+    44	ECS153 - Computer Security (Hao Chen): A+=1, A=12, A-=0
+    45	ECS188 - Ethics in an Age of Tech (Gabriel Simmons): A+=5, A=23, A-=1
+    46	ECS235A - Computer & Info Security (Matthew Bishop): A+=0, A=62, A-=7
+    47	ECS289A - Computer Science Theory (Isaac Kim): A+=2, A=11, A-=0
+    48	EDU151 - Multilingualism in K-12 (Claudia Rodriguez-Mojica): A+=29, A=0, A-=1
+    49	EDU200 - Educational Research (Rebecca Ambrose): A+=0, A=11, A-=0
+    50	EDU206A - Inq Class Prac: Trad (Lisa Sullivan): A+=0, A=29, A-=0
+    51	EDU281A - Problem-Based Pt 1 (Michal Kurlaender): A+=0, A=13, A-=2
+    52	EDU282A - Educational Leadership (Gloria Rodriguez): A+=0, A=15, A-=0
+    53	EDU291 - Proseminar in Education (Nicole Sparapani): A+=11, A=0, A-=0
+    54	EDU292 - Special Topics in Educ (Cassandra Hart): A+=2, A=13, A-=0
+    55	EDU292 - Special Topics in Educ (Elizabeth Montano): A+=0, A=15, A-=0
+    56	EDU292 - Special Topics in Educ (Marcela Cuellar): A+=0, A=15, A-=0
+    57	EDU300B - Elem School Reading, B (Chantal Lacrampe-Mace): A+=0, A=29, A-=0
+    58	EDU304A - Teaching in Elem School (Claudia Rodriguez-Mojica): A+=0, A=15, A-=0
+    59	EDU306A - Teach Secondary Sch (Megan Bettis): A+=0, A=6, A-=4
+    60	EDU309B - K-9 Math, B (Nancy Tseng): A+=10, A=17, A-=2
+    61	EDU310 - Teaching as Practice (Claudia Rodriguez-Mojica): A+=0, A=15, A-=0
+    62	EDU310 - Teaching as Practice (Nancy Tseng): A+=0, A=14, A-=0
+    63	EDU310 - Teaching as Practice (Rebecca Rosa Stevens): A+=1, A=13, A-=1
+    64	EGG201 - Life Cycle Assessment (Alissa Kendall): A+=1, A=13, A-=4
+    65	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=11, A=12, A-=1
+    66	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=12, A=13, A-=0
+    67	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=15, A=8, A-=1
+    68	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=16, A=8, A-=1
+    69	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=21, A=3, A-=0
+    70	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=4, A=19, A-=1
+    71	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=7, A=14, A-=3
+    72	ENG108 - Launching a Company (Nitin Gupta): A+=15, A=10, A-=1
+    73	ENL003 - Intro To Literature (Evan Manzanetti): A+=25, A=0, A-=0
+    74	ENL005F - Writing: Fiction (Douglas McBride): A+=15, A=7, A-=0
+    75	ENL005P - Writing: Poetry (Zinzi Clemmons): A+=11, A=10, A-=0
+    76	ENL194H - Seminar for Honors (Matthew Stratton): A+=0, A=13, A-=0
+    77	ENL237 - Seminar for Writers (Maceo Montoya): A+=0, A=7, A-=0
+    78	ENL252 - Victorian Literature (Elizabeth Miller): A+=1, A=9, A-=1
+    79	ENL290P - CW: Poetry (Cindy Ok): A+=0, A=12, A-=0
+    80	ENV200A - Env Management & Policy (Eric Post): A+=32, A=0, A-=0
+    81	EPI208 - Analysis, Inter EPI data (Rebecca Schmidt): A+=7, A=8, A-=6
+    82	ESP161 - Environmental Law (Tracy Winsor): A+=20, A=8, A-=1
+    83	ETX220L - Toxicant Analys Lab (Qi Zhang): A+=0, A=11, A-=2
+    84	ETX298 - Directed Gp Study (Allison Ehrlich): A+=0, A=11, A-=0
+    85	EVE198 - Directed Group Study (): A+=4, A=5, A-=1
+    86	FOR201A - Forensic Science-A (Ashley Hall): A+=9, A=3, A-=2
+    87	FRS001 - First-Year Seminar (Bassam Younis): A+=0, A=14, A-=0
+    88	FRS001 - First-Year Seminar (Da Liu): A+=4, A=7, A-=2
+    89	FRS001 - First-Year Seminar (John Bolander): A+=0, A=12, A-=3
+    90	FRS002 - First-Year Seminar (Edward Pugh Jr): A+=5, A=6, A-=6
+    91	FRS002 - First-Year Seminar (Ian Korf): A+=2, A=8, A-=3
+    92	FRS002 - First-Year Seminar (Konstantinos Zarbalis): A+=1, A=17, A-=1
+    93	FRS002 - First-Year Seminar (Ruben Zecena): A+=15, A=2, A-=0
+    94	FRS002 - First-Year Seminar (Sarah Faye): A+=18, A=1, A-=0
+    95	FRS002 - First-Year Seminar (Sarah Faye): A+=18, A=1, A-=0
+    96	FRS002 - First-Year Seminar (Sudipta Sen): A+=1, A=8, A-=5
+    97	FSE310 - Teaching Science (Mona Monfared): A+=0, A=12, A-=0
+    98	FSM120L - Production Lab (Francene Steinberg): A+=3, A=7, A-=0
+    99	FSM120L - Production Lab (Francene Steinberg): A+=4, A=5, A-=2
+   100	FSM120L - Production Lab (Joan Frank): A+=10, A=0, A-=1
+   101	FSM120L - Production Lab (Joan Frank): A+=7, A=4, A-=1
+   102	FST230 - Food & Gut Microbiota (David Mills): A+=1, A=8, A-=5
+   103	GDB187 - Global Disease Biol Sem (Gitta Coaker): A+=13, A=9, A-=0
+   104	GEL232 - Oceans & Climate Change (Hannah Palmer): A+=0, A=13, A-=0
+   105	GEL298 - Group Study (Magali Billen): A+=0, A=11, A-=0
+   106	GGG201A - Genetic Analysis (Luis Carvajal-Carmona): A+=2, A=10, A-=0
+   107	HDE140L - Lab: Early Childhood (Dana Ganaden): A+=17, A=1, A-=1
+   108	HDE140L - Lab: Early Childhood (Hannah Anderson): A+=18, A=11, A-=2
+   109	HDE298 - Group Study (Kali Trzesniewski): A+=0, A=15, A-=0
+   110	HEB001 - Elementary Hebrew (Itay Eisinger): A+=5, A=4, A-=2
+   111	HIS007A - Latin America to 1700 (Andres Resendez): A+=12, A=2, A-=1
+   112	HIS104A - Intro To Research (Baki Tezcan): A+=15, A=1, A-=2
+   113	HNR194 - Honors Seminar (Eleftheria Arapoglou): A+=25, A=7, A-=1
+   114	HUM010D - Critic Discussion (Claire Goldstein): A+=11, A=10, A-=0
+   115	IAD200N - Agricultural Development (Amanda Crump): A+=0, A=15, A-=0
+   116	IST008B - Humanities (Shagufta Fatema): A+=19, A=2, A-=0
+   117	LDA140 - Green Bldg Des Matrls (Jessica Colvin): A+=1, A=14, A-=6
+   118	LDA160 - Design & Build Studio (Gabino Marquez): A+=0, A=12, A-=4
+   119	LDA182 - Adv LA Studio I (Daniela Tavares): A+=0, A=16, A-=0
+   120	MAT215C - Topology (Jennifer Schultens): A+=0, A=13, A-=1
+   121	MCN260 - Nutrition in Pregnancy (Christine Stewart): A+=12, A=7, A-=1
+   122	MGB287 - Bus Database & Marketing (Yinghui Yang): A+=1, A=11, A-=0
+   123	MGB401BY - Org Strategy & Structure (Naga Lakshmi Damaraju): A+=16, A=12, A-=0
+   124	MGB407 - Storytelling for Leaders (Doy Charnsupharindr): A+=1, A=10, A-=0
+   125	MGB432V - Pro Mgt w Aps in Hlthcre (Amber Beckler): A+=0, A=10, A-=0
+   126	MGB490B - Topics in Gen Mgmt-Ext (Vasundhara Unnava): A+=0, A=11, A-=4
+   127	MGT407 - Storytelling for Leaders (Doy Charnsupharindr): A+=4, A=8, A-=0
+   128	MGT440 - Intgd Management Project (Kelly Wilson): A+=7, A=5, A-=0
+   129	MGT440 - Intgd Management Project (Mary Kay Vona): A+=6, A=4, A-=0
+   130	MGT490 - Topics in Business (Hemant Vaidya): A+=13, A=0, A-=0
+   131	MGT490 - Topics in Business (Marc Lowe): A+=0, A=6, A-=15
+   132	MGV239V - Digital Marketing (Kay Peters): A+=1, A=13, A-=8
+   133	MGV246V - Negotiations in Orgs (Gareth Keeves): A+=0, A=11, A-=0
+   134	MGV246V - Negotiations in Orgs (Gareth Keeves): A+=0, A=14, A-=1
+   135	MHI210 - Intro Health Informatics (Mark Carroll): A+=7, A=3, A-=1
+   136	MIB201L - Adv Micro Lab Rotation (Melanie Gareau): A+=13, A=0, A-=0
+   137	MIC215 - Recombinant DNA (Renee Tsolis): A+=0, A=22, A-=1
+   138	MPM208 - Planning & Reporting I (Janet Foley): A+=0, A=11, A-=0
+   139	MUS116 - Music of the Beatles (Mika Pelo): A+=14, A=11, A-=0
+   140	MUS116 - Music of the Beatles (Mika Pelo): A+=15, A=9, A-=2
+   141	MUS131A - Voice (Jonathan Nadel): A+=3, A=10, A-=0
+   142	MUS131A - Voice (Zoila Munoz-Diaz): A+=2, A=9, A-=0
+   143	MUS203 - Music Composition (Samuel Nichols): A+=1, A=10, A-=1
+   144	NAS005 - Intro to NA Lit (Ingrid Sub Cuc): A+=24, A=2, A-=0
+   145	NAS005 - Intro to NA Lit (Sun Ny Vang): A+=24, A=1, A-=1
+   146	NAS005A - Writer's Workshop (Jason Tena-Encarnacion): A+=12, A=0, A-=0
+   147	NRS225 - Professional Nurse Role (Shana Ruggenberg): A+=38, A=8, A-=0
+   148	NRS301 - Learner Centered Teachng (Elizabeth Rice): A+=3, A=11, A-=0
+   149	NRS305AY - DNP Immersion A (Janet Meda): A+=25, A=0, A-=0
+   150	NRS321BY - PMHNP Role Development (Elizabeth Rice): A+=18, A=13, A-=1
+   151	NRS323AV - Psychotherapy Lifespan I (Lynda Creighton-Wong): A+=12, A=19, A-=1
+   152	NRS358BV - Applied Biostatistics (Joanne Minnick): A+=2, A=13, A-=2
+   153	NRS423 - Psychosocial Wellness (Lynda Creighton-Wong): A+=0, A=39, A-=4
+   154	NRS428 - Capstone Nurse Practicum (Jennifer Edwards): A+=8, A=37, A-=1
+   155	NRS429A - Collaborative Practice A (Teuta Kadiu): A+=15, A=28, A-=0
+   156	NRS429D - Collaborative Practice D (Shana Ruggenberg): A+=17, A=29, A-=0
+   157	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): A+=11, A=7, A-=2
+   158	NUT190 - Proseminar in Nutrition (Fawaz Haj): A+=11, A=3, A-=0
+   159	NUT190 - Proseminar in Nutrition (Fawaz Haj): A+=12, A=4, A-=1
+   160	NUT190 - Proseminar in Nutrition (Fawaz Haj): A+=15, A=3, A-=0
+   161	NUT290 - Beginning Nutrition Sem (Fawaz Haj): A+=15, A=0, A-=0
+   162	PAS459 - Supervised Other Spec (Teresa Thetford): A+=1, A=10, A-=3
+   163	PHA205 - Problems in Pharmacology (Johannes Hell): A+=1, A=15, A-=0
+   164	PMI203 - Exp Des & Data Anlys (Christopher Barker): A+=0, A=15, A-=0
+   165	POL137 - Int Rel Western Europe (Robert Taylor): A+=1, A=15, A-=7
+   166	POL147A - West European Politics (Robert Taylor): A+=0, A=20, A-=4
+   167	POL190 - Intl Relations (Robert Taylor): A+=0, A=24, A-=0
+   168	POL211 - Research Methods (Hanno Hilbig): A+=0, A=7, A-=3
+   169	PSC210 - Fund Cog Neuroimaging (Charan Ranganath): A+=0, A=12, A-=0
+   170	PSC290 - Seminar (Mijke Rhemtulla): A+=6, A=4, A-=1
+   171	PUN021 - Intermediate Punjabi (Kuldeep Singh): A+=6, A=8, A-=0
+   172	RST110 - Meaning & Identity (Naomi Janowitz): A+=0, A=21, A-=0
+   173	SOC001 - Intro Sociology (Alvaro Medel-Herrero): A+=19, A=5, A-=0
+   174	SOC001 - Intro Sociology (Alvaro Medel-Herrero): A+=20, A=5, A-=0
+   175	SOC001 - Intro Sociology (Alvaro Medel-Herrero): A+=21, A=4, A-=0
+   176	SOC001 - Intro Sociology (Alvaro Medel-Herrero): A+=21, A=5, A-=1
+   177	SOC001 - Intro Sociology (Alvaro Medel-Herrero): A+=22, A=3, A-=0
+   178	SOC002 - Self & Society (David Kyle): A+=9, A=13, A-=4
+   179	SOC194HA - Honors (Erin Hamilton): A+=7, A=5, A-=2
+   180	SOC201 - Social Research (Ester Apesoa-Varano): A+=0, A=10, A-=0
+   181	SPH210 - Public Health Informatic (Mark Carroll): A+=43, A=0, A-=0
+   182	STA231A - Math Stats I (Ethan Anderes): A+=0, A=15, A-=0
+   183	STA250 - Appl & Comp Statistics (Jie Peng): A+=4, A=10, A-=0
+   184	URD001 - Elementary Urdu (Shagufta Fatema): A+=14, A=3, A-=0
+   185	UWP001 - Academic Literacies (Aaron Halverson): A+=24, A=0, A-=1
+   186	UWP001 - Academic Literacies (Alison Oses): A+=0, A=25, A-=0
+   187	UWP001 - Academic Literacies (Daniel Melzer): A+=18, A=3, A-=1
+   188	UWP001 - Academic Literacies (Elijah Two Bears): A+=0, A=25, A-=0
+   189	UWP001 - Academic Literacies (Leila Easa): A+=3, A=19, A-=3
+   190	UWP001 - Academic Literacies (Luna Loganayagam): A+=0, A=25, A-=0
+   191	UWP001A - Writers' Workshop (Jeremy Freeman): A+=11, A=2, A-=1
+   192	UWP048 - Style in the Essay (Gregory Miller): A+=0, A=16, A-=0
+   193	UWP101V - Advanced Composition (Jane Beal): A+=11, A=10, A-=4
+   194	UWP102E - Writing in Engineering (Angela Morris): A+=0, A=22, A-=2
+   195	UWP104AV - Business Writing Virtual (Angela Morris): A+=0, A=15, A-=10
+   196	UWP104E - Writing in Science (Katharine Rodger): A+=2, A=22, A-=1
+   197	UWP104F - Writing in Health Prof (Erika Strandjord): A+=2, A=21, A-=2
+   198	UWP104FV - Writing in Health Prof (Sarah Faye): A+=8, A=16, A-=1
+   199	UWP104FY - Writing in Health Prof (Theresa Walsh): A+=0, A=24, A-=1
+   200	UWP111A - Spec Topic in Journalism (Kenneth Andersen): A+=13, A=2, A-=2
+Quarter: SQ2017
+-----------------
+     1	AAS180 - Race Ethnicity Lat Amer (Bettina Ng'weno): A+=6, A=10, A-=5
+     2	ANT191 - Topics in Anthropology (John Darwent): A+=0, A=11, A-=3
+     3	ART11 - Beginning Printmaking (Noah Breuer): A+=0, A=22, A-=2
+     4	ART143 - AdvCerSculp: Studio Pro (Annabeth Rosen): A+=2, A=8, A-=1
+     5	ART2 - Beginning Drawing (Bryce Vinokurov): A+=0, A=17, A-=5
+     6	BIT161B - Plant Genetics & Bio Lab (Alan Bennett): A+=0, A=8, A-=6
+     7	CHI157 - Chicana/o Narrative (Maceo Montoya): A+=7, A=18, A-=6
+     8	DRA043A - Contact Improv (Ante Ursic): A+=11, A=18, A-=0
+     9	DRA10 - Intro To Acting (Danika Burmester): A+=12, A=9, A-=4
+    10	DRA180D - Theatre Lab Crew (Robin Gray): A+=10, A=6, A-=0
+    11	DRA180F - Costume Lab (Maggie Morgan): A+=0, A=15, A-=0
+    12	EDU180C - Computers in Education (Melissa Farrar): A+=20, A=7, A-=0
+    13	EME198 - Directed Grp Study (Mohamed Hafez): A+=0, A=36, A-=0
+    14	EMS188B - Materials Design Project (Ricardo Castro): A+=8, A=11, A-=0
+    15	EMS2 - Materials Marvels (Ricardo Castro): A+=14, A=0, A-=2
+    16	ENL100F - Creat Writ: Fiction (Greg Glazner): A+=0, A=14, A-=4
+    17	ENL3 - Intro To Literature (Timothy O'Neil): A+=3, A=12, A-=10
+    18	FRS1 - First-Year Seminar (Charles Hunt): A+=0, A=11, A-=0
+    19	FRS1 - First-Year Seminar (Cristina Gonzalez): A+=0, A=13, A-=6
+    20	FRS1 - First-Year Seminar (James Carey): A+=0, A=12, A-=0
+    21	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    22	FRS2 - First-Year Seminar (Alberto Odor): A+=0, A=30, A-=0
+    23	FRS2 - First-Year Seminar (Carlos Puente): A+=0, A=8, A-=4
+    24	FRS2 - First-Year Seminar (David Follette): A+=2, A=16, A-=1
+    25	FRS2 - First-Year Seminar (Gerhard Bauer): A+=5, A=13, A-=0
+    26	FRS2 - First-Year Seminar (Hwai-Jong Cheng): A+=8, A=5, A-=1
+    27	FRS2 - First-Year Seminar (Ines Hernandez-Avila): A+=5, A=4, A-=3
+    28	FRS2 - First-Year Seminar (Irina Delusina): A+=16, A=0, A-=0
+    29	FRS2 - First-Year Seminar (Jodi Nunnari): A+=11, A=3, A-=0
+    30	FRS2 - First-Year Seminar (Julian Elias): A+=13, A=5, A-=1
+    31	FRS2 - First-Year Seminar (Marc Facciotti): A+=1, A=14, A-=2
+    32	FRS2 - First-Year Seminar (Nicholas Palomares): A+=0, A=14, A-=0
+    33	FRS2 - First-Year Seminar (Richard Scalettar): A+=0, A=16, A-=1
+    34	FRS2 - First-Year Seminar (Serena Williams): A+=5, A=7, A-=3
+    35	FRS2 - First-Year Seminar (Shirley Chiang): A+=0, A=14, A-=0
+    36	FRS2 - First-Year Seminar (Stefano Varese): A+=0, A=14, A-=0
+    37	FRS2 - First-Year Seminar (William Sewell): A+=2, A=8, A-=6
+    38	FSM120L - Production Lab (Joan Frank): A+=12, A=19, A-=0
+    39	FST190 - Senior Seminar (Glenn Young): A+=0, A=74, A-=0
+    40	HIS102X - Comparative History (Justin Leroy): A+=1, A=7, A-=4
+    41	HMR138 - Human Rights & Gender (Meaghan O'Keefe): A+=4, A=9, A-=0
+    42	LDA171 - Urban Design & Planning (Elizabeth Boults): A+=0, A=7, A-=10
+    43	MSC13 - Intro Operations (Andrew Feske): A+=34, A=6, A-=0
+    44	MSC141 - Ethical Leadership (Brian Knieriem): A+=1, A=13, A-=0
+    45	MSC21 - Military History (Michael Mcgowan): A+=26, A=0, A-=0
+    46	MUS131A - Voice (Jonathan Nadel): A+=5, A=7, A-=1
+    47	MUS131A - Voice (Zoila Munoz-Diaz): A+=5, A=4, A-=3
+    48	NUT130 - Expt in Nutrition (Bo Lonnerdal): A+=2, A=10, A-=0
+    49	PER3 - Elementary Persian (Navid Saberi-Najafi): A+=0, A=28, A-=5
+    50	POL193 - Res In Practical Pol (Kristina Victor): A+=0, A=10, A-=0
+    51	POR23 - Portuguese Composition I (Eugenia Magnoli Da Silva Fernandes): A+=5, A=4, A-=1
+    52	PSC190 - Seminar (George Mangun): A+=6, A=9, A-=3
+    53	PSC190 - Seminar (Katharine Graf Estes): A+=0, A=15, A-=0
+    54	UWP102B - Writing in Bio Sci (Katherine Gossett): A+=0, A=23, A-=2
+    55	UWP111C - Science Journalism (Katharine Rodger): A+=0, A=17, A-=2
+    56	VEN111 - World Viticulture (Susan Ebeler): A+=9, A=11, A-=1
+Quarter: SQ2018
+-----------------
+     1	AMS001C - American Lives (Grace Wang): A+=1, A=19, A-=2
+     2	ART111A - AdvPhoto: Special Topics (Youngsuk Suh): A+=0, A=12, A-=4
+     3	ART142A - IntermCerSculp: IndPrdMt (Mary Higgins O'Connor): A+=0, A=12, A-=0
+     4	BIM189C - Biomedical Engineering (Karen Moxon): A+=0, A=6, A-=5
+     5	CHI171 - Mex/Chi Mural Wkshp (Jose Arenas): A+=2, A=12, A-=1
+     6	CHI172 - Chi Poster Workshop (Carlos Jackson): A+=8, A=10, A-=3
+     7	DES127B - Studio Practice Sus Des (Beth Ferguson): A+=2, A=6, A-=9
+     8	DRA040B - Intermed Modern Dance (Karola Luttringhaus): A+=14, A=0, A-=0
+     9	DRA10 - Intro To Acting (Joseph Schupbach): A+=18, A=10, A-=1
+    10	DRA121B - Adv Acting: Rehearsal (Janet Younge): A+=3, A=1, A-=6
+    11	DRA180A - Theatre Lab: Performance (David Grenke): A+=0, A=13, A-=0
+    12	DRA180F - Costume Lab (Maggie Morgan): A+=0, A=13, A-=0
+    13	EBS170C - Eng Projects Des Eval (Durham Giles): A+=2, A=13, A-=2
+    14	EDU180C - Computers in Education (WenYen Huang): A+=38, A=5, A-=0
+    15	EMS188B - Materials Design Project (Ricardo Castro): A+=10, A=16, A-=6
+    16	ENH160L - Restoration Ecology Lab (Valerie Eviner): A+=10, A=13, A-=0
+    17	ENL100PA - Creat Writ: Adv Poetry (Joe Wenderoth): A+=1, A=8, A-=3
+    18	FRS1 - First-Year Seminar (Bassam Younis): A+=0, A=12, A-=0
+    19	FRS1 - First-Year Seminar (James Carey): A+=0, A=13, A-=0
+    20	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    21	FRS1 - First-Year Seminar (Robert Irwin): A+=6, A=13, A-=0
+    22	FRS2 - First-Year Seminar (Carlos Puente): A+=3, A=8, A-=0
+    23	FRS2 - First-Year Seminar (Ines Hernandez-Avila): A+=0, A=13, A-=0
+    24	FRS2 - First-Year Seminar (Irina Delusina): A+=13, A=2, A-=0
+    25	FRS2 - First-Year Seminar (Kevin Fang): A+=0, A=19, A-=0
+    26	FRS2 - First-Year Seminar (Neal Williams): A+=10, A=1, A-=0
+    27	FRS2 - First-Year Seminar (Nesrin Sarigul-Klijn): A+=2, A=10, A-=0
+    28	FRS2 - First-Year Seminar (Robert Hackman): A+=4, A=7, A-=0
+    29	FRS2 - First-Year Seminar (Sarah Faye): A+=15, A=0, A-=0
+    30	FRS2 - First-Year Seminar (Shirley Chiang): A+=1, A=10, A-=4
+    31	FRS2 - First-Year Seminar (William Sewell): A+=0, A=11, A-=1
+    32	FST190 - Senior Seminar (Ameer Taha): A+=65, A=18, A-=3
+    33	HNR090X - Honors Discussion Sec (John Furlow): A+=0, A=27, A-=0
+    34	HNR190X - Honors Contract (Joanne Engebrecht): A+=0, A=18, A-=0
+    35	MSC13 - Intro Operations (Aiana Garin): A+=0, A=39, A-=0
+    36	MUS131A - Voice (Jonathan Nadel): A+=2, A=8, A-=0
+    37	MUS131A - Voice (Zoila Munoz-Diaz): A+=8, A=3, A-=0
+    38	NAS181C - Contemp NA Poetry (Ines Hernandez-Avila): A+=6, A=5, A-=0
+    39	NPB198 - Directed Gp Study (Alexander Nord): A+=4, A=10, A-=0
+    40	PHE7 - Prof Act Men & Wom (Danny Hawkins): A+=0, A=18, A-=0
+    41	PHY108L - Optics Laboratory (Xiangdong Zhu): A+=0, A=10, A-=0
+    42	POR31 - Port for Span Speakers (Eugenia Magnoli Da Silva Fernandes): A+=3, A=9, A-=0
+    43	PSC190 - Seminar (Katharine Graf Estes): A+=0, A=19, A-=0
+    44	RST130 - Topics Rel Studies (Mairaj Syed): A+=6, A=4, A-=0
+    45	RUS105 - Adv Russian Conver (Liliana Avramenko): A+=3, A=9, A-=0
+    46	TCS111 - Community Media Prod (Kristopher Fallon): A+=0, A=21, A-=0
+Quarter: SQ2019
+-----------------
+     1	ANS141 - Equine Enterprise (Amy McLean): A+=17, A=4, A-=1
+     2	ANT137 - Meditation & Culture (Alan Klima): A+=2, A=13, A-=4
+     3	ART171 - Mex & Chi Mural Wkshp (Jose Arenas): A+=0, A=10, A-=0
+     4	CHE125 - Adv Methods Phys Chem (Matthew Augustine): A+=3, A=13, A-=1
+     5	CHI171 - Mex/Chi Mural Wkshp (Jose Arenas): A+=2, A=8, A-=5
+     6	CHI198 - Directed Gp Study (Clarissa Rojas): A+=0, A=17, A-=3
+     7	CHI198 - Directed Gp Study (Susy Zepeda): A+=10, A=3, A-=0
+     8	COM195 - Senior Seminar Comp Lit (Michiko Suzuki): A+=0, A=6, A-=7
+     9	DES127B - Studio Practice Sus Des (Beth Ferguson): A+=0, A=19, A-=4
+    10	DES161 - Screen & Digital Print (Alicia Decker): A+=3, A=13, A-=9
+    11	DRA040A - Beginning Modern Dance (Lena Rose Webb-Magee): A+=26, A=6, A-=0
+    12	DRA10 - Intro To Acting (Joseph Schupbach): A+=19, A=10, A-=0
+    13	DRA144B - Chinese Physical Culture (Lynette Hunter): A+=6, A=4, A-=0
+    14	DRA180A - Theatre Lab: Performance (David Grenke): A+=0, A=25, A-=9
+    15	DRA180D - Theatre Lab Crew (David Grenke): A+=0, A=1, A-=0
+    16	DRA28 - Stagecraft & Management (Steven Schmidt): A+=0, A=23, A-=1
+    17	ENL100FA - Creat Writ: Adv Fic (Lucy Corin): A+=2, A=10, A-=1
+    18	ENL100NF - Creat Writ: Non-Fic (Pamela Houston): A+=0, A=16, A-=0
+    19	EVE180B - Experimental Ecology (Louie Yang): A+=0, A=12, A-=0
+    20	FRS1 - First-Year Seminar (Annaliese Franz): A+=0, A=18, A-=0
+    21	FRS1 - First-Year Seminar (Bassam Younis): A+=0, A=13, A-=0
+    22	FRS1 - First-Year Seminar (John Goldberg): A+=18, A=0, A-=1
+    23	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=35, A-=2
+    24	FRS1 - First-Year Seminar (Susan Kauzlarich): A+=11, A=6, A-=0
+    25	FRS2 - First-Year Seminar (Andrea Ross): A+=0, A=12, A-=0
+    26	FRS2 - First-Year Seminar (Annaliese Franz): A+=0, A=14, A-=2
+    27	FRS2 - First-Year Seminar (Carlos Puente): A+=3, A=8, A-=0
+    28	FRS2 - First-Year Seminar (David Follette): A+=4, A=27, A-=6
+    29	FRS2 - First-Year Seminar (Gerhard Bauer): A+=8, A=11, A-=0
+    30	FRS2 - First-Year Seminar (Joseph Dumit): A+=0, A=18, A-=0
+    31	FRS2 - First-Year Seminar (Josephine Andrews): A+=0, A=14, A-=0
+    32	FRS2 - First-Year Seminar (Konstantinos Zarbalis): A+=0, A=14, A-=0
+    33	FRS2 - First-Year Seminar (Markus Luty): A+=0, A=14, A-=0
+    34	FRS2 - First-Year Seminar (Mohamed Hafez): A+=0, A=17, A-=1
+    35	FRS2 - First-Year Seminar (Peter Lichtenfels): A+=0, A=15, A-=0
+    36	FRS2 - First-Year Seminar (Robert Hackman): A+=3, A=9, A-=0
+    37	FRS2 - First-Year Seminar (Sarah Faye): A+=15, A=0, A-=0
+    38	FRS2 - First-Year Seminar (William Sewell): A+=3, A=13, A-=0
+    39	FSM120L - Production Lab (Joan Frank): A+=10, A=29, A-=1
+    40	GEL186 - Facilitating Learning (Mary Stevenson): A+=0, A=94, A-=7
+    41	HNR194 - Honors Seminar (Christina Cogdell): A+=2, A=8, A-=0
+    42	LDA171 - Urban Design & Planning (Sahoko Yui): A+=1, A=14, A-=4
+    43	MUS131A - Voice (Jonathan Nadel): A+=2, A=10, A-=1
+    44	MUS131A - Voice (Zoila Munoz-Diaz): A+=3, A=14, A-=3
+    45	MUS131E - Violin (Jolan Friedhoff): A+=3, A=7, A-=0
+    46	NAS005A - Writer's Workshop (Sean Sell): A+=0, A=11, A-=3
+    47	PER3 - Elementary Persian (Maryam Tamizifar): A+=4, A=12, A-=0
+    48	POL193 - Res In Practical Pol (Jordan Kujala): A+=0, A=41, A-=4
+    49	PSC182 - Laboratory Research (Katharine Graf Estes): A+=0, A=14, A-=0
+    50	PSC190 - Seminar (Christopher Hopwood): A+=8, A=0, A-=7
+    51	RST152 - Justice in MDH (Meaghan O'Keefe): A+=0, A=21, A-=1
+    52	RST160 - Intro Islamic Thought (Mairaj Syed): A+=9, A=2, A-=0
+    53	SPA32 - Span-Native Speakers II (Agustina Carando): A+=27, A=0, A-=0
+    54	SPH198 - Study Community Intl Hth (Mark Carroll): A+=15, A=1, A-=0
+    55	STA160 - Practice in Data Science (Fushing Hsieh): A+=1, A=32, A-=32
+    56	UWP102B - Writing in Bio Sci (Scott Herring): A+=0, A=7, A-=4
+    57	VEN111 - World Viticulture (Susan Ebeler): A+=18, A=3, A-=0
+    58	VEN127L - Post-ferm Processing Lab (David Block): A+=0, A=12, A-=0
+Quarter: SQ2020
+-----------------
+     1	AAS150B - Afro-Amer Vis Arts (Jemma Decristo): A+=0, A=79, A-=0
+     2	AMS160 - Undergraduate Seminar (Jemma Decristo): A+=0, A=22, A-=0
+     3	AMS55 - Food in American Culture (Theodore Geier): A+=0, A=171, A-=0
+     4	ANS127 - Adv Equine Reproduction (Amy McLean): A+=17, A=3, A-=1
+     5	ANS141 - Equine Enterprise (Amy McLean): A+=29, A=2, A-=0
+     6	ANT135 - Media Anthropology (Tarik Elhaik): A+=0, A=31, A-=8
+     7	APC198 - Directed Gp Study (Damian Genetos): A+=3, A=4, A-=6
+     8	ART142A - IntermCerSculp: IndPrdMt (Mary Higgins O'Connor): A+=15, A=4, A-=0
+     9	ART151 - Intermediate Sculpture (Nancy Cohen): A+=0, A=8, A-=4
+    10	ART190 - Seminar in Art Practice (Robin Hill): A+=7, A=5, A-=0
+    11	ART9 - Beginning Photography (Matthew Baum): A+=0, A=21, A-=0
+    12	ASA116 - Asian American Youth (Ga Young Chung): A+=38, A=1, A-=0
+    13	ASA189B - Topics Asian Am Culture (Caroline Valverde): A+=23, A=5, A-=1
+    14	ASA2 - Contemp Iss Asian Amer (Caroline Valverde): A+=100, A=10, A-=4
+    15	BIS023B - Genome Hunters (Alexander Nord): A+=2, A=14, A-=0
+    16	CHI112 - Transnational Migration (Monica Torreiro-Casal): A+=104, A=0, A-=0
+    17	CHI157 - Chicana/o Narrative (Maceo Montoya): A+=0, A=26, A-=0
+    18	CHI171 - Mex/Chi Mural Wkshp (Jose Arenas): A+=1, A=12, A-=1
+    19	CHI60 - Chicana/o Rep in Cinema (Maya Chinchilla): A+=23, A=25, A-=7
+    20	COM180 - Topics In Comp Lit (Cheryl Ross): A+=21, A=3, A-=0
+    21	COM4 - Mjr Wrks Contemp World (Amy Riddle): A+=13, A=8, A-=3
+    22	CTS150 - Media Theory (Timothy Lenoir): A+=52, A=0, A-=0
+    23	DES115 - Letterforms & Type (Brett Snyder): A+=7, A=19, A-=1
+    24	DES127B - Studio Practice Sus Des (Javier Arbona-Homar): A+=3, A=18, A-=1
+    25	DES14 - Design Drawing (Melissa Chandon): A+=17, A=7, A-=1
+    26	DES198 - Directed Gp Study (Christina Cogdell): A+=3, A=15, A-=3
+    27	DRA021A - Fundamentals of Act (Michele Leavy): A+=0, A=11, A-=3
+    28	DRA040A - Beginning Modern Dance (Diego Martinez-Campos): A+=22, A=0, A-=0
+    29	DRA042A - Beginning Ballet (Stuart Carroll): A+=0, A=25, A-=0
+    30	DRA042B - Intermediate Ballet (Stuart Carroll): A+=0, A=28, A-=0
+    31	DRA043A - Contact Improv (Kevin Dockery): A+=14, A=6, A-=0
+    32	DRA10 - Intro To Acting (Anuj Vaidya): A+=0, A=24, A-=0
+    33	DRA10 - Intro To Acting (Maurice Moore): A+=24, A=0, A-=0
+    34	DRA127A - Prin of Directing (Sinead Rushe): A+=0, A=9, A-=2
+    35	DRA128 - Theatre Sound (Ned Jacobson): A+=20, A=4, A-=0
+    36	DRA143 - Dance & Movement Studio (Stuart Carroll): A+=0, A=10, A-=0
+    37	DRA180A - Theatre Lab: Performance (Margaret Kemp): A+=13, A=0, A-=0
+    38	EAE141 - Space Systems (Sanjay Joshi): A+=5, A=9, A-=14
+    39	EBS128 - Biomchanics & Ergonomics (Fadi Fathallah): A+=10, A=21, A-=2
+    40	EBS170CL - Engr Proj Des Eval Lab (Ruihong Zhang): A+=3, A=18, A-=0
+    41	ECI193B - Civil/Env Senior Design (Colleen Bronner): A+=27, A=120, A-=0
+    42	EEC134B - RF Systems (Xiaoguang Liu): A+=0, A=17, A-=0
+    43	EEC181B - Dig Sys Design Project (Venkatesh Akella): A+=0, A=7, A-=6
+    44	EMS188B - Materials Design Project (Klaus Van Benthem): A+=10, A=20, A-=0
+    45	ENL003A - Writers' Workshop (Jennifer Colmenero): A+=0, A=23, A-=0
+    46	ENL003A - Writers' Workshop (Lee Emrich): A+=9, A=4, A-=0
+    47	ENL005P - Writing: Poetry (Kathleen Peterson): A+=4, A=45, A-=3
+    48	ENL100FA - Creat Writ: Adv Fic (Lucy Corin): A+=0, A=11, A-=1
+    49	ENL100P - Creat Writ: Poetry (Alice Taylor): A+=0, A=6, A-=11
+    50	ENL100PA - Creat Writ: Adv Poetry (Greg Glazner): A+=3, A=9, A-=0
+    51	ENL189 - Seminar Literary Studies (Gregory Dobbins): A+=2, A=9, A-=2
+    52	ENL3 - Intro To Literature (Jonathan Radocay): A+=4, A=20, A-=1
+    53	ESP198 - Directed Group Study (Kristin Dobbin): A+=6, A=15, A-=6
+    54	FRS1 - First-Year Seminar (Mika Pelo): A+=0, A=15, A-=0
+    55	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    56	FRS1 - First-Year Seminar (Sarah Faye): A+=15, A=3, A-=0
+    57	FRS1 - First-Year Seminar (William Sewell): A+=1, A=14, A-=1
+    58	FRS2 - First-Year Seminar (Ben Reeb): A+=2, A=6, A-=2
+    59	FRS2 - First-Year Seminar (Carlos Jackson): A+=13, A=0, A-=0
+    60	FRS2 - First-Year Seminar (E Depeters): A+=9, A=7, A-=0
+    61	FRS2 - First-Year Seminar (Gerhard Bauer): A+=8, A=10, A-=1
+    62	FRS2 - First-Year Seminar (Irina Delusina): A+=10, A=0, A-=0
+    63	FRS2 - First-Year Seminar (Joseph Dumit): A+=0, A=17, A-=0
+    64	FRS2 - First-Year Seminar (Mohamed Hafez): A+=0, A=17, A-=0
+    65	FRS2 - First-Year Seminar (Noha Radwan): A+=8, A=8, A-=1
+    66	FRS2 - First-Year Seminar (Peter Lichtenfels): A+=0, A=10, A-=0
+    67	FRS2 - First-Year Seminar (Robert Hackman): A+=1, A=12, A-=0
+    68	FRS2 - First-Year Seminar (Weici Zhang): A+=3, A=13, A-=2
+    69	FSM120L - Production Lab (Francene Steinberg): A+=16, A=13, A-=1
+    70	FST190 - Senior Seminar (Glenn Young): A+=0, A=63, A-=0
+    71	FST55 - Food in American Culture (Theodore Geier): A+=0, A=109, A-=0
+    72	GER11 - Travel & Modern World (Chunjie Zhang): A+=11, A=4, A-=2
+    73	HIS102X - Comparative History (Quinn Javers): A+=0, A=15, A-=0
+    74	IST008C - Social Sciences (Yuko Munakata): A+=17, A=6, A-=1
+    75	LDA184 - Capstone LA Studio (Sahoko Yui): A+=18, A=0, A-=0
+    76	MAT027B - Diff Eqns Appl to Bio (Craig Benham): A+=9, A=1, A-=0
+    77	MCB110Y - iBioseminars (Kassandra Ori-Mckenney): A+=5, A=7, A-=3
+    78	MSC13 - Intro Operations (Valos Owen): A+=26, A=0, A-=0
+    79	MSC141 - Ethical Leadership (Ryan Burkert): A+=13, A=0, A-=0
+    80	MUS110D - Mozart (Anna Busse Berger): A+=18, A=2, A-=0
+    81	MUS115 - History of Film Music (Pablo Ortiz): A+=50, A=36, A-=16
+    82	MUS131A - Voice (Jonathan Nadel): A+=4, A=9, A-=0
+    83	MUS131A - Voice (Zoila Munoz-Diaz): A+=8, A=7, A-=0
+    84	NAS34 - NA Art Studio (Hulleah Tsinhnahjinnie): A+=13, A=0, A-=0
+    85	NAS5 - Intro to NA Lit (Kazumi Chin): A+=26, A=0, A-=0
+    86	NAS5 - Intro to NA Lit (Spencer Mann): A+=21, A=3, A-=1
+    87	NUT130 - Expt in Nutrition (Rachel Scherr): A+=3, A=12, A-=0
+    88	PER23 - Intermediate Persian (Navid Saberi-Najafi): A+=0, A=15, A-=1
+    89	PLS157 - Stress Physiology (Thomas Buckley): A+=13, A=3, A-=0
+    90	POL193 - Res In Practical Pol (Jordan Kujala): A+=0, A=36, A-=7
+    91	POR31 - Port for Span Speakers (Eugenia Magnoli Da Silva Fernandes): A+=18, A=6, A-=1
+    92	PSC182 - Laboratory Research (Camelia Hostinar Caudill): A+=9, A=4, A-=0
+    93	PSC182 - Laboratory Research (Jeffrey Schank): A+=5, A=5, A-=0
+    94	PSC182 - Laboratory Research (Joy Geng): A+=0, A=11, A-=0
+    95	PSC182 - Laboratory Research (Steven Luck): A+=0, A=14, A-=0
+    96	PSC190 - Seminar (Katharine Graf Estes): A+=0, A=19, A-=0
+    97	RST130 - Topics Rel Studies (Mairaj Syed): A+=16, A=1, A-=0
+    98	RST45 - Christianity (Wendy Terry): A+=14, A=24, A-=0
+    99	STS151 - Media Theory (Timothy Lenoir): A+=10, A=0, A-=0
+   100	UWP001Y - Academic Literacies (Yasmine Hachimi): A+=0, A=25, A-=0
+   101	UWP101 - Advanced Composition (Amy Clarke): A+=0, A=50, A-=0
+   102	UWP110 - Genres in Prof Writing (Katherine Gossett): A+=0, A=14, A-=0
+   103	UWP111C - Science Journalism (Katharine Rodger): A+=0, A=23, A-=1
+   104	VEN3 - Intro/Wine Making (Susan Ebeler): A+=14, A=6, A-=1
+Quarter: SQ2023
+-----------------
+     1	ABG255 - Stress Physiology (Dietmar Kueltz): A+=7, A=5, A-=0
+     2	ABI050C - Animal Biology (Geoffrey Attardo): A+=3, A=26, A-=1
+     3	AED178 - Capstone for AEE (Kathryn Teixeira): A+=5, A=4, A-=2
+     4	AMS001C - American Lives (Eleftheria Arapoglou): A+=11, A=12, A-=2
+     5	AMS012 - Disability & Culture (Natasha Simpson): A+=15, A=10, A-=1
+     6	ANT210 - Aspect/Cult Struct (Joseph Dumit): A+=0, A=17, A-=0
+     7	ARE276B - Non-Market Valuation (Jamie Hansen-Lewis): A+=0, A=7, A-=3
+     8	ATM230 - Atmos Turbulence (Kyaw Paw U): A+=3, A=8, A-=6
+     9	BIM143L - Synthetic Biology Lab (Marc Facciotti): A+=0, A=13, A-=0
+    10	BIS298 - Group Study (Aldrin Gomes): A+=0, A=11, A-=0
+    11	CHE241C - Mass Spectrometry (Carlito Lebrilla): A+=0, A=24, A-=0
+    12	CHE261 - Current Topics (Annaliese Franz): A+=0, A=12, A-=0
+    13	CHE261 - Current Topics (David Olson): A+=0, A=10, A-=0
+    14	CHE261 - Current Topics (Dean Tantillo): A+=0, A=10, A-=0
+    15	CHE261 - Current Topics (Jared Shaw): A+=0, A=11, A-=0
+    16	CHE261 - Current Topics (Peter Beal): A+=0, A=10, A-=0
+    17	CHI010 - Intro Chicana/o Studies (Lorena Marquez): A+=13, A=12, A-=0
+    18	CHI010 - Intro Chicana/o Studies (Lorena Marquez): A+=16, A=8, A-=1
+    19	CHI010 - Intro Chicana/o Studies (Lorena Marquez): A+=17, A=9, A-=0
+    20	CHI042 - Food Justice (Susy Zepeda): A+=22, A=8, A-=0
+    21	CHI171 - Mex/Chi Mural Wkshp (Jose Arenas): A+=7, A=4, A-=1
+    22	COM210 - Topics/Themes Comp Lit (Sheldon Lu): A+=2, A=10, A-=0
+    23	CRD200 - Design for Health (Tara Zagofsky): A+=0, A=12, A-=0
+    24	DES227 - Thesis Exh Studio & Crit (Timothy Mcneil): A+=3, A=5, A-=2
+    25	DRA010 - Intro to Performance (Aramo Olaya Álvarez): A+=23, A=0, A-=0
+    26	DRA010 - Intro to Performance (Danika Burmester): A+=22, A=3, A-=0
+    27	DRA010 - Intro to Performance (Diego Martinez-Campos): A+=23, A=0, A-=0
+    28	DRA040B - Intermed Modern Dance (Diego Martinez-Campos): A+=15, A=0, A-=0
+    29	DRA042A - Beginning Ballet (Stuart Carroll): A+=0, A=34, A-=4
+    30	DRA111 - Presentation Com Collab (Michele Leavy): A+=0, A=22, A-=0
+    31	DRA122A - Adv Acting: Devising (Mindy Cooper Grenke): A+=22, A=2, A-=0
+    32	DRA140B - Dance Composition II (Erika Tsimbrovsky): A+=13, A=2, A-=1
+    33	DRA180A - Theatre Lab: Performance (David Grenke): A+=0, A=17, A-=0
+    34	DRA180A - Theatre Lab: Performance (Mindy Cooper Grenke): A+=7, A=4, A-=0
+    35	EBS170C - Eng Projects Des Eval (Stavros Vougioukas): A+=18, A=1, A-=3
+    36	ECH001 - Design of Coffee (William Ristenpart): A+=6, A=15, A-=0
+    37	ECH289C - Process Control (Ahmet Palazoglu): A+=0, A=10, A-=0
+    38	ECH289E - Biotechnology (Karen Mcdonald): A+=6, A=6, A-=0
+    39	ECH289G - Molecular Thermodynamics (): A+=0, A=13, A-=0
+    40	ECI141L - Hydraulics Lab (Alexander Forrest): A+=0, A=10, A-=8
+    41	ECI141L - Hydraulics Lab (Alexander Forrest): A+=1, A=24, A-=1
+    42	ECI141L - Hydraulics Lab (Alexander Forrest): A+=7, A=7, A-=3
+    43	ECI193B - Civil/Env Senior Design (Colleen Bronner): A+=19, A=21, A-=4
+    44	ECI232 - Adv Concrete Struct (Yuk Chai): A+=0, A=3, A-=7
+    45	ECI234 - Prestressed Concrete (John Bolander): A+=0, A=12, A-=2
+    46	ECL208 - Cons Biol Research (Marissa Baskett): A+=2, A=21, A-=0
+    47	ECN290 - Topics In Economics (James Bushnell): A+=0, A=11, A-=2
+    48	ECS289G - Artificial Intelligence (Vladimir Filkov): A+=0, A=13, A-=0
+    49	ECS289L - Computer Science (Mohammad Sadoghi Hamedani): A+=3, A=22, A-=0
+    50	EDU100 - Intro to Schools (Cynthia Suarez): A+=8, A=4, A-=3
+    51	EDU121 - Intro Ed Policy Analysis (Margarita Jimenez-Silva): A+=18, A=0, A-=0
+    52	EDU206B - Inq Class Prac: Interven (Chantal Lacrampe-Mace): A+=0, A=13, A-=0
+    53	EDU206B - Inq Class Prac: Interven (Heidi Ballard): A+=0, A=13, A-=2
+    54	EDU206B - Inq Class Prac: Interven (Lisa Sullivan): A+=0, A=10, A-=2
+    55	EDU206B - Inq Class Prac: Interven (Pauline Holmes): A+=6, A=4, A-=3
+    56	EDU206B - Inq Class Prac: Interven (Yianella Blanco): A+=0, A=13, A-=1
+    57	EDU210 - Psych of School Learning (Peter Mundy): A+=0, A=12, A-=0
+    58	EDU239 - Interview Methods (Cynthia Ching): A+=0, A=14, A-=0
+    59	EDU280B - Quantitative Research (Cassandra Hart): A+=3, A=7, A-=1
+    60	EDU282B - Diversity Issues (Alicia Rusoja): A+=0, A=11, A-=0
+    61	EDU283A - Leadership & Communities (Gloria Rodriguez): A+=0, A=11, A-=0
+    62	EDU292 - Special Topics in Educ (Michael Singh): A+=0, A=13, A-=0
+    63	EDU304C - Teaching in Elem School (Chantal Lacrampe-Mace): A+=0, A=10, A-=0
+    64	EDU304C - Teaching in Elem School (Nancy Tseng): A+=0, A=12, A-=0
+    65	EDU304C - Teaching in Elem School (Susana Mayorga): A+=8, A=8, A-=0
+    66	EDU306C - Teach Secondary Sch (Megan Bettis): A+=0, A=13, A-=1
+    67	EDU306C - Teach Secondary Sch (Pauline Holmes): A+=4, A=11, A-=0
+    68	EDU308 - Methods in Elem Soc Stds (Rebecca Rosa Stevens): A+=17, A=2, A-=0
+    69	EDU310 - Teaching as Practice (Chantal Lacrampe-Mace): A+=0, A=10, A-=0
+    70	EDU310 - Teaching as Practice (Nancy Tseng): A+=0, A=12, A-=0
+    71	EDU310 - Teaching as Practice (Pauline Holmes): A+=13, A=2, A-=0
+    72	EEC181B - Dig Sys Design Project (Venkatesh Akella): A+=0, A=11, A-=0
+    73	EEC269A - Error Correcting Codes (Ulrich Jetzek): A+=9, A=2, A-=0
+    74	EEC289L - Solid-Stat Dev&Phys (Jerry Woodall): A+=16, A=0, A-=0
+    75	EME109 - Experimental Methods (Benjamin Shaw): A+=0, A=5, A-=5
+    76	EMS188B - Materials Design Project (Amir Saeidi): A+=15, A=6, A-=0
+    77	ENL003 - Intro To Literature (Dalia Barghouty): A+=2, A=18, A-=5
+    78	ENL005P - Writing: Poetry (Kathleen Peterson): A+=12, A=5, A-=3
+    79	ENL100F - Creat Writ: Fiction (Joe Wenderoth): A+=3, A=11, A-=0
+    80	ENL100FA - Creat Writ: Adv Fic (Pamela Houston): A+=3, A=7, A-=0
+    81	ENL233 - Probs In Amer Lit (Michael Ziser): A+=0, A=10, A-=0
+    82	ENL237 - Seminar for Writers (Erin Gray): A+=0, A=12, A-=0
+    83	ENL290NF - CW: Non-Fiction (Pamela Houston): A+=4, A=8, A-=0
+    84	EPI204 - Quantitative Epi III (Ezra Morrison): A+=10, A=1, A-=0
+    85	FOR201C - Forensic Science-C (Ashley Hall): A+=9, A=7, A-=0
+    86	FOR240 - Homicide Crime Scene Inv (Philip Hess): A+=1, A=13, A-=1
+    87	FRS002 - First-Year Seminar (Joseph Dumit): A+=0, A=12, A-=0
+    88	FRS002 - First-Year Seminar (Joseph Dumit): A+=0, A=15, A-=0
+    89	FRS002 - First-Year Seminar (Konstantinos Zarbalis): A+=1, A=14, A-=0
+    90	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=10, A-=0
+    91	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=12, A-=0
+    92	FRS002 - First-Year Seminar (Robert Hackman): A+=5, A=8, A-=1
+    93	FRS002 - First-Year Seminar (William Tavernetti): A+=0, A=12, A-=0
+    94	FST160 - Food Product Development (Jean-Xavier Guinard): A+=3, A=7, A-=0
+    95	GEL050L - Physical Geology Lab (Nicholas Pinter): A+=6, A=8, A-=1
+    96	GEL205 - Adv Field Stratigraphy (Dawn Sumner): A+=0, A=12, A-=0
+    97	GEO200CN - Quantitative Geography (Robert Hijmans): A+=4, A=7, A-=5
+    98	GEO286 - Topics in Remote Sensing (Yufang Jin): A+=0, A=7, A-=3
+    99	GSW200B - Feminism & Methodology (Kimberly Nettles-Barcelon): A+=3, A=10, A-=2
+   100	HDE298 - Group Study (Kali Trzesniewski): A+=0, A=14, A-=0
+   101	HEB003 - Elementary Hebrew (Itay Eisinger): A+=7, A=1, A-=2
+   102	HIS072B - Women & Gender Amer-Pres (Karen Gettelman): A+=1, A=18, A-=1
+   103	HIS072B - Women & Gender Amer-Pres (Karen Gettelman): A+=3, A=17, A-=0
+   104	HIS191J - Sex & Soc Mod China (Howard Chiang): A+=0, A=13, A-=6
+   105	HIS201W - Adv Topics World History (Charles Walker): A+=0, A=10, A-=0
+   106	HIS202H - United States (Louis Warren): A+=0, A=8, A-=2
+   107	HIS203C - Research Seminar (Kathryn Olmsted): A+=0, A=10, A-=0
+   108	HRT200B - Hort & Agron: Practices (Matthew Gilbert): A+=26, A=2, A-=0
+   109	HYD243 - Water Resource Plan/Mgmt (Samuel Sandoval Solis): A+=8, A=3, A-=1
+   110	IMM297 - Mucosal Immunology (Barbara Shacklett): A+=4, A=18, A-=0
+   111	IST008C - Social Sciences (Mark Fedyk): A+=4, A=15, A-=3
+   112	ITA105 - Intro to Italian Lit (Grace Delmolino): A+=0, A=8, A-=2
+   113	LIN205C - Topics Linguistic Theory (Santiago Barreda-Castanon): A+=1, A=9, A-=0
+   114	LIN250 - Typological Linguistics (John Hawkins): A+=4, A=5, A-=2
+   115	MAE207 - Eng Exp & Uncertainty (Niels Gronbech Jensen): A+=0, A=14, A-=0
+   116	MAE258 - HEV Sys Theory & Design (Jae Wan Park): A+=1, A=8, A-=2
+   117	MAT201C - Analysis (Garving Luli): A+=8, A=5, A-=4
+   118	MAT215B - Topology (Jennifer Schultens): A+=0, A=18, A-=1
+   119	MAT240B - Differential Geometry (Roger Casals Gutierrez): A+=2, A=8, A-=0
+   120	MAT280 - Topics In Math (Gabriel Islambouli): A+=0, A=10, A-=0
+   121	MCB110Y - iBioseminars (Kassandra Ori-Mckenney): A+=3, A=6, A-=1
+   122	MCN263 - Mat Child Research Meth (Jane Heinig): A+=4, A=6, A-=3
+   123	MCN264B - Mat Child Epidemiology (Jane Heinig): A+=0, A=13, A-=0
+   124	MCN264C - Public Policy Seminar (Jane Heinig): A+=0, A=10, A-=0
+   125	MGB415V - Business Law (Jane Harrington): A+=16, A=4, A-=2
+   126	MGB436 - Intro to Derv Sec (Sorin Maruster): A+=0, A=15, A-=0
+   127	MGB493V - Topics in Marketing (Vanessa Errecarte): A+=8, A=11, A-=0
+   128	MGP436 - Intro to Derv Sec (Sorin Maruster): A+=0, A=15, A-=0
+   129	MGP440 - Intgd Management Project (Horacio Enriquez): A+=11, A=0, A-=0
+   130	MGP440 - Intgd Management Project (Kelly Wilson): A+=2, A=10, A-=0
+   131	MGP440S - Inter Mgmt Sim (Amber Beckler): A+=5, A=10, A-=0
+   132	MGT445Y - Product Management (Marc Lowe): A+=0, A=6, A-=7
+   133	MGT490B - Topics in Gen Mgmt-Ext (Hemant Vaidya): A+=4, A=8, A-=5
+   134	MGV261V - Investment Analysis (Joseph Chen): A+=0, A=10, A-=0
+   135	MGV264V - Business Taxation (Robert Yetman): A+=11, A=3, A-=1
+   136	MGV440V - Intgd Management Project (William Cron): A+=4, A=14, A-=0
+   137	MGV440V - Intgd Management Project (William Cron): A+=4, A=9, A-=4
+   138	MGV440V - Intgd Management Project (William Cron): A+=5, A=10, A-=5
+   139	MHI207 - Decision Support (Prabhu Shankar): A+=2, A=16, A-=0
+   140	MMI280 - Microbiota and Health (Renee Tsolis): A+=0, A=12, A-=0
+   141	MSA181B - India/South Asia Studies (Kuldeep Singh): A+=5, A=24, A-=3
+   142	MUS017C - Intermed Musicianship (Addie Camsuzou): A+=16, A=1, A-=0
+   143	MUS129A - Music of Americas (Juan Diego Diaz): A+=0, A=14, A-=9
+   144	MUS131A - Voice (Heidi Moss-Erickson): A+=0, A=11, A-=0
+   145	MUS131A - Voice (Jonathan Nadel): A+=4, A=10, A-=0
+   146	MUS131A - Voice (Zoila Munoz-Diaz): A+=7, A=4, A-=1
+   147	MUS131B - Piano (I-Hui Chen): A+=3, A=2, A-=6
+   148	MUS131G - Cello (Susan Lamb): A+=0, A=10, A-=0
+   149	MUS131I - Flute (Stacey Pelinka): A+=0, A=10, A-=0
+   150	MUS203 - Music Composition (Laurie San Martin): A+=0, A=14, A-=0
+   151	NAS257 - Native American Religion (Ines Hernandez-Avila): A+=0, A=10, A-=0
+   152	NPB139 - Frontiers in Physiology (Talitha Van Der Meulen): A+=12, A=7, A-=0
+   153	NRS223 - Quality & Safety (Jennifer Edwards): A+=0, A=56, A-=1
+   154	NRS298 - Special Topics (Elizabeth Rice): A+=12, A=5, A-=0
+   155	NRS298 - Special Topics (Kathryn Sexson): A+=0, A=27, A-=0
+   156	NRS303 - Professional Role (Shana Ruggenberg): A+=0, A=15, A-=0
+   157	NRS308 - Family Care Plan (Kathryn Sexson): A+=0, A=14, A-=1
+   158	NRS351V - Health Policy for Health (Elizabeth Rice): A+=0, A=28, A-=0
+   159	NRS357V - Business for Health (Kathryn Sexson): A+=0, A=25, A-=2
+   160	NRS402V - Intro Scholarly Project (Frances Patmon): A+=5, A=21, A-=1
+   161	NRS459 - Supervised Other Spec (Charleen Singh): A+=12, A=2, A-=1
+   162	NUB210C - Advanced Nutrition III (Francene Steinberg): A+=9, A=3, A-=1
+   163	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): A+=16, A=1, A-=0
+   164	PAS459 - Supervised Other Spec (Teresa Thetford): A+=3, A=10, A-=1
+   165	PBG200C - Principle Population Bio (Michael Turelli): A+=0, A=9, A-=1
+   166	PHA205 - Problems in Pharmacology (Johannes Hell): A+=0, A=11, A-=0
+   167	PHA208 - Adv Cardiac Physio Pharm (Crystal Ripplinger): A+=4, A=8, A-=0
+   168	PLS217 - Field Techniques (Matthew Gilbert): A+=7, A=5, A-=0
+   169	PMI202 - Integrated Path II (Kevin Woolard): A+=11, A=6, A-=2
+   170	POL290A - Res Am Gov Pub Pol (Christopher Hare): A+=2, A=11, A-=0
+   171	POL290F - Rsch Compar Gov&Pol (Lauren Young): A+=2, A=8, A-=4
+   172	PSC182 - Laboratory Research (Ariel Mosley): A+=0, A=15, A-=0
+   173	PSC182 - Laboratory Research (Camelia Hostinar): A+=13, A=0, A-=1
+   174	PSC182 - Laboratory Research (Katharine Graf Estes): A+=0, A=13, A-=0
+   175	PSC182 - Laboratory Research (Lindsay Bowman): A+=7, A=14, A-=0
+   176	PSC212A - Dev Psych: Cog/Per (Yuko Munakata): A+=3, A=7, A-=0
+   177	SOC195 - Seminar (Veronica Lerma): A+=9, A=3, A-=0
+   178	SOC265B - Theory Contemp Soc (Maxine Craig): A+=1, A=11, A-=3
+   179	SPA002 - Elementary Spanish (Claudia Sanchez-Gutierrez): A+=11, A=1, A-=1
+   180	SPA002 - Elementary Spanish (Claudia Sanchez-Gutierrez): A+=19, A=4, A-=1
+   181	SPA023 - Spanish Composition I (Travis Bradley): A+=7, A=6, A-=0
+   182	SPA024 - Spanish Composition II (Travis Bradley): A+=3, A=8, A-=1
+   183	SPA118 - Topic Span Linguistics (Agustina Carando): A+=13, A=3, A-=0
+   184	SPA141S - Intro to Spanish Culture (Cristina Martinez-Carazo): A+=4, A=9, A-=0
+   185	SPH213 - Health Disparities in US (Laura Fejerman): A+=7, A=14, A-=0
+   186	STA250 - Appl & Comp Statistics (Ruoqi Yu): A+=2, A=11, A-=2
+   187	STA260 - Stat Practice & Data Anl (Fushing Hsieh): A+=7, A=1, A-=2
+   188	STS140 - Science & Race (Timothy Choy): A+=0, A=8, A-=3
+   189	STS210 - Digital Technologies (Gerardo Con Diaz): A+=3, A=8, A-=0
+   190	UWP001 - Academic Literacies (Leslie Dumont): A+=25, A=0, A-=0
+   191	UWP001Y - Academic Literacies (Mikhaila Redovian): A+=5, A=19, A-=1
+   192	UWP102H - Writ in HumDev and Psych (Brittany Kelley): A+=25, A=0, A-=0
+   193	UWP104F - Writing in Health Prof (Brendan Johnston): A+=11, A=11, A-=3
+   194	UWP112A - Intro to Prof Editing (Carolyn Gubala): A+=23, A=1, A-=1
+   195	UWP121 - Hist Scientific Writing (Scott Herring): A+=8, A=9, A-=3
+   196	UWP390 - Theory Composition Instr (Daniel Melzer): A+=14, A=8, A-=0
+   197	VEN111 - World Viticulture (Hildegarde Heymann): A+=6, A=9, A-=0
+   198	WFC102 - Field Studies Fish Biol (Andrew Rypel): A+=15, A=0, A-=0
+   199	WFC102L - Fld Stud Fish Biol-Lab (Andrew Rypel): A+=15, A=0, A-=0
+Quarter: SQ2025
+-----------------
+     1	AAS101 - Intro Res-Blk Commun (Elizabeth Mukiibi): A+=0, A=8, A-=2
+     2	AAS194HB - Special Study Honors (Milmon Harrison): A+=2, A=9, A-=0
+     3	AAS201 - African American Studies (Benjamin Weber): A+=6, A=12, A-=0
+     4	AMS012 - Disability & Culture (Megan Bayles): A+=20, A=5, A-=0
+     5	AMS055 - Food in American Culture (Charlotte Biltekoff): A+=0, A=15, A-=1
+     6	ANT191 - Topics in Anthropology (Timothy Choy): A+=0, A=11, A-=0
+     7	ARE190 - Topics Managerial Econ (Rachael Goodhue): A+=2, A=5, A-=3
+     8	ARE198 - Directed Group Study (Rachael Goodhue): A+=2, A=5, A-=3
+     9	ARE276A - Externalities (Kevin Novan): A+=2, A=8, A-=0
+    10	ART125A - IntermedPrntmking:Relief (Emily Gui): A+=0, A=20, A-=0
+    11	ART152A - Adv Sculp Studio Project (Robin Hill): A+=0, A=18, A-=0
+    12	ART190 - Seminar in Art Practice (Annabeth Rosen): A+=0, A=14, A-=2
+    13	ASA002 - Contemp Iss Asian Amer (Catherine Fung): A+=1, A=19, A-=4
+    14	ASA116 - Asian American Youth (Ga Young Chung): A+=35, A=0, A-=0
+    15	ASA150 - Filipino American Exp (Talitha Angelica Trazo): A+=27, A=6, A-=1
+    16	BAX493A - Topics in Business Analy (Sanjay Krishnan): A+=13, A=13, A-=6
+    17	BCB215 - Graduate Reading Course (Kenneth Kaplan): A+=0, A=13, A-=0
+    18	BIM178 - BME Cell Culture Lab (Jennifer Choi): A+=11, A=0, A-=1
+    19	BIS180L - Genomics Laboratory (Ian Korf): A+=1, A=18, A-=0
+    20	BIS298 - Group Study (Aldrin Gomes): A+=10, A=0, A-=0
+    21	CHE221F - Spec Top Org Chem (Xi Chen): A+=0, A=10, A-=0
+    22	CHE228D - Homogenous Catalysis (Jesus Velazquez Mojica): A+=11, A=1, A-=0
+    23	CHE241E - Microscopy & Imaging Tec (Gang-Yu Liu): A+=1, A=15, A-=0
+    24	CHE261 - Current Topics (Annaliese Franz): A+=0, A=7, A-=3
+    25	CHE261 - Current Topics (Carlito Lebrilla): A+=0, A=14, A-=0
+    26	CHE261 - Current Topics (Jared Shaw): A+=0, A=11, A-=0
+    27	CHE261 - Current Topics (Mark Mascal): A+=0, A=11, A-=0
+    28	CHI010 - Intro Chicana/o Studies (Michael Singh): A+=23, A=2, A-=0
+    29	CHI042 - Food Justice (Susy Zepeda): A+=15, A=21, A-=3
+    30	CHI050 - Intro To Chicano Culture (Maurice Magana): A+=12, A=11, A-=2
+    31	CHI171 - Mex/Chi Mural Wkshp (Jose Arenas): A+=0, A=15, A-=0
+    32	DES128B - Biodesign Part II (Christina Cogdell): A+=13, A=3, A-=5
+    33	DES187 - Narrative Environments (Timothy Mcneil): A+=13, A=3, A-=0
+    34	DRA010 - Intro to Performance (Diego Martinez-Campos): A+=25, A=0, A-=0
+    35	DRA010 - Intro to Performance (Praveen Maripelly): A+=21, A=0, A-=0
+    36	DRA021A - Fundamentals of Act (Michele Leavy): A+=0, A=18, A-=1
+    37	DRA146B - Profes Track Mod Dan II (Doria Charlson): A+=0, A=10, A-=1
+    38	DRA180D - Theatre Lab Crew (Ethan Hollinger): A+=10, A=0, A-=0
+    39	DRA185A - Artist in Residence Sem (Victoria Tzykun): A+=6, A=5, A-=1
+    40	DRA185B - Artist Residence Studio (David Moore): A+=14, A=7, A-=0
+    41	EAE143B - Space Mission Design (Rich Whittle): A+=16, A=14, A-=3
+    42	EBS170C - Eng Projects Des Eval (Ruihong Zhang): A+=26, A=1, A-=0
+    43	EBS221 - Agricultural Robotics (Stavros Vougioukas): A+=8, A=2, A-=4
+    44	ECH001Y - Design of Coffee (Tonya Kuhl): A+=10, A=26, A-=0
+    45	ECH001Y - Design of Coffee (Tonya Kuhl): A+=4, A=29, A-=3
+    46	ECH001Y - Design of Coffee (Tonya Kuhl): A+=5, A=28, A-=0
+    47	ECH001Y - Design of Coffee (Tonya Kuhl): A+=8, A=27, A-=0
+    48	ECH001Y - Design of Coffee (William Ristenpart): A+=14, A=22, A-=0
+    49	ECH289E - Biotechnology (Somen Nandi): A+=8, A=9, A-=0
+    50	ECI141L - Hydraulics Lab (Oscar Sepulveda Steiner): A+=10, A=15, A-=8
+    51	ECI141L - Hydraulics Lab (Oscar Sepulveda Steiner): A+=12, A=20, A-=3
+    52	ECI189C - Engr Planning (John White): A+=14, A=11, A-=2
+    53	ECS235B - Computer & Info Security (Matthew Bishop): A+=0, A=17, A-=7
+    54	ECS256 - Probability Models (Dipak Ghosal): A+=0, A=12, A-=0
+    55	ECS289G - Artificial Intelligence (Zhe Zhao): A+=2, A=10, A-=2
+    56	ECS289L - Computer Science (Vladimir Filkov): A+=0, A=30, A-=5
+    57	EDU206B - Inq Class Prac: Interven (Lisa Sullivan): A+=0, A=10, A-=0
+    58	EDU253 - Inq Class Prac: Bilng (Margarita Jimenez-Silva): A+=9, A=1, A-=0
+    59	EDU280B - Quantitative Research (Cassandra Hart): A+=0, A=14, A-=1
+    60	EDU283A - Leadership & Communities (Gloria Rodriguez): A+=0, A=15, A-=0
+    61	EDU284B - Influencing Policy (Francisco Martorell): A+=0, A=15, A-=0
+    62	EDU286A - Organizational Structure (Anthony Albano): A+=14, A=1, A-=0
+    63	EDU304C - Teaching in Elem School (Nancy Tseng): A+=0, A=13, A-=0
+    64	EDU306C - Teach Secondary Sch (Megan Bettis): A+=0, A=10, A-=0
+    65	EDU308 - Methods in Elem Soc Stds (Rebecca Rosa Stevens): A+=28, A=0, A-=0
+    66	EDU310 - Teaching as Practice (Rebecca Rosa Stevens): A+=13, A=3, A-=0
+    67	EEC010 - Intro Dig & Analog Sys (Hyoyoung Jeong): A+=10, A=2, A-=0
+    68	EEC010 - Intro Dig & Analog Sys (Hyoyoung Jeong): A+=12, A=3, A-=0
+    69	EEC010 - Intro Dig & Analog Sys (Hyoyoung Jeong): A+=8, A=4, A-=1
+    70	EEC134B - RF Systems (Anh-Vu Pham): A+=0, A=24, A-=0
+    71	EGG298A - Group Study (Alan Meier): A+=0, A=10, A-=0
+    72	EMS289A - Special Topics Mat Sci (Scott Mccormack): A+=2, A=7, A-=1
+    73	ENG006 - Engineering Prob Solving (Semiu Olowogemo): A+=4, A=10, A-=2
+    74	ENL005F - Writing: Fiction (Douglas McBride): A+=20, A=2, A-=0
+    75	ENL005NF - Writing: Non-Fiction (Kai Wilson): A+=0, A=15, A-=4
+    76	ENL005P - Writing: Poetry (Zinzi Clemmons): A+=19, A=2, A-=0
+    77	ENL100FA - Creat Writ: Adv Fic (Pamela Houston): A+=0, A=10, A-=0
+    78	ENL100NF - Creat Writ: Non-Fic (Pamela Houston): A+=3, A=13, A-=0
+    79	ENL290P - CW: Poetry (Margaret Ronda): A+=0, A=11, A-=0
+    80	ENT135 - Intro Biol Control (Emily Meineke): A+=20, A=10, A-=2
+    81	ENV203B - Env Policy Clinic (Abre Conner): A+=19, A=6, A-=3
+    82	EPI223 - Spatial Epidemiology (Christopher Barker): A+=0, A=28, A-=1
+    83	FOR201C - Forensic Science-C (Ashley Hall): A+=11, A=2, A-=1
+    84	FOR240 - Homicide Crime Scene Inv (Philip Hess): A+=8, A=7, A-=1
+    85	FRE023Y - Intermediate French (Julia Simon): A+=2, A=7, A-=3
+    86	FRE141 - Selected Topics Fr Lit (Tobias Warner): A+=6, A=5, A-=2
+    87	FRS001 - First-Year Seminar (Ian Korf): A+=5, A=9, A-=2
+    88	FRS001 - First-Year Seminar (Nael El-Farra): A+=0, A=11, A-=2
+    89	FRS001 - First-Year Seminar (Richard Huskey): A+=19, A=0, A-=0
+    90	FRS002 - First-Year Seminar (Angela Morris): A+=0, A=9, A-=1
+    91	FRS002 - First-Year Seminar (Joan Frank): A+=13, A=0, A-=0
+    92	FRS002 - First-Year Seminar (Joseph Dumit): A+=0, A=11, A-=0
+    93	FRS002 - First-Year Seminar (Joseph Dumit): A+=0, A=11, A-=0
+    94	FRS002 - First-Year Seminar (Katharine Graf Estes): A+=0, A=15, A-=0
+    95	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=23, A-=0
+    96	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=26, A-=0
+    97	FRS002 - First-Year Seminar (Natalia Deeb Sossa): A+=6, A=1, A-=0
+    98	FRS002 - First-Year Seminar (Robert Hackman): A+=3, A=8, A-=1
+    99	FRS002 - First-Year Seminar (Ruben Zecena): A+=25, A=0, A-=0
+   100	FRS002 - First-Year Seminar (Sanchita Bhatnagar): A+=13, A=0, A-=0
+   101	FRS002 - First-Year Seminar (Subhash Risbud): A+=20, A=0, A-=0
+   102	FSM120L - Production Lab (Joan Frank): A+=8, A=1, A-=1
+   103	FST104L - Food Micro Lab (David Mills): A+=5, A=5, A-=1
+   104	FST160 - Food Product Development (Jean-Xavier Guinard): A+=8, A=11, A-=2
+   105	GEL186 - Facilitating Learning (Mary Stevenson): A+=0, A=24, A-=2
+   106	GEL186 - Facilitating Learning (Mary Stevenson): A+=0, A=40, A-=1
+   107	GEL298 - Group Study (Isabel Montanez): A+=0, A=13, A-=0
+   108	GEO286 - Topics in Remote Sensing (Yufang Jin): A+=6, A=3, A-=1
+   109	GSW050 - Intro to Gender Studies (Julietta Hua): A+=0, A=24, A-=0
+   110	HDE205 - Longitudinal Analysis (Siwei Liu): A+=3, A=8, A-=1
+   111	HDE298 - Group Study (Kali Trzesniewski): A+=0, A=15, A-=1
+   112	HYD286 - Topics in Remote Sensing (Yufang Jin): A+=8, A=1, A-=1
+   113	IMM297 - Mucosal Immunology (Barbara Shacklett): A+=5, A=9, A-=0
+   114	IST008B - Humanities (Shagufta Fatema): A+=7, A=4, A-=0
+   115	JPN136 - Readings in Newspapers (David Gundry): A+=13, A=4, A-=2
+   116	LAT003 - Intermediate Latin (John Rundin): A+=8, A=13, A-=1
+   117	LDA171 - Urban Design & Planning (Emily Schlickman): A+=0, A=14, A-=2
+   118	LDA184 - Capstone LA Studio (Anna Kiers): A+=4, A=6, A-=3
+   119	LIN001Y - Intro Linguistics (Georgia Zellou): A+=16, A=19, A-=3
+   120	LIN250 - Typological Linguistics (John Hawkins): A+=2, A=11, A-=0
+   121	MAE237 - Anlys & Des Comp Strct (Valeria La Saponara): A+=7, A=3, A-=1
+   122	MAT017C - Calculus for BioSci (Edward Goldsmith): A+=10, A=7, A-=6
+   123	MAT250C - Algebra (Erik Carlsson): A+=0, A=10, A-=0
+   124	MAT258A - Numerical Optimization (Jesus De Loera): A+=2, A=9, A-=4
+   125	MAT261 - Lie Groups Lie Algebras (Anne Schilling): A+=9, A=6, A-=1
+   126	MAT280 - Topics In Math (Yunpeng Shi): A+=0, A=11, A-=0
+   127	MGB436V - Intro to Derv Sec (Sorin Maruster): A+=0, A=8, A-=5
+   128	MGB490V - Topics in Gen Mgmt (Amber Beckler): A+=1, A=19, A-=0
+   129	MGP405Y - Fin Theory & Policy (Lawrence Souza): A+=20, A=11, A-=0
+   130	MGP440S - Inter Mgmt Sim (Amber Beckler): A+=0, A=12, A-=0
+   131	MGT490B - Topics in Gen Mgmt-Ext (Hemant Vaidya): A+=5, A=6, A-=0
+   132	MGV246V - Negotiations in Orgs (Gareth Keeves): A+=0, A=18, A-=5
+   133	MMI280 - Microbiota and Health (Renee Tsolis): A+=0, A=11, A-=1
+   134	MPM201 - Emerg Issues One Health (Christine Johnson): A+=5, A=4, A-=1
+   135	MSC021 - Military History (Jesse Peterson): A+=10, A=0, A-=0
+   136	MSC131 - Advanced Leadership (Bryan Tauzer): A+=0, A=12, A-=0
+   137	MSC141 - Ethical Leadership (Justin Ottenwalter): A+=3, A=7, A-=0
+   138	MUS131A - Voice (Jonathan Nadel): A+=4, A=9, A-=0
+   139	MUS131A - Voice (Zoila Munoz-Diaz): A+=3, A=11, A-=0
+   140	MUS131G - Cello (Susan Lamb): A+=0, A=10, A-=0
+   141	MUS203 - Music Composition (Laurie San Martin): A+=0, A=10, A-=0
+   142	NAS005 - Intro to NA Lit (Sun Ny Vang): A+=24, A=2, A-=0
+   143	NAS005A - Writer's Workshop (Jason Tena-Encarnacion): A+=12, A=0, A-=0
+   144	NAS034 - NA Art Studio (Hulleah Tsinhnahjinnie): A+=14, A=0, A-=0
+   145	NRS223 - Quality & Safety (Jennifer Edwards): A+=0, A=44, A-=0
+   146	NRS282FY - Clinical F (Charleen Singh): A+=1, A=20, A-=0
+   147	NRS283BV - Diagnostic Reasoning B (Chris de Belen Wilson): A+=0, A=16, A-=0
+   148	NRS303 - Professional Role (Shana Ruggenberg): A+=0, A=12, A-=0
+   149	NRS308 - Family Care Plan (Victoria Jackson): A+=0, A=10, A-=2
+   150	NRS351V - Health Policy for Health (Elizabeth Rice): A+=1, A=22, A-=2
+   151	NRS358AV - Applied Nrs Biostats (Charleen Singh): A+=23, A=1, A-=0
+   152	NRS402V - Intro Scholarly Project (Joanne Minnick): A+=21, A=3, A-=0
+   153	NRS411CV - Scholarly Project C (Joanne Minnick): A+=17, A=4, A-=0
+   154	NRS412BY - Project Practicum B (Joanne Minnick): A+=21, A=0, A-=0
+   155	NRS429C - Collaborative Practice C (Teuta Kadiu): A+=10, A=34, A-=0
+   156	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): A+=7, A=8, A-=0
+   157	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): A+=8, A=4, A-=1
+   158	NUT190 - Proseminar in Nutrition (Fawaz Haj): A+=11, A=2, A-=0
+   159	NUT219B - International Nutrition (Christine Stewart): A+=4, A=6, A-=0
+   160	NUT253 - Cntrl of Energy Balance (Jon Ramsey): A+=2, A=11, A-=0
+   161	PER023 - Intermediate Persian (Navid Saberi-Najafi): A+=2, A=10, A-=0
+   162	PHA205 - Problems in Pharmacology (Johannes Hell): A+=2, A=17, A-=0
+   163	PHY250 - Special Topics (Shirley Chiang): A+=0, A=10, A-=0
+   164	PLS148 - Mountain Field Botany (Daniel Potter): A+=15, A=0, A-=0
+   165	PLS222 - Advanced Plant Breeding (Charlie Brummer): A+=0, A=18, A-=0
+   166	PLS298 - Group Study (Maeli Melotto): A+=10, A=0, A-=0
+   167	PSC182 - Laboratory Research (Katharine Graf Estes): A+=0, A=10, A-=0
+   168	PSC182 - Laboratory Research (Lindsay Bowman): A+=1, A=11, A-=0
+   169	PSC182 - Laboratory Research (Steven Luck): A+=0, A=10, A-=0
+   170	PSC205H - Appl Bayesian Stats (Philippe Rast): A+=14, A=2, A-=0
+   171	PUN023 - Intermediate Punjabi (Kuldeep Singh): A+=1, A=6, A-=9
+   172	SAS130 - Contemporary Leadership (Thorian Harris): A+=12, A=0, A-=0
+   173	SPA230 - Latin Amer Cult Studies (Emily Vazquez Enriquez): A+=5, A=5, A-=0
+   174	SPH132 - Health Issues AsianAm/PI (Edgar Chen): A+=12, A=4, A-=3
+   175	SPH213 - Health Disparities in US (Laura Fejerman): A+=8, A=14, A-=3
+   176	SPH276 - Health Policy & Econ (Richard Pan): A+=3, A=10, A-=7
+   177	STA232C - Applied Statistics III (Prabir Burman): A+=2, A=8, A-=0
+   178	UWP001 - Academic Literacies (Aaron Halverson): A+=19, A=5, A-=1
+   179	UWP001 - Academic Literacies (Ana Castellon): A+=14, A=9, A-=0
+   180	UWP102E - Writing in Engineering (Angela Morris): A+=0, A=20, A-=5
+   181	UWP104AY - Business Writing Hybrid (Andrew Testa): A+=0, A=21, A-=0
+   182	UWP104AY - Business Writing Hybrid (Andrew Testa): A+=0, A=25, A-=0
+   183	UWP104FY - Writing in Health Prof (Brendan Johnston): A+=8, A=14, A-=3
+   184	UWP104FY - Writing in Health Prof (Katharine Rodger): A+=18, A=4, A-=2
+   185	UWP104T - Technical Writing (Erika Strandjord): A+=0, A=24, A-=1
+   186	UWP121 - Hist Scientific Writing (Scott Herring): A+=8, A=6, A-=1
+   187	VEN127L - Post-ferm Processing Lab (Zoran Ljepovic): A+=0, A=13, A-=0
+   188	WMS137 - Contemp Feminist Theory (Sarah Thompson): A+=15, A=0, A-=0
+Quarter: WQ2017
+-----------------
+     1	AED100 - Ag & Env Educ (Margaret Martindale): A+=3, A=12, A-=0
+     2	ANT103 - Indig People & Conserv (Monique Borgerhoff Mulder): A+=3, A=4, A-=6
+     3	ART142A - IntermCerSculp: IndPrdMt (Annabeth Rosen): A+=5, A=7, A-=0
+     4	CHE145 - Good Quality Practices (Donald Land): A+=1, A=11, A-=2
+     5	CHN106 - Chn Poetry (Engl) (Michelle Yeh): A+=5, A=9, A-=1
+     6	COM4 - Mjr Wrks Contemp World (Amy Riddle): A+=2, A=10, A-=3
+     7	DES117 - Interactive Media I (David Hurwich): A+=0, A=14, A-=7
+     8	DES151 - Type in Motion (David Hurwich): A+=1, A=20, A-=2
+     9	DES185 - Exhibition Design (Timothy Mcneil): A+=0, A=14, A-=10
+    10	DRA122C - Adv Acting: Spec Topics (Peter Lichtenfels): A+=13, A=0, A-=0
+    11	DRA180A - Theatre Lab: Performance (David Grenke): A+=0, A=16, A-=0
+    12	DRA180D - Theatre Lab Crew (Robin Gray): A+=0, A=11, A-=0
+    13	EEC134B - RF Systems (Xiaoguang Liu): A+=6, A=20, A-=5
+    14	ENG2 - Creat & Entrep for Eng (Elizabeth Tang): A+=0, A=6, A-=10
+    15	ENL100F - Creat Writ: Fiction (Elise Winn): A+=16, A=1, A-=0
+    16	ENL100NF - Creat Writ: Non-Fic (Greg Glazner): A+=2, A=12, A-=4
+    17	ENL194H - Seminar for Honors (Margaret Ferguson): A+=0, A=11, A-=5
+    18	ENL3 - Intro To Literature (Brian Baaki): A+=1, A=13, A-=9
+    19	ESP191B - Sustainability Workshop (Thomas Tomich): A+=0, A=33, A-=0
+    20	FRS1 - First-Year Seminar (Alan Balch): A+=3, A=24, A-=1
+    21	FRS1 - First-Year Seminar (James Carey): A+=0, A=13, A-=0
+    22	FRS1 - First-Year Seminar (Ryan Cartwright): A+=1, A=12, A-=2
+    23	FRS2 - First-Year Seminar (Alberto Odor): A+=0, A=30, A-=0
+    24	FRS2 - First-Year Seminar (Charles Hunt): A+=0, A=6, A-=5
+    25	FRS2 - First-Year Seminar (Hagop Atamian): A+=2, A=7, A-=3
+    26	FRS2 - First-Year Seminar (Irina Delusina): A+=15, A=0, A-=0
+    27	FRS2 - First-Year Seminar (James Jones): A+=2, A=8, A-=3
+    28	FRS2 - First-Year Seminar (Jarue Manning): A+=3, A=7, A-=5
+    29	FRS2 - First-Year Seminar (Kenneth Verosub): A+=0, A=16, A-=0
+    30	FRS2 - First-Year Seminar (Maciej Zwieniecki): A+=15, A=0, A-=0
+    31	FRS2 - First-Year Seminar (Mohamed Hafez): A+=0, A=16, A-=0
+    32	FRS2 - First-Year Seminar (Natalia Caporale): A+=0, A=18, A-=0
+    33	FRS2 - First-Year Seminar (Shirley Chiang): A+=0, A=14, A-=1
+    34	GEL186 - Facilitating Learning (Mary Stevenson): A+=0, A=90, A-=0
+    35	LAT120 - Imperial Latin Lit (Valentina Popescu): A+=6, A=1, A-=3
+    36	MSC022B - Tactical Leadership (Michael Mcgowan): A+=10, A=0, A-=0
+    37	MSC142 - Military Law (Brian Knieriem): A+=16, A=0, A-=0
+    38	MUS131A - Voice (Jonathan Nadel): A+=7, A=6, A-=0
+    39	MUS131A - Voice (Zoila Munoz-Diaz): A+=5, A=5, A-=1
+    40	NAS110B - Quechua Beginning 2 (Zoila Mendoza): A+=2, A=7, A-=1
+    41	NAS34 - NA Art Studio (Hulleah Tsinhnahjinnie): A+=16, A=0, A-=0
+    42	NAS5 - Intro to NA Lit (Spencer Mann): A+=24, A=1, A-=0
+    43	PLB10 - Plant Biology (Sharman Oneill): A+=29, A=17, A-=1
+    44	PLS130 - Rangeland Ecology (Kenneth Tate): A+=19, A=35, A-=1
+    45	PMI126L - Immunology Lab (Jeffrey Stott): A+=8, A=19, A-=1
+    46	RST110 - Meaning & Identity (Naomi Janowitz): A+=0, A=25, A-=0
+    47	SPH105 - Health Disparities in the US (Lorena Garcia): A+=51, A=6, A-=0
+    48	STS150 - Gender & Science (Timothy Choy): A+=0, A=14, A-=1
+    49	TXC162L - Textile Fabric Lab (Ning Pan): A+=7, A=2, A-=1
+    50	UWP104A - Business Writing (Katherine Gossett): A+=0, A=16, A-=6
+Quarter: WQ2018
+-----------------
+     1	ANT191 - Topics in Anthropology (Marisol De La Cadena): A+=3, A=7, A-=1
+     2	ART190 - Seminar in Art Practice (Lucy Puls): A+=0, A=8, A-=3
+     3	ART8 - Beg Ceramic Sculpture (Joy Miller): A+=1, A=13, A-=4
+     4	BIM189C - Biomedical Engineering (Leonor Saiz): A+=6, A=7, A-=0
+     5	CHI198 - Directed Gp Study (Susy Zepeda): A+=3, A=18, A-=8
+     6	CHI73 - Chicano Art Expres (Carlos Jackson): A+=2, A=7, A-=7
+     7	CLA142 - Greek & Roman Novel (Valentina Popescu): A+=14, A=7, A-=1
+     8	DES157 - Interactive Media II (Glenda Drew): A+=9, A=14, A-=1
+     9	DRA042B - Intermediate Ballet (Stuart Carroll): A+=0, A=18, A-=2
+    10	DRA10 - Intro To Acting (Joseph Schupbach): A+=10, A=8, A-=4
+    11	DRA180A - Theatre Lab: Performance (David Grenke): A+=0, A=14, A-=0
+    12	DRA180D - Theatre Lab Crew (Jon Rossini): A+=0, A=20, A-=0
+    13	DRA180F - Costume Lab (Maggie Morgan): A+=0, A=13, A-=0
+    14	DRA180G - Lighting/Sound Lab (Jon Rossini): A+=0, A=12, A-=0
+    15	ECS188 - Ethics in an Age of Tech (Samuel King): A+=6, A=23, A-=2
+    16	EEC134B - RF Systems (Xiaoguang Liu): A+=7, A=24, A-=4
+    17	FRS1 - First-Year Seminar (John Bolander): A+=0, A=13, A-=0
+    18	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    19	FRS1 - First-Year Seminar (Rajiv Singh): A+=0, A=14, A-=0
+    20	FRS1 - First-Year Seminar (Wrye Sententia): A+=0, A=9, A-=2
+    21	FRS2 - First-Year Seminar (Alberto Odor): A+=3, A=29, A-=0
+    22	FRS2 - First-Year Seminar (Annaliese Franz): A+=0, A=17, A-=0
+    23	FRS2 - First-Year Seminar (Cassie Hemstrom): A+=13, A=5, A-=0
+    24	FRS2 - First-Year Seminar (Charles Hunt): A+=0, A=13, A-=0
+    25	FRS2 - First-Year Seminar (Irina Delusina): A+=4, A=12, A-=1
+    26	FRS2 - First-Year Seminar (Konstantinos Zarbalis): A+=0, A=15, A-=0
+    27	FRS2 - First-Year Seminar (Mohamed Hafez): A+=0, A=19, A-=0
+    28	FRS2 - First-Year Seminar (Sarah Faye): A+=15, A=0, A-=0
+    29	FRS2 - First-Year Seminar (Shirley Chiang): A+=0, A=14, A-=0
+    30	FRS2 - First-Year Seminar (Stefano Varese): A+=0, A=12, A-=2
+    31	FRS2 - First-Year Seminar (Valentin Taufour): A+=0, A=11, A-=0
+    32	GEL186 - Facilitating Learning (Mary Stevenson): A+=0, A=66, A-=2
+    33	GER109A - Business German (Elisabeth Krimmer): A+=3, A=2, A-=5
+    34	HDE140 - Young Children (Andrew Bower): A+=10, A=22, A-=8
+    35	HIS110 - Themes in World History (Baki Tezcan): A+=1, A=9, A-=3
+    36	HIS165 - Latin Amer Soc Rev (Marian Schlotterbeck): A+=3, A=14, A-=0
+    37	JPN122 - Advanced Japanese II (Nobuko Koyama): A+=3, A=6, A-=2
+    38	MSC022B - Tactical Leadership (Andrew Feske): A+=6, A=4, A-=0
+    39	MUS127 - Music from Latin America (Pablo Ortiz): A+=9, A=14, A-=1
+    40	MUS131A - Voice (Jonathan Nadel): A+=4, A=6, A-=0
+    41	MUS131A - Voice (Zoila Munoz-Diaz): A+=9, A=3, A-=0
+    42	NAS185 - NA Lit Perform (Ines Hernandez-Avila): A+=6, A=10, A-=1
+    43	NAS5 - Intro to NA Lit (Sarah Dilley): A+=14, A=10, A-=1
+    44	PLB10 - Plant Biology (Sharman Oneill): A+=40, A=1, A-=0
+    45	PMI126L - Immunology Lab (Jeffrey Stott): A+=12, A=18, A-=2
+    46	POR2 - Elementary Portuguese (Eugenia Magnoli Da Silva Fernandes): A+=5, A=11, A-=5
+    47	PSC190 - Seminar (Brian Trainor): A+=14, A=1, A-=0
+    48	SPA182 - Senior Sem Latin Amer (Michael Lazzara): A+=2, A=9, A-=3
+    49	TCS175 - Flm Prd (Andrew Smith): A+=5, A=8, A-=1
+    50	TXC162L - Textile Fabric Lab (Ning Pan): A+=8, A=3, A-=0
+Quarter: WQ2019
+-----------------
+     1	ANS198 - Directed Gp Study (Pablo Ross): A+=1, A=13, A-=0
+     2	CHI155 - Chicano Theater (A. Chabram-Dernersesian): A+=35, A=5, A-=0
+     3	CHI161 - Queer Latinidad (Sergio De La Mora): A+=15, A=1, A-=0
+     4	CLA120 - Grk/Roman Historiography (Carey Seal): A+=3, A=6, A-=2
+     5	COM152 - Literature of Americas (Neil Larsen): A+=5, A=12, A-=5
+     6	COM158 - Detective Fiction (Timothy Parrish): A+=0, A=26, A-=3
+     7	DES180B - Adv Interior Design (Mark Kessler): A+=0, A=14, A-=0
+     8	DRA042B - Intermediate Ballet (Stuart Carroll): A+=0, A=23, A-=0
+     9	DRA10 - Intro To Acting (Alvaro Ivan Hernandez Rodriguez): A+=8, A=16, A-=2
+    10	DRA121A - Adv Acting: Scene Study (Mindy Cooper): A+=1, A=11, A-=0
+    11	DRA180A - Theatre Lab: Performance (David Grenke): A+=0, A=12, A-=0
+    12	DRA180C - Theatre Lab: Prod Team (Steven Schmidt): A+=0, A=10, A-=0
+    13	DRA180F - Costume Lab (Maggie Morgan): A+=0, A=10, A-=0
+    14	EDU152 - Acad Span for BilTeacher (Margarita Jimenez-Silva): A+=21, A=0, A-=0
+    15	ENL194H - Seminar for Honors (Matthew Stratton): A+=0, A=15, A-=0
+    16	ENL3 - Intro To Literature (Theodore Geier): A+=0, A=25, A-=0
+    17	ESP111 - Marine Environ Issues (John Largier): A+=0, A=11, A-=0
+    18	ESP191A - Sustainability Workshop (Thomas Tomich): A+=0, A=38, A-=0
+    19	EVE111 - Marine Environ Issues (John Largier): A+=0, A=15, A-=0
+    20	FRS1 - First-Year Seminar (Candice Price): A+=5, A=7, A-=2
+    21	FRS1 - First-Year Seminar (Emma Grigg): A+=12, A=6, A-=1
+    22	FRS1 - First-Year Seminar (John Bolander): A+=0, A=14, A-=4
+    23	FRS1 - First-Year Seminar (Marina Ellefson Crowder): A+=5, A=8, A-=5
+    24	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=18, A-=0
+    25	FRS1 - First-Year Seminar (Rajiv Singh): A+=0, A=17, A-=0
+    26	FRS1 - First-Year Seminar (Robert Irwin): A+=0, A=19, A-=0
+    27	FRS2 - First-Year Seminar (Agnes Stark): A+=2, A=11, A-=2
+    28	FRS2 - First-Year Seminar (Aijun Wang): A+=13, A=0, A-=0
+    29	FRS2 - First-Year Seminar (Annaliese Franz): A+=0, A=15, A-=0
+    30	FRS2 - First-Year Seminar (Charles Hunt): A+=0, A=11, A-=0
+    31	FRS2 - First-Year Seminar (David Follette): A+=5, A=30, A-=3
+    32	FRS2 - First-Year Seminar (Haruko Sakakibara): A+=5, A=10, A-=3
+    33	FRS2 - First-Year Seminar (Irina Delusina): A+=7, A=0, A-=3
+    34	FRS2 - First-Year Seminar (Joseph Dumit): A+=0, A=12, A-=0
+    35	FRS2 - First-Year Seminar (Noha Radwan): A+=1, A=12, A-=2
+    36	FRS2 - First-Year Seminar (Robert Hackman): A+=2, A=9, A-=0
+    37	FRS2 - First-Year Seminar (Sarah Faye): A+=14, A=0, A-=0
+    38	FRS2 - First-Year Seminar (Scott Dawson): A+=2, A=9, A-=0
+    39	FRS2 - First-Year Seminar (Shirley Chiang): A+=0, A=13, A-=0
+    40	FRS2 - First-Year Seminar (Stefano Varese): A+=0, A=13, A-=0
+    41	GDB187 - Global Disease Biol Sem (Sara Dye): A+=5, A=26, A-=2
+    42	HDE142 - Fld Std Emot Dis (Adrienne Nishina): A+=14, A=8, A-=0
+    43	HMR161 - Human Rights Latin Am (Marian Schlotterbeck): A+=5, A=5, A-=5
+    44	MSC12 - Intro To Leadership (Aiana Garin): A+=0, A=22, A-=0
+    45	MSC12 - Intro To Leadership (Alexander Smith): A+=0, A=16, A-=0
+    46	MUS122 - Topics Anlys & Theory (Kurt Rohde): A+=5, A=8, A-=0
+    47	MUS131A - Voice (Jonathan Nadel): A+=3, A=9, A-=1
+    48	MUS131G - Cello (Susan Lamb): A+=0, A=11, A-=0
+    49	MUS131I - Flute (Stacey Pelinka): A+=1, A=8, A-=0
+    50	PER22 - Intermediate Persian (Navid Saberi-Najafi): A+=0, A=11, A-=1
+    51	PMI126L - Immunology Lab (Jeffrey Stott): A+=7, A=28, A-=1
+    52	PSC182 - Laboratory Research (Simine Vazire): A+=0, A=38, A-=0
+    53	SPA31 - Span-Native Speakers I (Agustina Carando): A+=20, A=5, A-=1
+    54	TCS175 - Flm Prd (Andrew Smith): A+=11, A=4, A-=0
+    55	UWP001A - Writers' Workshop (Nancy Pearsall): A+=2, A=5, A-=5
+    56	UWP1 - Academic Literacies (Alexandra Burgess): A+=0, A=20, A-=5
+    57	UWP104T - Technical Writing (Katherine Gossett): A+=4, A=28, A-=14
+    58	UWP22 - Intrmed Multiling Wrtng (Julian Elias): A+=5, A=6, A-=6
+    59	UWP23 - Advancd Multiling Wrtng (Julian Elias): A+=4, A=5, A-=9
+Quarter: WQ2020
+-----------------
+     1	AMS157 - Animals in Amer Culture (Theodore Geier): A+=1, A=39, A-=0
+     2	ANS120L - Meat Science Lab (Xiang Yang): A+=14, A=3, A-=0
+     3	ANS133 - Animal Cell Lab (Pablo Ross): A+=3, A=7, A-=0
+     4	ANS134 - Animal Nutrition Lab (Yanhong Liu): A+=13, A=9, A-=1
+     5	ANT137 - Meditation & Culture (Alan Klima): A+=2, A=13, A-=0
+     6	ARB122 - Advanced Arabic (Shayma Hassouna): A+=12, A=3, A-=0
+     7	ART142C - IntCerSculp:PaintSurface (Annabeth Rosen): A+=13, A=0, A-=0
+     8	ART152A - AdvSculp:StudioProjects (Robin Hill): A+=11, A=0, A-=0
+     9	ART9 - Beginning Photography (Matthew Baum): A+=0, A=14, A-=6
+    10	ASA189D - Policy & Community (Ga Young Chung): A+=10, A=0, A-=0
+    11	BIM189C - Biomedical Engineering (Karen Moxon): A+=0, A=10, A-=0
+    12	BIT161A - Genetics & Biotech Lab (Emma Shipman): A+=1, A=0, A-=0
+    13	CHE002BH - Honors General Chem (Delmar Larsen): A+=0, A=46, A-=0
+    14	CHE145 - Good Quality Practices (Donald Land): A+=0, A=10, A-=0
+    15	CHI155 - Chicano Theater (A. Chabram-Dernersesian): A+=38, A=10, A-=1
+    16	COM4 - Mjr Wrks Contemp World (Ross Hernandez): A+=0, A=2, A-=0
+    17	COM4 - Mjr Wrks Contemp World (Xuesong Shao): A+=4, A=19, A-=6
+    18	DES180B - Adv Interior Design (Mark Kessler): A+=0, A=10, A-=3
+    19	DRA040B - Intermed Modern Dance (Nicole Katrine Peisl): A+=6, A=6, A-=2
+    20	DRA10 - Intro To Acting (Isa Cynthia Leal): A+=2, A=20, A-=2
+    21	DRA120 - Acting Gateway (Mindy Cooper): A+=8, A=11, A-=1
+    22	DRA121A - Adv Acting: Scene Study (Toby Sedgwick): A+=13, A=3, A-=1
+    23	DRA145 - Directed Choreogrph Proj (David Grenke): A+=0, A=16, A-=0
+    24	DRA180A - Theatre Lab: Performance (Mindy Cooper): A+=9, A=3, A-=1
+    25	DRA180D - Theatre Lab Crew (Steven Schmidt): A+=0, A=11, A-=0
+    26	EBS170B - Engr Projects: Design (Ruihong Zhang): A+=6, A=33, A-=1
+    27	EBS170BL - Engr Projects Design Lab (Ruihong Zhang): A+=6, A=15, A-=0
+    28	EDU150 - Cultural Div Ed Sociopol (Maisha Winn): A+=13, A=2, A-=1
+    29	ENL003A - Writers' Workshop (Kristen Hanley Cardozo): A+=0, A=10, A-=3
+    30	ENL003A - Writers' Workshop (Ryan Wander): A+=3, A=15, A-=5
+    31	ENL100F - Creat Writ: Fiction (Melinda Moustakis): A+=4, A=11, A-=2
+    32	ENL194H - Seminar for Honors (Matthew Stratton): A+=6, A=10, A-=0
+    33	ENL3 - Intro To Literature (Aaron Benedetti): A+=0, A=21, A-=0
+    34	ENL3 - Intro To Literature (Jennifer Colmenero): A+=2, A=6, A-=1
+    35	ESP191A - Sustainability Workshop (Kimberly Rodrigues): A+=3, A=19, A-=4
+    36	EVE111 - Marine Environ Issues (John Largier): A+=4, A=7, A-=4
+    37	EXB120 - Sports in Amer Society (Steven Doten): A+=0, A=44, A-=0
+    38	FRS1 - First-Year Seminar (David Goodin): A+=5, A=5, A-=0
+    39	FRS1 - First-Year Seminar (Mohamed Hafez): A+=0, A=17, A-=0
+    40	FRS1 - First-Year Seminar (Sarah Faye): A+=13, A=1, A-=0
+    41	FRS2 - First-Year Seminar (Alan Klima): A+=2, A=10, A-=0
+    42	FRS2 - First-Year Seminar (Carlos Jackson): A+=28, A=0, A-=0
+    43	FRS2 - First-Year Seminar (David Follette): A+=6, A=30, A-=1
+    44	FRS2 - First-Year Seminar (John Furlow): A+=2, A=7, A-=4
+    45	FRS2 - First-Year Seminar (Mark Fedyk): A+=3, A=7, A-=4
+    46	FRS2 - First-Year Seminar (Mohamed Hafez): A+=0, A=15, A-=0
+    47	FRS2 - First-Year Seminar (Peter Lichtenfels): A+=0, A=15, A-=0
+    48	FRS2 - First-Year Seminar (Shirley Chiang): A+=2, A=10, A-=1
+    49	FST100C - Food Physical Chemistry (Stephanie Dungan): A+=1, A=18, A-=0
+    50	IST008C - Social Sciences (Lee Martin): A+=0, A=24, A-=0
+    51	JPN122 - Advanced Japanese II (Nobuko Koyama): A+=9, A=2, A-=0
+    52	JPN136 - Readings in Newspapers (David Gundry): A+=12, A=6, A-=1
+    53	LAT120 - Imperial Latin Lit (Valentina Popescu): A+=5, A=3, A-=2
+    54	MSA182B - India/SouthAsia Seminar (Kuldeep Singh): A+=15, A=0, A-=0
+    55	MSC022B - Tactical Leadership (Sesar Gonzalez): A+=12, A=0, A-=0
+    56	MSC12 - Intro To Leadership (Valos Owen): A+=41, A=0, A-=0
+    57	MSC142 - Military Law (Ryan Burkert): A+=12, A=0, A-=0
+    58	MUS003B - Intro Music Theory 2 (Phebe Craig): A+=8, A=15, A-=5
+    59	MUS131A - Voice (Jonathan Nadel): A+=5, A=10, A-=0
+    60	MUS131A - Voice (Zoila Munoz-Diaz): A+=2, A=16, A-=1
+    61	MUS131G - Cello (Susan Lamb): A+=0, A=11, A-=0
+    62	MUS131I - Flute (Stacey Pelinka): A+=0, A=11, A-=0
+    63	NAS125 - NA Performance & Culture (Zoila Mendoza): A+=0, A=12, A-=0
+    64	NAS185 - NA Lit Perform (Ines Hernandez-Avila): A+=3, A=8, A-=1
+    65	NUT130 - Expt in Nutrition (Bo Lonnerdal): A+=2, A=8, A-=0
+    66	NUT130 - Expt in Nutrition (Rachel Scherr): A+=0, A=14, A-=0
+    67	PER2 - Elementary Persian (Navid Saberi-Najafi): A+=3, A=22, A-=5
+    68	PHE120 - Sports in Amer Society (Steven Doten): A+=0, A=55, A-=0
+    69	PLS021V - Computers in Technology (Daniel Frank): A+=0, A=15, A-=0
+    70	POL193 - Res In Practical Pol (Travis Baker): A+=7, A=23, A-=3
+    71	POR2 - Elementary Portuguese (Eugenia Magnoli Da Silva Fernandes): A+=12, A=10, A-=0
+    72	POR22 - Intermediate Portuguese (Eugenia Magnoli Da Silva Fernandes): A+=6, A=8, A-=0
+    73	PSC182 - Laboratory Research (Gail Goodman): A+=10, A=0, A-=0
+    74	PSC182 - Laboratory Research (Paul Hastings): A+=10, A=0, A-=0
+    75	PSC190 - Seminar (Brian Trainor): A+=9, A=5, A-=0
+    76	RST170 - Buddhism (Westin Harris): A+=0, A=1, A-=1
+    77	RST190 - Seminar (Mairaj Syed): A+=7, A=4, A-=0
+    78	RUS101B - Advanced Russian (Liliana Avramenko): A+=4, A=6, A-=1
+    79	RUS143 - Chekhov (in English) (Olga Stuchebrukhov): A+=17, A=3, A-=0
+    80	SOC195 - Seminar (Rafi Grosglik): A+=12, A=6, A-=3
+    81	SPA31 - Span-Native Speakers I (Agustina Carando): A+=17, A=9, A-=0
+    82	STS20 - Methods Science Studies (Timothy Choy): A+=0, A=15, A-=0
+    83	TCS175 - Flm Prd (Andrew Smith): A+=13, A=9, A-=0
+    84	UWP1 - Academic Literacies (Leanna Obrien): A+=0, A=1, A-=0
+    85	UWP104A - Business Writing (Brenda Rinard): A+=0, A=24, A-=0
+Quarter: WQ2024
+-----------------
+     1	AAS145A - Blk Soc & Pol Thought (Angelo Williams): A+=9, A=1, A-=0
+     2	ABT101 - Engine Technology (Daniel Frank): A+=0, A=26, A-=0
+     3	ABT142 - Eqpt/Tech for Small Farm (Daniel Frank): A+=0, A=27, A-=1
+     4	ABT289A - Agri & Natural Resources (Kurt Kornbluth): A+=0, A=17, A-=6
+     5	AED100 - Ag & Env Educ (Margaret Martindale): A+=3, A=11, A-=2
+     6	AMS005 - Tech in American Lives (Megan Bayles): A+=6, A=13, A-=6
+     7	ANS134 - Animal Nutrition Lab (Yanhong Liu): A+=16, A=4, A-=0
+     8	ANT002 - Cultural Anthropology (Marisol De La Cadena): A+=11, A=4, A-=2
+     9	ANT002 - Cultural Anthropology (Marisol De La Cadena): A+=17, A=0, A-=1
+    10	ANT134 - Buddhism Global Culture (Alan Klima): A+=0, A=16, A-=0
+    11	ARE254 - Dynamic Optimiz Tech (Mark Agerton): A+=4, A=8, A-=1
+    12	ART151 - Intermediate Sculpture (Beatriz Cortez): A+=8, A=8, A-=3
+    13	ASA189D - Policy & Community (Ga Young Chung): A+=24, A=4, A-=0
+    14	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=11, A=0, A-=0
+    15	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=11, A=1, A-=0
+    16	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=13, A=2, A-=0
+    17	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=14, A=1, A-=0
+    18	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=15, A=0, A-=0
+    19	BIM177 - Rapid Prototyping BME (Anthony Passerini): A+=3, A=6, A-=1
+    20	BIM283 - Adv Design of Experiment (David Rocke): A+=23, A=6, A-=0
+    21	BIS023B - Genome Hunters (Titus Brown): A+=17, A=0, A-=2
+    22	BIS298 - Group Study (Aldrin Gomes): A+=0, A=12, A-=0
+    23	CDM189 - Special Topics in CDM (Andrew Smith): A+=11, A=7, A-=0
+    24	CDM195HA - Honors Project in CDM (Patrick Lemieux): A+=0, A=16, A-=0
+    25	CHE228A - Bioinorganic Chem (R Britt): A+=0, A=12, A-=0
+    26	CHE237 - Bio-organic Chem (Shota Atsumi): A+=0, A=12, A-=0
+    27	CHE241A - Surface Analytical Chem (Kristie Koski): A+=14, A=2, A-=1
+    28	CHE261 - Current Topics (Annaliese Franz): A+=0, A=5, A-=5
+    29	CHE261 - Current Topics (Carlito Lebrilla): A+=0, A=11, A-=0
+    30	CHE261 - Current Topics (Dean Tantillo): A+=0, A=11, A-=0
+    31	CHE261 - Current Topics (Jared Shaw): A+=0, A=11, A-=0
+    32	CHI010 - Intro Chicana/o Studies (Ofelia Cuevas): A+=11, A=13, A-=1
+    33	CHI010 - Intro Chicana/o Studies (Ofelia Cuevas): A+=11, A=14, A-=0
+    34	CHI050 - Intro To Chicano Culture (Maceo Montoya): A+=14, A=5, A-=3
+    35	CHI172 - Chi Poster Workshop (Gilda Posada): A+=8, A=4, A-=2
+    36	CHI198 - Directed Gp Study (Alan Pelaez Lopez): A+=2, A=8, A-=0
+    37	CLA003 - Rome & Mediterranean (Mike Chin): A+=13, A=8, A-=3
+    38	CLH245 - Biostat for Biomed Sci (Kyoungmi Kim): A+=10, A=1, A-=2
+    39	DEB263 - Basic Biotechnology (Denneal Jamison-McClung): A+=4, A=45, A-=2
+    40	DES150 - CAD Presentations (Joseph Pierre): A+=4, A=9, A-=1
+    41	DES226 - Studio Practice & Crit (Brett Snyder): A+=8, A=2, A-=0
+    42	DRA010 - Intro to Performance (Danika Burmester): A+=20, A=4, A-=0
+    43	DRA010 - Intro to Performance (Diego Martinez-Campos): A+=24, A=0, A-=0
+    44	DRA010 - Intro to Performance (Diego Martinez-Campos): A+=25, A=0, A-=0
+    45	DRA010 - Intro to Performance (Rachel Smith): A+=22, A=2, A-=0
+    46	DRA040A - Beginning Modern Dance (Diego Martinez-Campos): A+=29, A=0, A-=0
+    47	DRA126A - Topics Entertainment Eng (Steven Schmidt): A+=0, A=12, A-=0
+    48	DRA140B - Dance Composition II (Erika Tsimbrovsky): A+=18, A=0, A-=0
+    49	DRA180D - Theatre Lab Crew (Ethan Hollinger): A+=5, A=6, A-=0
+    50	DRA180F - Costume Lab (Steven Schmidt): A+=0, A=12, A-=0
+    51	ECH001 - Design of Coffee (Tonya Kuhl): A+=8, A=12, A-=0
+    52	ECH001 - Design of Coffee (Tonya Kuhl): A+=9, A=25, A-=1
+    53	ECH001Y - Design of Coffee (Tonya Kuhl): A+=6, A=27, A-=0
+    54	ECH256 - Chem Kinet Reaction Eng (): A+=0, A=18, A-=0
+    55	ECI149L - Air Pollution Lab (Theresa Pistochini): A+=3, A=25, A-=2
+    56	ECI193A - Civil/Env Senior Design (Colleen Bronner): A+=7, A=14, A-=12
+    57	ECI251 - Transp Demand Analysis (Miguel Jaller Martelo): A+=9, A=4, A-=0
+    58	ECL200BN - Principles of Ecology (Susan Harrison): A+=1, A=10, A-=1
+    59	ECN194HB - Honors Study (Katherine Eriksson): A+=0, A=11, A-=0
+    60	ECN200E - Macro Theory (Athanasios Geromichalos): A+=3, A=6, A-=4
+    61	ECN210B - Economic History (Christopher Meissner): A+=2, A=2, A-=6
+    62	ECN290 - Topics In Economics (Xian Jiang): A+=0, A=10, A-=1
+    63	ECS235B - Computer & Info Security (Matthew Bishop): A+=0, A=28, A-=2
+    64	ECS252 - Computer Networks (Alexander Gamero Garrido): A+=16, A=4, A-=5
+    65	ECS260 - Software Engineering (Vladimir Filkov): A+=1, A=83, A-=2
+    66	ECS289C - Prog Lang & Compilers (Cindy Rubio Gonzalez): A+=1, A=7, A-=6
+    67	ECS289I - Networks (Alexander Gamero Garrido): A+=9, A=1, A-=0
+    68	EDU183 - Teaching HS Math & Sci (Susann Pinter): A+=6, A=8, A-=0
+    69	EDU201 - Qual Research Education (Elizabeth Montano): A+=0, A=9, A-=3
+    70	EDU206D - Inq Class Prac: Analysis (Chantal Lacrampe-Mace): A+=0, A=14, A-=0
+    71	EDU206D - Inq Class Prac: Analysis (Rebecca Rosa Stevens): A+=13, A=5, A-=1
+    72	EDU238 - Participatory Action Res (Alicia Rusoja): A+=0, A=15, A-=0
+    73	EDU280A - Qualitative Research (Elizabeth Montano): A+=0, A=15, A-=0
+    74	EDU286A - Organizational Structure (Megan Welsh): A+=0, A=15, A-=0
+    75	EDU288AV - Writing for Educ Leaders (Gloria Rodriguez): A+=0, A=15, A-=0
+    76	EDU288AV - Writing for Educ Leaders (Patricia Quijada): A+=0, A=11, A-=0
+    77	EDU292 - Special Topics in Educ (Alexis Patterson): A+=0, A=22, A-=0
+    78	EDU292 - Special Topics in Educ (Darnel Degand): A+=10, A=0, A-=1
+    79	EDU307 - Methods in Elem Science (Alexis Patterson): A+=0, A=22, A-=0
+    80	EDU310 - Teaching as Practice (Claudia Rodriguez-Mojica): A+=0, A=10, A-=0
+    81	EDU310 - Teaching as Practice (Nancy Tseng): A+=0, A=12, A-=0
+    82	EEC134A - RF Systems (Anhvu Pham): A+=0, A=14, A-=0
+    83	EEC174BY - Applied ML Projects (Chen-Nee Chuah): A+=16, A=14, A-=4
+    84	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=4, A=20, A-=0
+    85	ENG190 - Prof Resp Of Engr (Bahram Ravani): A+=115, A=116, A-=7
+    86	ENL003A - Writers' Workshop (Megan Arkenberg): A+=3, A=9, A-=3
+    87	ENL005F - Writing: Fiction (Jakob Johnson): A+=16, A=4, A-=2
+    88	ENL100F - Creat Writ: Fiction (Lucy Corin): A+=2, A=10, A-=4
+    89	ENL168 - 20th Cen Amer Poetry (Joshua Clover): A+=6, A=9, A-=0
+    90	ENL233 - Probs In Amer Lit (Mark Jerng): A+=0, A=13, A-=0
+    91	ENL237 - Seminar for Writers (Maceo Montoya): A+=10, A=0, A-=0
+    92	ENL290F - CW: Fiction (Lucy Corin): A+=0, A=10, A-=0
+    93	EPI280 - Intro to SAS (Melanie Dove): A+=10, A=5, A-=1
+    94	ETX138 - Legal Aspects Env Tox (Karen Riveles): A+=21, A=9, A-=2
+    95	EVE120 - Global Change Ecology (Donald Strong): A+=3, A=17, A-=3
+    96	EVH200 - Environmental Humanities (Elizabeth Miller): A+=0, A=13, A-=0
+    97	FOR268 - Forensic Statistics (Barry Miller): A+=0, A=18, A-=0
+    98	FOR276 - Population Genetics (Jeffrey Rodzen): A+=7, A=7, A-=1
+    99	FRS001 - First-Year Seminar (Ian Korf): A+=2, A=12, A-=4
+   100	FRS002 - First-Year Seminar (Joseph Dumit): A+=0, A=14, A-=0
+   101	FRS002 - First-Year Seminar (Laci Gerhart): A+=19, A=0, A-=0
+   102	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=17, A-=1
+   103	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=17, A-=1
+   104	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=17, A-=2
+   105	FRS002 - First-Year Seminar (Sarah Faye): A+=15, A=0, A-=0
+   106	FRS002 - First-Year Seminar (Sarah Faye): A+=17, A=0, A-=0
+   107	FRS002 - First-Year Seminar (Valentin Taufour): A+=0, A=15, A-=0
+   108	FST101B - Food Properties Lab (Daniela Barile): A+=14, A=16, A-=1
+   109	FST102B - Practical Malt & Brewing (Glen Fox): A+=0, A=3, A-=7
+   110	FST211 - Lipids: Chem & Nutrition (John German): A+=0, A=14, A-=0
+   111	GEL116N - Oceanography (Alyssa Griffin): A+=5, A=2, A-=4
+   112	GEL186 - Facilitating Learning (Mary Stevenson): A+=0, A=12, A-=0
+   113	GGG201B - Genomics (Megan Dennis): A+=15, A=5, A-=0
+   114	GRK113 - Thucydides (John Rundin): A+=4, A=6, A-=0
+   115	GSW050 - Intro to Gender Studies (Brooke Kipling): A+=16, A=8, A-=1
+   116	GSW200A - Feminist Theory (Rana Jaleel): A+=0, A=13, A-=0
+   117	HDE298 - Group Study (Kali Trzesniewski): A+=0, A=12, A-=1
+   118	HEB002 - Elementary Hebrew (Itay Eisinger): A+=10, A=1, A-=5
+   119	HIN022 - Intermed Hindi/Urdu (Poonam Chauhan): A+=6, A=5, A-=0
+   120	HIS012 - Food & History (Andres Resendez): A+=10, A=5, A-=0
+   121	HIS012 - Food & History (Andres Resendez): A+=9, A=3, A-=2
+   122	HIS072A - Women & Gender Amer-1865 (Karen Gettelman): A+=0, A=15, A-=0
+   123	HIS072A - Women & Gender Amer-1865 (Karen Gettelman): A+=1, A=14, A-=0
+   124	HIS072A - Women & Gender Amer-1865 (Karen Gettelman): A+=2, A=13, A-=0
+   125	HIS072A - Women & Gender Amer-1865 (Karen Gettelman): A+=3, A=12, A-=0
+   126	HIS184 - Sexuality in US (Lisa Materson): A+=7, A=10, A-=6
+   127	HMR190G - Adv Std Genocide (Keith Watenpaugh): A+=2, A=6, A-=3
+   128	HNR190X - Honors Contract (Milmon Harrison): A+=0, A=23, A-=0
+   129	IST008A - Natural Sci & Math (Melissa Bauman): A+=10, A=3, A-=0
+   130	IST008B - Humanities (Shagufta Fatema): A+=20, A=3, A-=0
+   131	JPN122 - Advanced Japanese II (Nobuko Koyama): A+=6, A=3, A-=1
+   132	LDA198 - Group Study (Anna Kiers): A+=2, A=22, A-=0
+   133	LDA202 - Design & Research (David de la Peña): A+=0, A=7, A-=5
+   134	LIN281 - Research in TESOL SLD (Julia Menard-Warwick): A+=1, A=9, A-=1
+   135	MAT248A - Algebraic Geometry (Evgeny Gorskiy): A+=0, A=15, A-=8
+   136	MAT280 - Topics In Math (Bruno Nachtergaele): A+=0, A=10, A-=0
+   137	MAT280 - Topics In Math (Motohico Mulase): A+=5, A=8, A-=0
+   138	MAT298 - Group Study (Jennifer Schultens): A+=0, A=9, A-=1
+   139	MCN261 - Lactation & Infant Nutri (Lauren Au): A+=3, A=15, A-=2
+   140	MCN264A - Principles Adult Edu Sem (Jane Heinig): A+=10, A=2, A-=1
+   141	MGB407 - Storytelling for Leaders (Doy Charnsupharindr): A+=0, A=14, A-=1
+   142	MGB412 - International Marketing (Kay Peters): A+=3, A=7, A-=3
+   143	MGB440S - Inter Mgmt Sim (Amber Beckler): A+=0, A=13, A-=0
+   144	MGP407 - Storytelling for Leaders (Doy Charnsupharindr): A+=0, A=22, A-=0
+   145	MGP490 - Topics in Business (Vanessa Errecarte): A+=17, A=4, A-=0
+   146	MGT150 - Technology Management (Jane Harrington): A+=0, A=19, A-=9
+   147	MGT151 - Mgmt of Innov & Entrprn (Justin Virrey): A+=12, A=17, A-=4
+   148	MGT290 - Topics in Gen Mgmt (Hemant Vaidya): A+=13, A=9, A-=4
+   149	MGT290 - Topics in Gen Mgmt (Julie Morris): A+=12, A=4, A-=0
+   150	MGT402A - Markets & the Firm (Victor Stango): A+=0, A=27, A-=7
+   151	MGT407 - Storytelling for Leaders (Doy Charnsupharindr): A+=0, A=11, A-=0
+   152	MGV246V - Negotiations in Orgs (Gareth Keeves): A+=0, A=10, A-=3
+   153	MGV261V - Investment Analysis (Joseph Chen): A+=0, A=16, A-=0
+   154	MGV440V - Intgd Management Project (William Cron): A+=0, A=8, A-=12
+   155	MHI202 - Comp Patient Records (Mark Carroll): A+=12, A=0, A-=0
+   156	MIC105L - Microbial Diversity Lab (Jonathan Bragg): A+=15, A=7, A-=0
+   157	MMI200D - Microbial Interactions (Andreas Baumler): A+=0, A=14, A-=0
+   158	MPM207 - Applied Problem Solving (Beatriz Martinez Lopez): A+=19, A=3, A-=0
+   159	MPM209 - Research Reporting II (Cecilia Giulivi): A+=17, A=10, A-=2
+   160	MSC012 - Intro To Leadership (Walter Wade): A+=10, A=0, A-=0
+   161	MUS121 - Topics Mus Schol (Pierpaolo Polzonetti): A+=1, A=6, A-=3
+   162	MUS131A - Voice (Heidi Moss-Erickson): A+=2, A=7, A-=1
+   163	MUS131A - Voice (Jonathan Nadel): A+=4, A=10, A-=0
+   164	MUS131A - Voice (Zoila Munoz-Diaz): A+=2, A=10, A-=1
+   165	MUS131G - Cello (Susan Lamb): A+=0, A=9, A-=1
+   166	MUS203 - Music Composition (Mika Pelo): A+=2, A=9, A-=0
+   167	NAS005 - Intro to NA Lit (Jason Tena-Encarnacion): A+=25, A=0, A-=0
+   168	NAS012 - NA Film (Hulleah Tsinhnahjinnie): A+=14, A=9, A-=3
+   169	NAS202 - Advanced Topics NAS (Ines Hernandez-Avila): A+=0, A=10, A-=0
+   170	NRS283AV - Diagnostic Reasoning A (Janet Meda): A+=0, A=19, A-=6
+   171	NRS307 - Family Centered Comm (Victoria Jackson): A+=0, A=10, A-=1
+   172	NRS425 - Family Focused Nursing (Charleen Singh): A+=0, A=34, A-=12
+   173	NRS429B - Collaborative Practice B (Mary Gallagher): A+=0, A=46, A-=0
+   174	NSC219 - Stats for Neuroscience (Alexander Nord): A+=0, A=10, A-=0
+   175	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): A+=10, A=1, A-=0
+   176	NUT252 - Nutrition & Development (Patricia Oteiza De Fraga): A+=4, A=8, A-=0
+   177	NUT298 - Group Study (Jane Heinig): A+=8, A=4, A-=1
+   178	PHA205 - Problems in Pharmacology (Johannes Hell): A+=5, A=10, A-=0
+   179	PHA207 - Drug Discovery & Dev (Heike Wulff): A+=7, A=33, A-=4
+   180	PHI005 - Critical Reasoning (Thorian Harris): A+=28, A=0, A-=1
+   181	PLS157 - Stress Physiology (Tom Buckley): A+=0, A=10, A-=0
+   182	PLS225 - Quantitative Genetics (Steven Knapp): A+=3, A=10, A-=0
+   183	POL104 - CA State Govt & Politics (Mario Guerrero): A+=12, A=9, A-=0
+   184	POR002 - Elementary Portuguese (Eugenia Magnolia Da Silva Fernandes): A+=12, A=9, A-=0
+   185	PSC182 - Laboratory Research (): A+=0, A=11, A-=0
+   186	PSC182 - Laboratory Research (Alison Ledgerwood): A+=0, A=10, A-=0
+   187	PSC289B - Current Resrch in Psych (Lisa Oakes): A+=0, A=13, A-=0
+   188	PSC290 - Seminar (Karen Bales): A+=10, A=0, A-=0
+   189	PUN002V - Elementary Punjabi (Kuldeep Singh): A+=11, A=4, A-=1
+   190	PUN022 - Intermediate Punjabi (Kuldeep Singh): A+=7, A=4, A-=2
+   191	RAL209 - Curr Top Immunol (Judy Van de Water): A+=10, A=0, A-=1
+   192	SAS006B - Career Discovery (Fernanda Valdovinos): A+=8, A=3, A-=0
+   193	SAS006B - Career Discovery (Fernanda Valdovinos): A+=9, A=2, A-=0
+   194	SOC295 - Special Topics Seminar (Stephanie Mudge): A+=0, A=10, A-=0
+   195	SPA021 - Intermediate Spanish (Travis Bradley): A+=22, A=1, A-=0
+   196	SPA023 - Spanish Composition I (Travis Bradley): A+=13, A=4, A-=1
+   197	SPA024 - Spanish Composition II (Travis Bradley): A+=0, A=20, A-=5
+   198	SPA032 - Heritage Spanish II (Agustina Carando): A+=10, A=3, A-=1
+   199	SPA032 - Heritage Spanish II (Agustina Carando): A+=6, A=5, A-=0
+   200	SPA114N - Contrastive Analysis (Agustina Carando): A+=23, A=5, A-=0
+   201	SPH212 - Migration & Health (Patrick Koga): A+=3, A=12, A-=0
+   202	SPH280 - Intro to SAS (Melanie Dove): A+=9, A=2, A-=0
+   203	STA232B - Applied Statistics II (Jiming Jiang): A+=0, A=10, A-=2
+   204	UWP001 - Academic Literacies (Aaron Halverson): A+=22, A=2, A-=1
+   205	UWP001 - Academic Literacies (Alison Oses): A+=0, A=20, A-=5
+   206	UWP001 - Academic Literacies (Katie Chappell): A+=20, A=5, A-=0
+   207	UWP007Y - Reading & Writing (Jillian Azevedo): A+=0, A=11, A-=7
+   208	UWP007Y - Reading & Writing (Katherine Arosteguy): A+=0, A=16, A-=2
+   209	UWP049 - Writing Research Papers (Kendon Kurzer): A+=0, A=19, A-=3
+   210	UWP101 - Advanced Composition (Jessica Gray): A+=3, A=14, A-=3
+   211	UWP102B - Writing in Bio Sci (Brenda Rinard): A+=0, A=19, A-=2
+   212	UWP102B - Writing in Bio Sci (Brenda Rinard): A+=0, A=22, A-=0
+   213	UWP102B - Writing in Bio Sci (Melissa Bender): A+=20, A=5, A-=0
+   214	UWP104A - Business Writing (Theodore Geier): A+=0, A=24, A-=0
+   215	UWP104FV - Writing in Health Prof (Jane Beal): A+=11, A=10, A-=3
+   216	WFC168 - Climate Change Ecology (Eric Post): A+=14, A=3, A-=0
+   217	WFC168 - Climate Change Ecology (Eric Post): A+=17, A=2, A-=1
+   218	WFC168 - Climate Change Ecology (Eric Post): A+=17, A=4, A-=0
+   219	WFC168 - Climate Change Ecology (Eric Post): A+=20, A=0, A-=0
+   220	WFC168 - Climate Change Ecology (Eric Post): A+=25, A=3, A-=0
+Quarter: WQ2025
+-----------------
+     1	AAS204 - Methodology (Bettina Ngweno): A+=10, A=1, A-=1
+     2	AMS101G - Special Topics (Ryan Cartwright): A+=1, A=13, A-=0
+     3	ANS120L - Meat Science Lab (Xiang Yang): A+=8, A=11, A-=0
+     4	ANS125 - Equine Exercise Physiol (Amy Mclean): A+=34, A=12, A-=4
+     5	ANS128 - Agr Applications of LP (Hao Cheng): A+=3, A=15, A-=0
+     6	ANS134 - Animal Nutrition Lab (Yanhong Liu): A+=18, A=6, A-=0
+     7	ANS139 - Exp Animal Physiology (Anne Todgham): A+=9, A=9, A-=4
+     8	ARE276B - Non-Market Valuation (Jamie Hansen-Lewis): A+=2, A=6, A-=2
+     9	ART142B - IntermCerSclp:MatStudy (Elisabeth Higgins O'Connor): A+=11, A=5, A-=2
+    10	ART151 - Intermediate Sculpture (Jeremiah Barber): A+=7, A=13, A-=4
+    11	ASA189D - Policy & Community (Ga Young Chung): A+=27, A=0, A-=0
+    12	BAX422 - Data Design & Repres (K M Sabidur Rahman): A+=0, A=46, A-=6
+    13	BCB212 - Cell Biology (John Albeck): A+=0, A=12, A-=4
+    14	BCB220L - Adv Biochem Lab Rotation (Enoch Baldwin): A+=7, A=6, A-=0
+    15	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=12, A=1, A-=0
+    16	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=12, A=2, A-=0
+    17	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=14, A=1, A-=1
+    18	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=14, A=2, A-=0
+    19	BIM107 - Mfg Processes for BME (Xianglong Wang): A+=15, A=2, A-=0
+    20	BIM280 - Neural Signal Analyses (Karen Moxon): A+=0, A=15, A-=2
+    21	BIS298 - Group Study (Aldrin Gomes): A+=12, A=0, A-=0
+    22	CDM107 - Acting for Camera (Andrew Smith): A+=18, A=5, A-=0
+    23	CHE145 - Good Quality Practices (Donald Land): A+=2, A=10, A-=0
+    24	CHE205 - Spectroscopy (Delmar Larsen): A+=0, A=29, A-=0
+    25	CHE219L - Organic Spectroscopy Lab (Jacquelyn Gervay Hague): A+=0, A=7, A-=4
+    26	CHE241C - Mass Spectrometry (Carlito Lebrilla): A+=0, A=24, A-=0
+    27	CHE261 - Current Topics (Carlito Lebrilla): A+=0, A=12, A-=0
+    28	CHE261 - Current Topics (Dean Tantillo): A+=0, A=9, A-=2
+    29	CHE261 - Current Topics (Jared Shaw): A+=0, A=12, A-=0
+    30	CHE261 - Current Topics (Mark Mascal): A+=0, A=11, A-=0
+    31	CHE261 - Current Topics (Susan Kauzlarich): A+=10, A=0, A-=0
+    32	CHI010 - Intro Chicana/o Studies (Ofelia Cuevas): A+=3, A=14, A-=4
+    33	CHI172 - Chi Poster Workshop (Gilda Posada): A+=10, A=1, A-=3
+    34	CHI198 - Directed Gp Study (Alan Pelaez Lopez): A+=4, A=8, A-=0
+    35	CRI200A - Apprchs To Crit Thry (Kristopher Fallon): A+=0, A=12, A-=0
+    36	DES144 - History of Interior Arch (James Housefield): A+=22, A=3, A-=0
+    37	DES144 - History of Interior Arch (James Housefield): A+=25, A=3, A-=0
+    38	DES150 - CAD Presentations (Joseph Pierre): A+=1, A=17, A-=7
+    39	DES178 - Design & Wearable Tech (Katia Vega): A+=9, A=0, A-=2
+    40	DES226 - Studio Practice & Crit (Beth Ferguson): A+=3, A=5, A-=6
+    41	DRA010 - Intro to Performance (Diego Martinez-Campos): A+=22, A=0, A-=0
+    42	DRA010 - Intro to Performance (Dorte Bjerre Jensen): A+=0, A=21, A-=1
+    43	DRA111 - Presentation Com Collab (Michele Leavy): A+=0, A=18, A-=1
+    44	DRA180E - Scenic Lab (Steven Schmidt): A+=0, A=10, A-=0
+    45	DRA180F - Costume Lab (Steven Schmidt): A+=0, A=11, A-=0
+    46	EBS170B - Engr Projects: Design (Ruihong Zhang): A+=19, A=8, A-=0
+    47	EBS265 - Des & Anly Engin Expr (Mason Earles): A+=0, A=15, A-=1
+    48	ECH001Y - Design of Coffee (Tonya Kuhl): A+=5, A=29, A-=1
+    49	ECH001Y - Design of Coffee (Tonya Kuhl): A+=7, A=29, A-=0
+    50	ECH001Y - Design of Coffee (Tonya Kuhl): A+=8, A=28, A-=0
+    51	ECH256 - Chem Kinet Reaction Eng (): A+=0, A=11, A-=0
+    52	ECI149L - Air Pollution Lab (Theresa Pistochini): A+=0, A=11, A-=0
+    53	ECI149L - Air Pollution Lab (Theresa Pistochini): A+=0, A=25, A-=3
+    54	ECI251 - Transp Demand Analysis (Miguel Jaller Martelo): A+=15, A=0, A-=0
+    55	ECI275 - Hydro Time-Ser Anly (M Kavvas): A+=10, A=1, A-=0
+    56	ECL200BN - Principles of Ecology (Susan Harrison): A+=0, A=16, A-=0
+    57	ECL208 - Cons Biol Research (Susan Harrison): A+=0, A=27, A-=0
+    58	ECN203B - Game Theory (Burkhard Schipper): A+=9, A=2, A-=0
+    59	ECS289G - Artificial Intelligence (Lifu Huang): A+=0, A=41, A-=1
+    60	ECS289H - Computer Graphics (Julian Panetta): A+=3, A=8, A-=0
+    61	EDU116Y - Inclusive Education (Nicole Sparapani): A+=10, A=0, A-=2
+    62	EDU120 - Philos & Social Found (Carolynne Beno): A+=28, A=10, A-=2
+    63	EDU206D - Inq Class Prac: Analysis (Rebecca Rosa Stevens): A+=7, A=4, A-=0
+    64	EDU210 - Psych of School Learning (Lee Martin): A+=0, A=10, A-=0
+    65	EDU275B - Effective Instruction, B (Heather Schlaman): A+=0, A=28, A-=0
+    66	EDU280A - Qualitative Research (Lauren Lindstrom): A+=11, A=2, A-=2
+    67	EDU281B - Problem-Based Pt 2 (Patricia Quijada): A+=0, A=15, A-=0
+    68	EDU282B - Diversity Issues (Alicia Rusoja): A+=0, A=15, A-=0
+    69	EDU285A - Educational Finance (Heather Rose): A+=0, A=15, A-=0
+    70	EDU288AV - Writing for Educ Leaders (Patricia Quijada): A+=0, A=15, A-=0
+    71	EDU292 - Special Topics in Educ (Alexis Patterson): A+=0, A=28, A-=0
+    72	EDU292 - Special Topics in Educ (Anthony Albano): A+=11, A=1, A-=0
+    73	EDU292 - Special Topics in Educ (Darnel Degand): A+=15, A=0, A-=0
+    74	EDU292 - Special Topics in Educ (Yianella Blanco): A+=0, A=16, A-=0
+    75	EDU304B - Teaching in Elem School (Nancy Tseng): A+=0, A=13, A-=0
+    76	EDU306B - Teach Secondary Sch (Megan Bettis): A+=4, A=0, A-=6
+    77	EDU310 - Teaching as Practice (Claudia Rodriguez-Mojica): A+=0, A=15, A-=0
+    78	EDU310 - Teaching as Practice (Nancy Tseng): A+=0, A=13, A-=0
+    79	EEC175B - IoT Senior Design (Avesta Sasan): A+=4, A=16, A-=0
+    80	EGG298A - Group Study (Alan Meier): A+=0, A=12, A-=0
+    81	EME050 - Manufacturing Processes (Na Ma): A+=10, A=5, A-=5
+    82	EME050 - Manufacturing Processes (Na Ma): A+=11, A=4, A-=5
+    83	EMS162L - Struct Charac Matls Lab (Roopali Kukreja): A+=0, A=9, A-=3
+    84	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=13, A=11, A-=1
+    85	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=13, A=9, A-=2
+    86	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=18, A=6, A-=0
+    87	ENG003Y - Intro to Engr Design (Vivian Vuong): A+=19, A=5, A-=0
+    88	ENL005F - Writing: Fiction (Daniel Langford): A+=2, A=18, A-=1
+    89	ENL005F - Writing: Fiction (Douglas McBride): A+=14, A=8, A-=0
+    90	ENL005NF - Writing: Non-Fiction (Rae Gouirand): A+=2, A=8, A-=4
+    91	ENL005P - Writing: Poetry (Megan Campbell): A+=14, A=5, A-=1
+    92	ENL005P - Writing: Poetry (Zinzi Clemmons): A+=22, A=0, A-=0
+    93	ENL100F - Creat Writ: Fiction (Rae Gouirand): A+=7, A=4, A-=1
+    94	ENL100P - Creat Writ: Poetry (Iris Dunkle): A+=11, A=1, A-=0
+    95	ENL233 - Probs In Amer Lit (Desiree Martin): A+=3, A=7, A-=0
+    96	ENL290F - CW: Fiction (Maceo Montoya): A+=0, A=10, A-=0
+    97	ENV201 - Environmental Law (Tracy Winsor): A+=20, A=11, A-=0
+    98	ENV203A - Env Policy Clinic (Abre Conner): A+=25, A=2, A-=1
+    99	ESP111 - Marine Environ Issues (Anne Todgham): A+=7, A=8, A-=0
+   100	EVE225 - Linear Mixed Modeling (Kate Laskowski): A+=0, A=35, A-=0
+   101	FOR268 - Forensic Statistics (Barry Miller): A+=0, A=12, A-=0
+   102	FOR276 - Population Genetics (Jeffrey Rodzen): A+=9, A=1, A-=0
+   103	FRS001 - First-Year Seminar (Ian Korf): A+=4, A=11, A-=4
+   104	FRS002 - First-Year Seminar (Joseph Dumit): A+=0, A=14, A-=0
+   105	FRS002 - First-Year Seminar (Luis Carvajal-Carmona): A+=19, A=2, A-=3
+   106	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=11, A-=0
+   107	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=22, A-=0
+   108	FRS002 - First-Year Seminar (Natalia Caporale): A+=0, A=23, A-=0
+   109	FRS002 - First-Year Seminar (Subhash Risbud): A+=6, A=16, A-=0
+   110	FST203 - Food Processing (Nitin Nitin): A+=0, A=8, A-=2
+   111	GDB101 - Epidemiology (Neil McRoberts): A+=7, A=12, A-=3
+   112	GEO200E - Adv Research Design Geog (Susan Handy): A+=0, A=16, A-=0
+   113	GGG201B - Genomics (Megan Dennis): A+=9, A=3, A-=0
+   114	GSW050 - Intro to Gender Studies (Christoph Hanssmann): A+=13, A=5, A-=5
+   115	GSW200A - Feminist Theory (Christoph Hanssmann): A+=2, A=8, A-=0
+   116	HDE140L - Lab: Early Childhood (Dana Ganaden): A+=12, A=6, A-=0
+   117	HDE298 - Group Study (Kali Trzesniewski): A+=0, A=16, A-=0
+   118	HIS008 - Indian Civilization (Sudipta Sen): A+=4, A=6, A-=2
+   119	HIS012 - Food & History (Andres Resendez): A+=10, A=0, A-=1
+   120	HIS012 - Food & History (Andres Resendez): A+=11, A=3, A-=1
+   121	HIS012 - Food & History (Andres Resendez): A+=11, A=4, A-=0
+   122	HIS016 - Sex, Science & Society (Marie Mcdonald): A+=6, A=7, A-=1
+   123	HIS016 - Sex, Science & Society (Marie Mcdonald): A+=9, A=3, A-=1
+   124	HIS102J - Latin Am Since 1810 (Andres Resendez): A+=0, A=10, A-=4
+   125	HRT203 - Res Perspec in Horticult (Maciej Zwieniecki): A+=0, A=29, A-=2
+   126	IST008A - Natural Sci & Math (Melissa Bauman): A+=9, A=1, A-=0
+   127	IST008B - Humanities (Shagufta Fatema): A+=22, A=1, A-=0
+   128	JPN122 - Advanced Japanese II (Nobuko Koyama): A+=8, A=2, A-=2
+   129	LDA170 - Field Studio (Brett Milligan): A+=2, A=14, A-=1
+   130	LDA183 - Adv LA Studio II (Anna Kiers): A+=1, A=14, A-=3
+   131	LIN165 - Applied Linguistics (Sophia Minnillo): A+=11, A=7, A-=0
+   132	MAE259 - Mod Manufacturing Tech (Barbara Linke): A+=4, A=12, A-=4
+   133	MCN261 - Lactation & Infant Nutri (Lauren Au): A+=16, A=2, A-=0
+   134	MCN264A - Principles Adult Edu Sem (Sharon Economides): A+=12, A=4, A-=0
+   135	MCN265Y - Lactation Management (Laurie Nommsen-Rivers): A+=12, A=4, A-=0
+   136	MGB412 - International Marketing (Kay Peters): A+=0, A=4, A-=6
+   137	MGB419V - Bus Strat Consulting (Kelly Wilson): A+=9, A=3, A-=0
+   138	MGB423 - Leader as Coach (Doy Charnsupharindr): A+=1, A=12, A-=1
+   139	MGB490 - Topics in Business (Vince Vengapally): A+=7, A=7, A-=4
+   140	MGB490BV - Topics in Management (Vasundhara Unnava): A+=0, A=6, A-=8
+   141	MGB490V - Topics in Gen Mgmt (James Wunderman): A+=5, A=6, A-=2
+   142	MGP401BY - Org Strategy & Structure (Naga Lakshmi Damaraju): A+=5, A=20, A-=5
+   143	MGP419V - Bus Strat Consulting (Kelly Wilson): A+=8, A=2, A-=0
+   144	MGP456 - Personal Branding (Vanessa Errecarte): A+=10, A=14, A-=0
+   145	MGP490BV - Topics in Management (Vasundhara Unnava): A+=0, A=9, A-=8
+   146	MGT150 - Intro to Management (Jane Harrington): A+=2, A=24, A-=6
+   147	MGT290 - Topics in Gen Mgmt (Hanumantha Unnava): A+=0, A=19, A-=0
+   148	MGT290 - Topics in Gen Mgmt (Hemant Vaidya): A+=15, A=8, A-=0
+   149	MGT290 - Topics in Gen Mgmt (Julie Morris): A+=8, A=14, A-=2
+   150	MGT402A - Markets & the Firm (Victor Stango): A+=0, A=38, A-=1
+   151	MGT423 - Leader as Coach (Doy Charnsupharindr): A+=0, A=8, A-=2
+   152	MGT456 - Personal Branding (Vanessa Errecarte): A+=13, A=13, A-=0
+   153	MGV246V - Negotiations in Orgs (Gareth Keeves): A+=0, A=18, A-=4
+   154	MSC022B - Tactical Leadership (Jesse Peterson): A+=9, A=3, A-=0
+   155	MUS131A - Voice (Jonathan Nadel): A+=2, A=11, A-=0
+   156	MUS203 - Music Composition (Kurt Rohde): A+=0, A=13, A-=0
+   157	NAS005 - Intro to NA Lit (Briki Cajandig): A+=21, A=4, A-=0
+   158	NAS005 - Intro to NA Lit (Yesenia Trevino): A+=0, A=22, A-=3
+   159	NAS005A - Writer's Workshop (Jason Tena-Encarnacion): A+=17, A=0, A-=0
+   160	NAS165 - Keepers of the Flame (Beth Rose Middleton Manning): A+=0, A=29, A-=2
+   161	NRS220 - Social Determinants (Piri Ackerman): A+=0, A=102, A-=4
+   162	NRS279V - Behavioral Health (Elizabeth Rice): A+=0, A=24, A-=0
+   163	NRS280V - Prof Practice in Health (Charleen Singh): A+=0, A=21, A-=1
+   164	NRS283AV - Diagnostic Reasoning A (Janet Meda): A+=0, A=14, A-=1
+   165	NRS302 - Emerging Technologies (Amy Nichols): A+=0, A=13, A-=0
+   166	NRS307 - Family Centered Comm (Victoria Jackson): A+=0, A=13, A-=0
+   167	NRS321CY - PMHNP Role Development (Elizabeth Rice): A+=15, A=17, A-=0
+   168	NRS323BV - Psychothrpy Lifespan II (Lynda Creighton-Wong): A+=32, A=0, A-=0
+   169	NRS352V - Org and System Change (Alex Fauer): A+=0, A=18, A-=6
+   170	NRS353V - Improving Health (FadumaSara Ali): A+=18, A=9, A-=1
+   171	NRS429B - Collaborative Practice B (Mary Gallagher): A+=0, A=44, A-=0
+   172	NSC219 - Stats for Neuroscience (Alexander Nord): A+=0, A=15, A-=0
+   173	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): A+=15, A=6, A-=0
+   174	PBI210 - Plant Ecophysiology (Maciej Zwieniecki): A+=0, A=12, A-=0
+   175	PHA205 - Problems in Pharmacology (Johannes Hell): A+=4, A=14, A-=0
+   176	PHA207 - Drug Discovery & Dev (Heike Wulff): A+=3, A=24, A-=0
+   177	PLS225 - Quantitative Genetics (Steven Knapp): A+=6, A=6, A-=0
+   178	PSC124 - Comparative Neuroanatomy (Gregg Recanzone): A+=4, A=10, A-=1
+   179	PSC182 - Laboratory Research (Alison Ledgerwood): A+=2, A=5, A-=4
+   180	PSC182 - Laboratory Research (Dulce Westberg): A+=0, A=10, A-=0
+   181	PSC182 - Laboratory Research (Gail Goodman): A+=9, A=2, A-=0
+   182	PSC182 - Laboratory Research (Lisa Oakes): A+=0, A=19, A-=0
+   183	PSC204B - Causal Model Corr Data (Philippe Rast): A+=19, A=0, A-=0
+   184	PSC212A - Dev Psych: Cog/Per (Yuko Munakata): A+=1, A=6, A-=6
+   185	PSC290 - Seminar (Eliza Bliss-Moreau): A+=4, A=9, A-=1
+   186	PUN022 - Intermediate Punjabi (Kuldeep Singh): A+=3, A=12, A-=0
+   187	SAS006B - Career Discovery (Fernanda Valdovinos): A+=12, A=4, A-=0
+   188	SAS006B - Career Discovery (Fernanda Valdovinos): A+=15, A=1, A-=0
+   189	SAS006B - Career Discovery (Fernanda Valdovinos): A+=7, A=11, A-=0
+   190	SOC195 - Seminar (Ryken Grattet): A+=8, A=2, A-=0
+   191	SOC280 - Organiz & Institut (Thomas Beamish): A+=3, A=11, A-=0
+   192	SPA002 - Elementary Spanish (Eva Banuelos): A+=7, A=9, A-=2
+   193	SPA003 - Elementary Spanish (Serena Williams): A+=4, A=10, A-=2
+   194	SPA032 - Heritage Spanish II (Eva Banuelos): A+=12, A=3, A-=1
+   195	SPH209 - Epi Hist in Publc Health (Irva Hertz-Picciotto): A+=6, A=6, A-=0
+   196	SSC222 - Global Carbon Cycle (William Horwath): A+=0, A=13, A-=0
+   197	STA141C - Adv Stat Computing (Jairo Fuquene Patino): A+=47, A=2, A-=1
+   198	STA141C - Adv Stat Computing (Jairo Fuquene Patino): A+=51, A=1, A-=0
+   199	STA232B - Applied Statistics II (Jiming Jiang): A+=3, A=5, A-=3
+   200	STS011 - Science on Trial (Gerardo Con Diaz): A+=2, A=17, A-=0
+   201	STS129 - Global Health & Medicine (Joseph Dumit): A+=0, A=13, A-=1
+   202	URD002 - Elementary Urdu (Shagufta Fatema): A+=13, A=9, A-=0
+   203	UWP001 - Academic Literacies (Aaron Halverson): A+=22, A=2, A-=1
+   204	UWP001 - Academic Literacies (Andrea Yang): A+=1, A=22, A-=2
+   205	UWP001 - Academic Literacies (Daniel Melzer): A+=0, A=22, A-=3
+   206	UWP001 - Academic Literacies (Daniel Melzer): A+=24, A=1, A-=0
+   207	UWP001 - Academic Literacies (Melina Rodriguez): A+=25, A=0, A-=0
+   208	UWP007M - Multilingual Writing (Lindsey de Genova): A+=10, A=2, A-=6
+   209	UWP007Y - Reading & Writing (Jillian Azevedo): A+=1, A=15, A-=2
+   210	UWP102B - Writing in Bio Sci (Brenda Rinard): A+=0, A=22, A-=2
+   211	UWP102B - Writing in Bio Sci (Brenda Rinard): A+=0, A=23, A-=1
+   212	UWP102E - Writing in Engineering (Katie Evans): A+=9, A=13, A-=3
+   213	UWP104A - Business Writing (Andrew Testa): A+=0, A=21, A-=0
+   214	UWP104A - Business Writing (Andrew Testa): A+=0, A=25, A-=0
+   215	UWP104E - Writing in Science (Katharine Rodger): A+=1, A=23, A-=1
+   216	UWP104F - Writing in Health Prof (Cassie Hemstrom): A+=2, A=21, A-=1
+   217	UWP104FV - Writing in Health Prof (Brendan Johnston): A+=8, A=15, A-=1
+   218	WFC168 - Climate Change Ecology (Eric Post): A+=15, A=5, A-=0
+   219	WFC168 - Climate Change Ecology (Eric Post): A+=20, A=0, A-=0
+   220	WFC168 - Climate Change Ecology (Eric Post): A+=20, A=5, A-=0
+   221	WFC168 - Climate Change Ecology (Eric Post): A+=9, A=7, A-=0
+3. TOP 10 INSTRUCTORS WITH MOST PERFECT A CLASSES
+==================================================
+ 1. Mohamed Hafez: 21 classes
+ 2. Tonya Kuhl: 19 classes
+ 3. Jonathan Nadel: 18 classes
+ 4. Joseph Dumit: 17 classes
+ 5. Sarah Faye: 15 classes
+ 6. Zoila Munoz-Diaz: 14 classes
+ 7. Vivian Vuong: 13 classes
+ 8. Natalia Caporale: 12 classes
+ 9. Nancy Tseng: 12 classes
+10. Eric Post: 12 classes
+4. SUMMARY STATISTICS
+=====================
+Total classes with only A+/A/A- grades: 2242
+Total classes analyzed: 47395
+Percentage of perfect A classes: 4.00%
+Total students receiving grades in these classes:
+  A+: 14202
+  A:  25901
+  A-: 2910
+  Total: 43013 students
+5. QUARTERS ANALYZED
+====================
+FQ2016
+FQ2017
+FQ2018
+FQ2019
+FQ2020
+FQ2022
+FQ2023
+FQ2024
+SQ2017
+SQ2018
+SQ2019
+SQ2020
+SQ2023
+SQ2025
+WQ2017
+WQ2018
+WQ2019
+WQ2020
+WQ2024
+WQ2025

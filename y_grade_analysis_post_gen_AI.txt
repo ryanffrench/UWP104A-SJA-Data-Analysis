@@ -1,0 +1,142 @@
+================================
+Y GRADE ANALYSIS REPORT
+================================
+
+1. TOTAL Y GRADES PER QUARTER
+==============================
+FQ2022: 322 Y grades across 1694 courses
+FQ2023: 442 Y grades across 2065 courses
+FQ2024: 172 Y grades across 672 courses
+SQ2023: 319 Y grades across 1610 courses
+SQ2025: 328 Y grades across 644 courses
+WQ2024: 257 Y grades across 1253 courses
+WQ2025: 259 Y grades across 546 courses
+2. TOP 10 CLASSES WITH MOST Y GRADES (PER QUARTER)
+===================================================
+Quarter: FQ2022
+-----------------
+     1	BIS002A - Introduction to Biology (Anne Britt): 6 Y grades
+     2	CHE001V - Prep for General Chem (Ozcan Gulacar): 5 Y grades
+     3	VEN003 - Intro/Wine Making (James Lapsley): 4 Y grades
+     4	ECN001A - Princ Of Microecon (Gregory Clark): 4 Y grades
+     5	BIS002B - Introduction to Biology (Robert Furrow): 4 Y grades
+     6	POL121 - Scientific Study War (Brandon Kinne): 3 Y grades
+     7	PLS007V - Just Coffee (Patrick Brown): 3 Y grades
+     8	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): 3 Y grades
+     9	NPB110A - Molecules to Individuals (Aldrin Gomes): 3 Y grades
+    10	MGT011A - Elementary Accounting (Muneet Bains): 3 Y grades
+Quarter: FQ2023
+-----------------
+     1	BIS002B - Introduction to Biology (Laci Gerhart): 9 Y grades
+     2	CHE002A - General Chemistry (Ozcan Gulacar): 8 Y grades
+     3	MAT016B - Short Calculus (Dowman Varn): 5 Y grades
+     4	CHE002C - General Chemistry (Julia Chamberlain): 5 Y grades
+     5	CHE002A - General Chemistry (Abdelbasset Farahat): 5 Y grades
+     6	BIS002C - Introduction to Biology (Joel Ledford): 5 Y grades
+     7	BIS002A - Introduction to Biology (Anne Britt): 5 Y grades
+     8	SOC151 - The Criminal Justice Sys (Charlotte Siggins): 4 Y grades
+     9	PSC001Y - General Psychology (Steven Luck): 4 Y grades
+    10	NUT010 - Discov & Concepts (Debbie Fetter): 4 Y grades
+Quarter: FQ2024
+-----------------
+     1	HIS017A - History Of The U S (John Smolenski): 18 Y grades
+     2	SOC152 - Juvenile Delinquency (Charlotte Siggins): 14 Y grades
+     3	HIS017B - History Of The U S (Timothy Orr): 12 Y grades
+     4	POL003 - Internatl Relations (Brandon Kinne): 5 Y grades
+     5	CHE002C - General Chemistry (Julia Chamberlain): 5 Y grades
+     6	ECS032C - Impl Data Struct in C (Nicholas Weaver): 4 Y grades
+     7	ABI102 - Animal Biochem & Metabol (Michael Mienaltowski): 4 Y grades
+     8	UWP101Y - Advanced Composition (Jessica Gray): 3 Y grades
+     9	PHI013G - Minds Brains Comp w/Disc (Jonathan Dorsey): 3 Y grades
+    10	HDE130 - Dev Psychopathology (Nicole Hollis): 3 Y grades
+Quarter: SQ2023
+-----------------
+     1	BIS002B - Introduction to Biology (Richard Grosberg): 11 Y grades
+     2	PLS006V - Flower Power (Johann Lieth): 6 Y grades
+     3	CHE002B - General Chemistry (Whitney Duim): 6 Y grades
+     4	BIS002A - Introduction to Biology (Satoshi Namekawa): 6 Y grades
+     5	MIC102 - Intro Microbiology (Miriam Markum): 4 Y grades
+     6	MAT021B - Calculus (Anna Parlak): 4 Y grades
+     7	MAT017B - Calculus for BioSci (John Challenor): 4 Y grades
+     8	MAT017A - Calculus for BioSci (Zhanerke Temirgali): 4 Y grades
+     9	ENG006 - Engineering Prob Solving (Diego Yankelevich): 4 Y grades
+    10	VME057V - Global Pop, Health, Envo (Woutrina Smith): 3 Y grades
+Quarter: SQ2025
+-----------------
+     1	VEN003 - Intro/Wine Making (Zoran Ljepovic): 54 Y grades
+     2	HDE100C - Adulthood & Aging (Nicole Hollis): 38 Y grades
+     3	ECS162 - Web Programming (Christopher Nitta): 15 Y grades
+     4	CRD162 - People, Work & Technol (Marjorie Visser): 12 Y grades
+     5	COM007 - Lit of Fantsy & Supernat (Michiko Suzuki): 10 Y grades
+     6	PSC125 - Behavioral Epigenetics (Danielle Stolzenberg): 9 Y grades
+     7	HIS004B - Western Civilization (Kathy Stuart): 9 Y grades
+     8	PLS021V - Computers in Technology (George Sellu): 8 Y grades
+     9	JPN106 - Japanese Culture & Film (David Gundry): 8 Y grades
+    10	HIS017B - History Of The U S (Yutong Zhan): 8 Y grades
+Quarter: WQ2024
+-----------------
+     1	CHE002A - General Chemistry (Abdelbasset Farahat): 10 Y grades
+     2	BIS002B - Introduction to Biology (Susan Keen): 5 Y grades
+     3	BIS002A - Introduction to Biology (Marc Facciotti): 5 Y grades
+     4	NUT010 - Discov & Concepts (Debbie Fetter): 4 Y grades
+     5	NPB101 - Systemic Physiology (Natalia Caporale): 4 Y grades
+     6	CLA010 - Gk, Rom & Near East Myth (Shennan Hutton): 4 Y grades
+     7	BIS101 - Genes & Gene Expression (Luca Comai): 4 Y grades
+     8	STA013 - Elementary Statistics (JoAnna Whitener): 3 Y grades
+     9	PLS006V - Flower Power (Imtiyaz Khanday): 3 Y grades
+    10	MAT021A - Calculus (Janko Gravner): 3 Y grades
+Quarter: WQ2025
+-----------------
+     1	COM006 - Myths & Legends (Cheryl Ross): 23 Y grades
+     2	CMN152V - Soc Sci with Online Data (Seth Frey): 17 Y grades
+     3	PHI012 - Intro to Symbol Logic (Jonathan Dorsey): 16 Y grades
+     4	PHY045 - Computational Physics (Shirley Chiang): 12 Y grades
+     5	CMN003V - Interpersonal Comm Comp (Heather Hether): 12 Y grades
+     6	ECS034 - Dev in UNIX & C++ (Ty Feng): 11 Y grades
+     7	POL100 - Local Govt & Politics (Scott Mackenzie): 9 Y grades
+     8	MDS477 - Brain & Behavior (Elva Diaz): 8 Y grades
+     9	ANT152 - Human Evolution (Hyunwoo Jung): 6 Y grades
+    10	PSC154V - Psychology of Emotion (Eliza Bliss-Moreau): 5 Y grades
+3. COURSES WITH Y GRADES vs TOTAL COURSES PER QUARTER
+======================================================
+FQ2022: 242 courses with Y grades / 1949 total courses (12.4%)
+FQ2023: 295 courses with Y grades / 1974 total courses (14.9%)
+FQ2024: 96 courses with Y grades / 1939 total courses (5.0%)
+SQ2023: 230 courses with Y grades / 1898 total courses (12.1%)
+SQ2025: 92 courses with Y grades / 1917 total courses (4.8%)
+WQ2024: 179 courses with Y grades / 1936 total courses (9.2%)
+WQ2025: 78 courses with Y grades / 1931 total courses (4.0%)
+4. TOTAL Y GRADES PER YEAR
+==========================
+2022: 322 Y grades across 1694 courses (of 13643 total)
+2023: 761 Y grades across 3675 courses (of 27104 total)
+2024: 429 Y grades across 1925 courses (of 27125 total)
+2025: 587 Y grades across 1190 courses (of 26936 total)
+5. TOP 10 INSTRUCTORS WITH MOST Y GRADES (ALL QUARTERS)
+========================================================
+ 1. Zoran Ljepovic: 56 Y grades
+ 2. Nicole Hollis: 45 Y grades
+ 3. Jonathan Dorsey: 30 Y grades
+ 4. Cheryl Ross: 24 Y grades
+ 5. Charlotte Siggins: 21 Y grades
+ 6. Seth Frey: 20 Y grades
+ 7. Timothy Orr: 19 Y grades
+ 8. John Smolenski: 19 Y grades
+ 9. George Sellu: 17 Y grades
+10. Debbie Fetter: 17 Y grades
+6. SUMMARY STATISTICS
+=====================
+Total Y grades across all quarters: 2099
+Total courses with Y grades: 1212
+Total courses (all): 13544
+Percentage of courses with Y grades: 8.00%
+Average Y grades per course (with Y>0): 1.73
+7. QUARTERS ANALYZED
+====================
+FQ2022
+FQ2023
+FQ2024
+SQ2023
+SQ2025
+WQ2024
+WQ2025

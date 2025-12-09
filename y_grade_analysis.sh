@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Usage: ./analyze_y_grades.sh course_data/*.json
 
 if [ $# -eq 0 ]; then
@@ -18,17 +17,35 @@ echo "=================================="
 echo ""
 echo "Processing files..."
 
-# Combine all files and filter for Y > 0
+# Combine all files
 for file in "$@"; do
     echo "  - $(basename "$file")"
     
     # Check if file is not empty (skip empty arrays)
     file_size=$(jq 'length' "$file" 2>/dev/null || echo "0")
     if [ "$file_size" -gt 0 ]; then
-        jq -c '.[] | select(.Y > 0)' "$file" 2>/dev/null >> "$TEMP_DIR/all_y_courses.json" || true
-        jq -c '.[]' "$file" 2>/dev/null >> "$TEMP_DIR/all_courses.json" || true
+        jq -c '.[]' "$file" 2>/dev/null >> "$TEMP_DIR/all_courses_raw.json" || true
     fi
 done
+
+# Group courses by quarter + course_id + instructor and sum Y grades
+# This ensures multiple sections of same course taught by same instructor = 1 course
+if [ -f "$TEMP_DIR/all_courses_raw.json" ]; then
+    jq -s 'group_by([.quarter, .course_id, .instructor]) | 
+           map({
+             quarter: .[0].quarter,
+             course_id: .[0].course_id,
+             name: .[0].name,
+             instructor: .[0].instructor,
+             Y: map(.Y) | add
+           }) | .[]' "$TEMP_DIR/all_courses_raw.json" > "$TEMP_DIR/all_courses_grouped.json"
+    
+    # Create all_courses.json (all grouped courses)
+    jq -c '.' "$TEMP_DIR/all_courses_grouped.json" > "$TEMP_DIR/all_courses.json"
+    
+    # Create all_y_courses.json (only courses with Y > 0)
+    jq -c 'select(.Y > 0)' "$TEMP_DIR/all_courses_grouped.json" > "$TEMP_DIR/all_y_courses.json"
+fi
 
 # Check if we have any data
 if [ ! -f "$TEMP_DIR/all_y_courses.json" ] || [ ! -s "$TEMP_DIR/all_y_courses.json" ]; then

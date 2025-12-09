@@ -4,26 +4,26 @@ Y GRADE ANALYSIS REPORT
 
 1. TOTAL Y GRADES PER QUARTER
 ==============================
-FQ2016: 141 Y grades across 3244 courses
-FQ2017: 190 Y grades across 2891 courses
-FQ2018: 145 Y grades across 3038 courses
-FQ2019: 195 Y grades across 2533 courses
-FQ2020: 683 Y grades across 5035 courses
-FQ2022: 322 Y grades across 10045 courses
-FQ2023: 442 Y grades across 13265 courses
-FQ2024: 172 Y grades across 4620 courses
-SQ2017: 175 Y grades across 2455 courses
-SQ2018: 141 Y grades across 2607 courses
-SQ2019: 154 Y grades across 2092 courses
-SQ2020: 372 Y grades across 2732 courses
-SQ2023: 319 Y grades across 9730 courses
-SQ2025: 328 Y grades across 4585 courses
-WQ2017: 278 Y grades across 2728 courses
-WQ2018: 173 Y grades across 2446 courses
-WQ2019: 211 Y grades across 3306 courses
-WQ2020: 250 Y grades across 2145 courses
-WQ2024: 257 Y grades across 7840 courses
-WQ2025: 259 Y grades across 4445 courses
+FQ2016: 141 Y grades across 518 courses
+FQ2017: 190 Y grades across 434 courses
+FQ2018: 145 Y grades across 490 courses
+FQ2019: 195 Y grades across 406 courses
+FQ2020: 683 Y grades across 798 courses
+FQ2022: 322 Y grades across 1694 courses
+FQ2023: 442 Y grades across 2065 courses
+FQ2024: 172 Y grades across 672 courses
+SQ2017: 175 Y grades across 392 courses
+SQ2018: 141 Y grades across 413 courses
+SQ2019: 154 Y grades across 336 courses
+SQ2020: 372 Y grades across 455 courses
+SQ2023: 319 Y grades across 1610 courses
+SQ2025: 328 Y grades across 644 courses
+WQ2017: 278 Y grades across 434 courses
+WQ2018: 173 Y grades across 392 courses
+WQ2019: 211 Y grades across 532 courses
+WQ2020: 250 Y grades across 343 courses
+WQ2024: 257 Y grades across 1253 courses
+WQ2025: 259 Y grades across 546 courses
 2. TOP 10 CLASSES WITH MOST Y GRADES (PER QUARTER)
 ===================================================
 Quarter: FQ2016
@@ -88,40 +88,40 @@ Quarter: FQ2020
     10	ARE172 - Financial Mgmt of Firm (Ryan Goodrich): 19 Y grades
 Quarter: FQ2022
 -----------------
-     1	VEN003 - Intro/Wine Making (James Lapsley): 4 Y grades
-     2	POL121 - Scientific Study War (Brandon Kinne): 3 Y grades
-     3	MAT012 - Precalculus (William Tavernetti): 3 Y grades
-     4	GEL010 - Global Environ Change (Isabel Montanez): 3 Y grades
-     5	ENL133 - 19th Cen Brit Lit (Jennifer Tinonga): 3 Y grades
-     6	CHE008A - Organic Chemistry-Brief (Max Helix): 3 Y grades
-     7	POL140D - When Institutions Fail (McCage Griffiths): 2 Y grades
-     8	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): 2 Y grades
-     9	NUT010 - Discov & Concepts (Debbie Fetter): 2 Y grades
-    10	NPB110A - Molecules to Individuals (Aldrin Gomes): 2 Y grades
+     1	BIS002A - Introduction to Biology (Anne Britt): 6 Y grades
+     2	CHE001V - Prep for General Chem (Ozcan Gulacar): 5 Y grades
+     3	VEN003 - Intro/Wine Making (James Lapsley): 4 Y grades
+     4	ECN001A - Princ Of Microecon (Gregory Clark): 4 Y grades
+     5	BIS002B - Introduction to Biology (Robert Furrow): 4 Y grades
+     6	POL121 - Scientific Study War (Brandon Kinne): 3 Y grades
+     7	PLS007V - Just Coffee (Patrick Brown): 3 Y grades
+     8	NUT011 - Curr Topics in Nutrition (Angela Zivkovic): 3 Y grades
+     9	NPB110A - Molecules to Individuals (Aldrin Gomes): 3 Y grades
+    10	MGT011A - Elementary Accounting (Muneet Bains): 3 Y grades
 Quarter: FQ2023
 -----------------
-     1	SOC151 - The Criminal Justice Sys (Charlotte Siggins): 4 Y grades
-     2	NUT010 - Discov & Concepts (Debbie Fetter): 4 Y grades
-     3	MAT016B - Short Calculus (Dowman Varn): 4 Y grades
-     4	HDE012 - Human Sexuality (Lisa Rapalyea): 4 Y grades
-     5	CMN170V - Digt Tech & Socil Change (Martin Hilbert): 4 Y grades
-     6	PSC001 - General Psychology (Kelly King): 3 Y grades
-     7	NPB101 - Systemic Physiology (Mark Huising): 3 Y grades
-     8	MUS116 - Music of the Beatles (Mika Pelo): 3 Y grades
-     9	MAT016A - Short Calculus (William Tavernetti): 3 Y grades
-    10	MAT000D - Intermed Algebra (Jennifer Healey): 3 Y grades
+     1	BIS002B - Introduction to Biology (Laci Gerhart): 9 Y grades
+     2	CHE002A - General Chemistry (Ozcan Gulacar): 8 Y grades
+     3	MAT016B - Short Calculus (Dowman Varn): 5 Y grades
+     4	CHE002C - General Chemistry (Julia Chamberlain): 5 Y grades
+     5	CHE002A - General Chemistry (Abdelbasset Farahat): 5 Y grades
+     6	BIS002C - Introduction to Biology (Joel Ledford): 5 Y grades
+     7	BIS002A - Introduction to Biology (Anne Britt): 5 Y grades
+     8	SOC151 - The Criminal Justice Sys (Charlotte Siggins): 4 Y grades
+     9	PSC001Y - General Psychology (Steven Luck): 4 Y grades
+    10	NUT010 - Discov & Concepts (Debbie Fetter): 4 Y grades
 Quarter: FQ2024
 -----------------
-     1	SOC152 - Juvenile Delinquency (Charlotte Siggins): 14 Y grades
-     2	ECS032C - Impl Data Struct in C (Nicholas Weaver): 4 Y grades
-     3	ABI102 - Animal Biochem & Metabol (Michael Mienaltowski): 4 Y grades
-     4	UWP101Y - Advanced Composition (Jessica Gray): 3 Y grades
-     5	HIS017A - History Of The U S (John Smolenski): 3 Y grades
-     6	HDE130 - Dev Psychopathology (Nicole Hollis): 3 Y grades
-     7	STS130B - History of Biology (Melissa Wills): 2 Y grades
-     8	POL003 - Internatl Relations (Brandon Kinne): 2 Y grades
-     9	MUS116 - Music of the Beatles (Mika Pelo): 2 Y grades
-    10	MCB162 - Human Genetics Genomics (Sean Burgess): 2 Y grades
+     1	HIS017A - History Of The U S (John Smolenski): 18 Y grades
+     2	SOC152 - Juvenile Delinquency (Charlotte Siggins): 14 Y grades
+     3	HIS017B - History Of The U S (Timothy Orr): 12 Y grades
+     4	POL003 - Internatl Relations (Brandon Kinne): 5 Y grades
+     5	CHE002C - General Chemistry (Julia Chamberlain): 5 Y grades
+     6	ECS032C - Impl Data Struct in C (Nicholas Weaver): 4 Y grades
+     7	ABI102 - Animal Biochem & Metabol (Michael Mienaltowski): 4 Y grades
+     8	UWP101Y - Advanced Composition (Jessica Gray): 3 Y grades
+     9	PHI013G - Minds Brains Comp w/Disc (Jonathan Dorsey): 3 Y grades
+    10	HDE130 - Dev Psychopathology (Nicole Hollis): 3 Y grades
 Quarter: SQ2017
 -----------------
      1	EEC180B - Digital Systems II (Bevan Baas): 32 Y grades
@@ -172,28 +172,28 @@ Quarter: SQ2020
     10	ECS036A - Programming (Aaron Kaloti): 10 Y grades
 Quarter: SQ2023
 -----------------
-     1	PLS006V - Flower Power (Johann Lieth): 6 Y grades
-     2	MIC102 - Intro Microbiology (Miriam Markum): 4 Y grades
-     3	CHE008A - Organic Chemistry-Brief (Sarah Lievens): 3 Y grades
-     4	CHE002B - General Chemistry (Whitney Duim): 3 Y grades
-     5	VME057V - Global Pop, Health, Envo (Woutrina Smith): 2 Y grades
-     6	STA013 - Elementary Statistics (Maxime Pouokam): 2 Y grades
-     7	RST070 - Religion & Language (Wendy Terry): 2 Y grades
-     8	PLS021V - Computers in Technology (George Sellu): 2 Y grades
-     9	MUS003A - Intro Music Theory Pt 1 (Laurie San Martin): 2 Y grades
-    10	MMI188A - Human Immunology (Jose Torres): 2 Y grades
+     1	BIS002B - Introduction to Biology (Richard Grosberg): 11 Y grades
+     2	PLS006V - Flower Power (Johann Lieth): 6 Y grades
+     3	CHE002B - General Chemistry (Whitney Duim): 6 Y grades
+     4	BIS002A - Introduction to Biology (Satoshi Namekawa): 6 Y grades
+     5	MIC102 - Intro Microbiology (Miriam Markum): 4 Y grades
+     6	MAT021B - Calculus (Anna Parlak): 4 Y grades
+     7	MAT017B - Calculus for BioSci (John Challenor): 4 Y grades
+     8	MAT017A - Calculus for BioSci (Zhanerke Temirgali): 4 Y grades
+     9	ENG006 - Engineering Prob Solving (Diego Yankelevich): 4 Y grades
+    10	VME057V - Global Pop, Health, Envo (Woutrina Smith): 3 Y grades
 Quarter: SQ2025
 -----------------
      1	VEN003 - Intro/Wine Making (Zoran Ljepovic): 54 Y grades
      2	HDE100C - Adulthood & Aging (Nicole Hollis): 38 Y grades
      3	ECS162 - Web Programming (Christopher Nitta): 15 Y grades
-     4	PSC125 - Behavioral Epigenetics (Danielle Stolzenberg): 9 Y grades
-     5	PLS021V - Computers in Technology (George Sellu): 8 Y grades
-     6	JPN106 - Japanese Culture & Film (David Gundry): 8 Y grades
-     7	MDS474 - Cardio, Pulm, Renal Sys (Jeremy Chien): 7 Y grades
-     8	CRD162 - People, Work & Technol (Marjorie Visser): 7 Y grades
-     9	ANT141C - People of the Arctic (Christyann Darwent): 7 Y grades
-    10	WMS020 - Cult Rep of Gender (Beenash Jafri): 6 Y grades
+     4	CRD162 - People, Work & Technol (Marjorie Visser): 12 Y grades
+     5	COM007 - Lit of Fantsy & Supernat (Michiko Suzuki): 10 Y grades
+     6	PSC125 - Behavioral Epigenetics (Danielle Stolzenberg): 9 Y grades
+     7	HIS004B - Western Civilization (Kathy Stuart): 9 Y grades
+     8	PLS021V - Computers in Technology (George Sellu): 8 Y grades
+     9	JPN106 - Japanese Culture & Film (David Gundry): 8 Y grades
+    10	HIS017B - History Of The U S (Yutong Zhan): 8 Y grades
 Quarter: WQ2017
 -----------------
      1	ECS30 - Programming&Prob Solving (Robert Gysel): 141 Y grades
@@ -244,28 +244,28 @@ Quarter: WQ2020
     10	MAT017A - Calculus for BioSci (Korana Burke): 5 Y grades
 Quarter: WQ2024
 -----------------
-     1	NUT010 - Discov & Concepts (Debbie Fetter): 4 Y grades
-     2	NPB101 - Systemic Physiology (Natalia Caporale): 4 Y grades
-     3	CLA010 - Gk, Rom & Near East Myth (Shennan Hutton): 4 Y grades
-     4	PLS006V - Flower Power (Imtiyaz Khanday): 3 Y grades
-     5	MAT012 - Precalculus (Korana Burke): 3 Y grades
-     6	BIS101 - Genes & Gene Expression (Luca Comai): 3 Y grades
-     7	WLD951 - Wkload-Chemistry Co 2A (Jade Pratt): 2 Y grades
-     8	WLD951 - Wkload-Chemistry Co 2A (Enoch Baldwin): 2 Y grades
-     9	WLD911 - Wkload - Math Co 16A (Sara Hawkes): 2 Y grades
-    10	PSC001 - General Psychology (Priscilla San Souci): 2 Y grades
+     1	CHE002A - General Chemistry (Abdelbasset Farahat): 10 Y grades
+     2	BIS002B - Introduction to Biology (Susan Keen): 5 Y grades
+     3	BIS002A - Introduction to Biology (Marc Facciotti): 5 Y grades
+     4	NUT010 - Discov & Concepts (Debbie Fetter): 4 Y grades
+     5	NPB101 - Systemic Physiology (Natalia Caporale): 4 Y grades
+     6	CLA010 - Gk, Rom & Near East Myth (Shennan Hutton): 4 Y grades
+     7	BIS101 - Genes & Gene Expression (Luca Comai): 4 Y grades
+     8	STA013 - Elementary Statistics (JoAnna Whitener): 3 Y grades
+     9	PLS006V - Flower Power (Imtiyaz Khanday): 3 Y grades
+    10	MAT021A - Calculus (Janko Gravner): 3 Y grades
 Quarter: WQ2025
 -----------------
-     1	ECS034 - Dev in UNIX & C++ (Ty Feng): 11 Y grades
-     2	CMN152V - Soc Sci with Online Data (Seth Frey): 11 Y grades
-     3	POL100 - Local Govt & Politics (Scott Mackenzie): 9 Y grades
-     4	MDS477 - Brain & Behavior (Elva Diaz): 8 Y grades
-     5	PHY045 - Computational Physics (Shirley Chiang): 7 Y grades
-     6	COM006 - Myths & Legends (Cheryl Ross): 7 Y grades
-     7	CMN152V - Soc Sci with Online Data (Seth Frey): 6 Y grades
-     8	PHY045 - Computational Physics (Shirley Chiang): 5 Y grades
-     9	PHI161 - Plato (Jan Szaif): 5 Y grades
-    10	PHI012 - Intro to Symbol Logic (Jonathan Dorsey): 5 Y grades
+     1	COM006 - Myths & Legends (Cheryl Ross): 23 Y grades
+     2	CMN152V - Soc Sci with Online Data (Seth Frey): 17 Y grades
+     3	PHI012 - Intro to Symbol Logic (Jonathan Dorsey): 16 Y grades
+     4	PHY045 - Computational Physics (Shirley Chiang): 12 Y grades
+     5	CMN003V - Interpersonal Comm Comp (Heather Hether): 12 Y grades
+     6	ECS034 - Dev in UNIX & C++ (Ty Feng): 11 Y grades
+     7	POL100 - Local Govt & Politics (Scott Mackenzie): 9 Y grades
+     8	MDS477 - Brain & Behavior (Elva Diaz): 8 Y grades
+     9	ANT152 - Human Evolution (Hyunwoo Jung): 6 Y grades
+    10	PSC154V - Psychology of Emotion (Eliza Bliss-Moreau): 5 Y grades
 3. COURSES WITH Y GRADES vs TOTAL COURSES PER QUARTER
 ======================================================
 FQ2016: 74 courses with Y grades / 1560 total courses (4.7%)
@@ -273,32 +273,32 @@ FQ2017: 62 courses with Y grades / 1581 total courses (3.9%)
 FQ2018: 70 courses with Y grades / 1598 total courses (4.4%)
 FQ2019: 58 courses with Y grades / 1569 total courses (3.7%)
 FQ2020: 114 courses with Y grades / 1475 total courses (7.7%)
-FQ2022: 287 courses with Y grades / 4001 total courses (7.2%)
-FQ2023: 379 courses with Y grades / 4085 total courses (9.3%)
-FQ2024: 132 courses with Y grades / 4066 total courses (3.2%)
+FQ2022: 242 courses with Y grades / 1949 total courses (12.4%)
+FQ2023: 295 courses with Y grades / 1974 total courses (14.9%)
+FQ2024: 96 courses with Y grades / 1939 total courses (5.0%)
 SQ2017: 56 courses with Y grades / 1552 total courses (3.6%)
 SQ2018: 59 courses with Y grades / 1596 total courses (3.7%)
 SQ2019: 48 courses with Y grades / 1548 total courses (3.1%)
 SQ2020: 65 courses with Y grades / 1449 total courses (4.5%)
-SQ2023: 278 courses with Y grades / 3676 total courses (7.6%)
-SQ2025: 131 courses with Y grades / 3698 total courses (3.5%)
+SQ2023: 230 courses with Y grades / 1898 total courses (12.1%)
+SQ2025: 92 courses with Y grades / 1917 total courses (4.8%)
 WQ2017: 62 courses with Y grades / 1517 total courses (4.1%)
 WQ2018: 56 courses with Y grades / 1554 total courses (3.6%)
 WQ2019: 76 courses with Y grades / 1578 total courses (4.8%)
 WQ2020: 49 courses with Y grades / 1522 total courses (3.2%)
-WQ2024: 224 courses with Y grades / 3868 total courses (5.8%)
-WQ2025: 127 courses with Y grades / 3902 total courses (3.3%)
+WQ2024: 179 courses with Y grades / 1936 total courses (9.2%)
+WQ2025: 78 courses with Y grades / 1931 total courses (4.0%)
 4. TOTAL Y GRADES PER YEAR
 ==========================
-2016: 141 Y grades across 3244 courses (of 63350 total)
-2017: 643 Y grades across 8074 courses (of 188999 total)
-2018: 459 Y grades across 8091 courses (of 192999 total)
-2019: 560 Y grades across 7931 courses (of 190910 total)
-2020: 1305 Y grades across 9912 courses (of 181502 total)
-2022: 322 Y grades across 10045 courses (of 140035 total)
-2023: 761 Y grades across 22995 courses (of 271635 total)
-2024: 429 Y grades across 12460 courses (of 277690 total)
-2025: 587 Y grades across 9030 courses (of 266000 total)
+2016: 141 Y grades across 518 courses (of 10920 total)
+2017: 643 Y grades across 1260 courses (of 32550 total)
+2018: 459 Y grades across 1295 courses (of 33236 total)
+2019: 560 Y grades across 1274 courses (of 32865 total)
+2020: 1305 Y grades across 1596 courses (of 31122 total)
+2022: 322 Y grades across 1694 courses (of 13643 total)
+2023: 761 Y grades across 3675 courses (of 27104 total)
+2024: 429 Y grades across 1925 courses (of 27125 total)
+2025: 587 Y grades across 1190 courses (of 26936 total)
 5. TOP 10 INSTRUCTORS WITH MOST Y GRADES (ALL QUARTERS)
 ========================================================
  1. Christopher Nitta: 153 Y grades
@@ -314,10 +314,10 @@ WQ2025: 127 courses with Y grades / 3902 total courses (3.3%)
 6. SUMMARY STATISTICS
 =====================
 Total Y grades across all quarters: 5207
-Total courses with Y grades: 2407
-Total courses (all): 47395
-Percentage of courses with Y grades: 5.00%
-Average Y grades per course (with Y>0): 2.16
+Total courses with Y grades: 2061
+Total courses (all): 33643
+Percentage of courses with Y grades: 6.00%
+Average Y grades per course (with Y>0): 2.52
 7. QUARTERS ANALYZED
 ====================
 FQ2016
